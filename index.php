@@ -6,7 +6,7 @@
   	height: 25%;
   	text-align: center;
   }
-  #sub-header{
+  .sub-header{
   	float: left;
   }
   </style>
@@ -15,8 +15,8 @@
  <div id = "banner">
  	<h1>RYAN SCHNEIDERMAN</h1>
  	<div id = "sub-header">
- 		<p>rschneides21@gmail.com</p>
- 		<p>(802) 777 0769</p>
+ 		<p class = "sub-header">rschneides21@gmail.com</p>
+ 		<p class = "sub-header">(802) 777 0769</p>
  	</div>
  </div>
  <a href = "test.php">test</a>
