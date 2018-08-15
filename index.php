@@ -7,6 +7,7 @@
   	text-align: center;
   }
   .sub-header{
+  	text-align: center;
   	float: left;
   }
   </style>
@@ -18,6 +19,16 @@
  		<p class = "sub-header">rschneides21@gmail.com</p>
  		<p class = "sub-header">(802) 777 0769</p>
  	</div>
+ </div>
+ <div id = "second-level">
+ 	<div class = "pic-links">
+ 		<div id = "first-pic">
+ 		</div>
+ 		<div id = "second-pic">
+ 		</div>
+ 		<div id = "third-pic">
+ 		</div>
+ 	</div>	
  </div>
  <a href = "test.php">test</a>
  </body>
