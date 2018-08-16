@@ -30,8 +30,8 @@
  <div id = "banner">
  	<h1>RYAN SCHNEIDERMAN</h1>
  	<p id = "email">rschneides21@gmail.com</p>
- 	<svg height = "10px" width = "1">
- 		<line x1="0" y1="0" x2="0" y2="10"/>
+ 	<svg height = "10" width = "1">
+ 		<line x1="0" y1="0" x2="1" y2="10" style="stroke:rgb(255,0,0);stroke-width:2"/>
  	</svg>
  	<p id = "phone">(802) 777 0769</p>
  </div>
