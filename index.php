@@ -36,8 +36,6 @@
 
   .pic-links{
   	float: left;
-  	width: 638px;
-  	height: 810px;
   }
   #first-pic{
 
@@ -56,14 +54,14 @@
  	</div>	
  </div>
  <div id = "second-level">
- 	<div id = "first-pic" class = "pic-links">
- 		<img src = "web_design_pic.png" width = "638" height = "810">
+ 	<div id = "first-pic">
+ 		<img class = "pic-links" src = "web_design_pic.png" width = "638" height = "auto">
  	</div>
- 	<div id = "second-pic" class = "pic-links">
- 		<img src = "writing.jpeg" width = "638" height = "810">
+ 	<div id = "second-pic">
+ 		<img class = "pic-links" src = "writing.jpeg" width = "638" height = "auto">
  	</div>
- 	<div id = "third-pic" class = "pic-links">
- 		<img src = "bball.jpg" width = "638" height = "810">
+ 	<div id = "third-pic" >
+ 		<img class = "pic-links" src = "bball.jpg" width = "638" height = "auto">
  	</div>
  	</div>	
  </div>
