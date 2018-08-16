@@ -57,13 +57,13 @@
  </div>
  <div id = "second-level">
  	<div id = "first-pic" class = "pic-links">
- 		<img src = "web_design_pic.png">
+ 		<img src = "web_design_pic.png" width = "638" height = "810">
  	</div>
  	<div id = "second-pic" class = "pic-links">
- 		<img src = "writing.jpeg">
+ 		<img src = "writing.jpeg" width = "638" height = "810">
  	</div>
  	<div id = "third-pic" class = "pic-links">
- 		<img src = "bball.jpg">
+ 		<img src = "bball.jpg" width = "638" height = "810">
  	</div>
  	</div>	
  </div>
