@@ -10,14 +10,15 @@
   }
 
   #name{
-  	font-size: 90px;
+  	font-size: 80px;
   	font-weight: 300;
-  	margin-bottom: 40px;
+  	margin-bottom: 30px;
   }
 
   .sub-header{
   	text-align: center;
   	float: left;
+
   }
   #email{
   	padding-left: 33%;
@@ -32,7 +33,9 @@
   #header-line{
   	padding-top: 10px;
   }
-
+  #second-level{
+  	padding-top: 10px;
+  }
 
   #first-pic{
 
