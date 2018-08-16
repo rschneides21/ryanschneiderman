@@ -86,7 +86,7 @@
  </div>
  <div style="position: relative; left: 0; top: 0;">
 		<img src="web_design_pic.png" class="fishes"/>
-		<img src="writing.jpeg" class="fish"/>
+		<img src="writing.jpeg" id = "parallelogram" class="fish"/>
  </div>
  </div>	
 
