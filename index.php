@@ -7,7 +7,7 @@
   	height: 25%;
   	text-align: center;
   	font-family: 'Montserrat', sans-serif;
-  	font-style: Light;
+  	font-weight: 300;
   }
 
   h1{
