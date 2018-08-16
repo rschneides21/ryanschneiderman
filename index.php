@@ -41,18 +41,26 @@
   }
 
   #parallelogram {
+  	display: block;
+  	position:relative;
+  	transform-origin:0 100%;
+  	transform:skewX(-10deg);
+  	overflow:hidden;
 	width: 473px;
 	height: 452px;
-	-webkit-transform: skewX(-10deg);
-	   -moz-transform: skewX(-10deg);
-	     -o-transform: skewX(-10deg);
-	background-size:     cover;    
   }
+  #parallelogram:before{
+  	content:'';
+  	position:absolute;
+  	width:175%; height:100%;
+  	background-image:url('web_design_pic.png');
+  	background-size:cover;
+  	background-position:center;
+  	transform-origin:inherit;
+  	transform:skewX(10deg);
+  }
+  #first-pic{
 
-  #unskewed{
-  	-webkit-transform: skewX(10deg);
-	-moz-transform: skewX(10deg);
-	-o-transform: skewX(10deg);
   }
 
   </style>
@@ -77,7 +85,6 @@
 		<img id = "third-pic" class = "pic-links" src = "bball.jpg" width = "30%" height = "auto">
 	</div>	
  	<div id = "parallelogram" class = "pic-links">
- 		<img id = "unskewed" src = "writing.jpeg">
  	</div>
  </div>	
 
