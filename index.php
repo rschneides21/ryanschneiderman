@@ -7,7 +7,7 @@
   	height: 25%;
   	text-align: center;
   	font-family: 'Montserrat', sans-serif;
-  	color: #1D1D1D;
+  	color: #3E3E3E;
   }
 
   #name{
