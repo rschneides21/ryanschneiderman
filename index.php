@@ -43,9 +43,9 @@
   #parallelogram {
 	width: 150px;
 	height: 100px;
-	-webkit-transform: skew(20deg);
-	   -moz-transform: skew(20deg);
-	     -o-transform: skew(20deg);
+	-webkit-transform: skew(-20deg);
+	   -moz-transform: skew(-20deg);
+	     -o-transform: skew(-20deg);
 	background-image: url("writing.jpeg");
   }
 
