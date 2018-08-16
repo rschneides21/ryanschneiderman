@@ -21,7 +21,7 @@
   	float: left;
   }
   #email{
-  	padding-left: 35%;
+  	padding-left: 33%;
   	padding-right: 10px;
   }
   #phone{
