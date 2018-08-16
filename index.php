@@ -36,8 +36,8 @@
 
   .pic-links{
   	float: left;
-  	width: 638;
-  	height: 810;
+  	width: 638px;
+  	height: 810px;
   }
   #first-pic{
 
