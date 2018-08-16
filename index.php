@@ -7,6 +7,7 @@
   	height: 25%;
   	text-align: center;
   	font-family: 'Montserrat', sans-serif;
+  	color: #1D1D1D;
   }
 
   #name{
@@ -36,8 +37,8 @@
  <div id = "banner">
  	<p id = "Name">RYAN SCHNEIDERMAN</p>
  	<p id = "email" class = "sub-header">rschneides21@gmail.com</p>
- 	<svg height = "53" width = "1" class = "sub-header" id = "header-line">
- 		<line x1="0" y1="0" x2="1" y2="53" style="stroke:#707070;stroke-width:2"/>
+ 	<svg height = "45" width = "1" class = "sub-header" id = "header-line">
+ 		<line x1="0" y1="0" x2="1" y2="45" style="stroke:#707070;stroke-width:2"/>
  	</svg>
  	<p id = "phone" class="sub-header">(802) 777 0769</p>
  </div>
