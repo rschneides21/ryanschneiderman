@@ -21,11 +21,10 @@
   	float: left;
   }
   #email{
-  	padding-left: 35%;
+  	padding-left: 30%;
   	padding-right: 10px;
   }
   #phone{
-  	padding-right: 35%;
   	padding-left: 10px;
   }
   #header-line{
