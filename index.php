@@ -53,7 +53,7 @@
   	content:'';
   	position:absolute;
   	width:175%; height:100%;
-  	background-image:url('web_design_pic.png');
+  	background-image:url('writing.jpg');
   	background-size:cover;
   	background-position:center;
   	transform-origin:inherit;
