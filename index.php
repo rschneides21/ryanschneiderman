@@ -17,9 +17,11 @@
   }
   #email{
   	padding-left: 35%;
+  	padding-right: 10px;
   }
   #phone{
   	padding-right: 35%;
+  	padding-left: 10px;
   }
   </style>
  </head>
