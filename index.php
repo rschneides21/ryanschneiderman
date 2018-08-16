@@ -23,10 +23,12 @@
   #email{
   	padding-left: 33%;
   	padding-right: 10px;
+  	max-width: 50%;
   }
   #phone{
   	padding-left: 10px;
   	padding-right: 35%;
+  	max-width: 50%;
   }
   #header-line{
   	padding-top: 10px;
