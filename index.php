@@ -84,7 +84,7 @@
 	<div>
 		<img id = "third-pic" class = "pic-links" src = "bball.jpg" width = "30%" height = "auto">
 	</div>	
- 	<div id = "parallelogram" class = "pic-links">
+ 	<div id = "parallelogram">
  	</div>
  </div>	
 
