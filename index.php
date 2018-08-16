@@ -52,7 +52,7 @@
  </div>
  <div id = "second-level">
  	<div id = "first-pic" class = "pic-links">
- 		<img src = "web_design_pic">
+ 		<img src = "web_design_pic.png">
  	</div>
  	<div id = "second-pic" class = "pic-links">
  		<img src = "writing.jpeg">
