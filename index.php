@@ -36,6 +36,11 @@
 
   .pic-links{
   	float: left;
+  	width: 640;
+  	height: 810;
+  }
+  #first-pic{
+
   }
   </style>
  </head>
