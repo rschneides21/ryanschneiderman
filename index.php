@@ -1,14 +1,16 @@
 <html>
  <head>
   <title>PHP Test</title>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <style>
   #banner{
   	height: 25%;
   	text-align: center;
+  	font-family: 'Montserrat', sans-serif;
   }
 
   h1{
-  	
+  	font-size: 120px;
   }
 
   .sub-header{
