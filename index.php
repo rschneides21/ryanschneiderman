@@ -47,6 +47,7 @@
 	   -moz-transform: skew(-10deg);
 	     -o-transform: skew(-10deg);
 	background-image: url("writing.jpeg");
+	background-size:     cover;    
   }
 
   #first-pic{
