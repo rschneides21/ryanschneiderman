@@ -73,8 +73,9 @@
  	<div id = "third-pic" >
  		<img class = "pic-links" src = "bball.jpg" width = "30%" height = "auto">
  	</div>
+ 	<div id = "parallelogram" class = "pic-links">
+ 	</div>
  </div>	
- <div id = "parallelogram">
- </div>
+
  </body>
 </html>
