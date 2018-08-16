@@ -34,9 +34,7 @@
   	padding-top: 10px;
   }
 
-  .pic-links{
-  	float: left;
-  }
+
   #first-pic{
 
   }
@@ -57,13 +55,7 @@
  	<div id = "first-pic">
  		<img class = "pic-links" src = "web_design_pic.png" width = "30%" height = "auto">
  	</div>
- 	<div id = "second-pic">
- 		<img class = "pic-links" src = "writing.jpeg" width = "30%" height = "auto">
- 	</div>
- 	<div id = "third-pic" >
- 		<img class = "pic-links" src = "bball.jpg" width = "30%" height = "auto">
- 	</div>
- 	</div>	
+ </div>	
  </div>
  </body>
 </html>
