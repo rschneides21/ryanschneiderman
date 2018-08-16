@@ -14,13 +14,19 @@
   #sub-header{
   	margin: auto;
   }
+  #email{
+  	padding-left: 40%;
+  }
+  #phone{
+  	padding-right: 40%;
+  }
   </style>
  </head>
  <body>
  <div id = "banner">
  	<h1>RYAN SCHNEIDERMAN</h1>
- 	<p class = "sub-header">rschneides21@gmail.com</p>
- 	<p class = "sub-header">(802) 777 0769</p>
+ 	<p id = "email">rschneides21@gmail.com</p>
+ 	<p id = "phone">(802) 777 0769</p>
  </div>
  <div id = "second-level">
  	<div class = "pic-links">
