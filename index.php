@@ -24,10 +24,8 @@
  <body>
  <div id = "banner">
  	<h1>RYAN SCHNEIDERMAN</h1>
- 	<div id = "sub-header">
- 		<p id = "email">rschneides21@gmail.com</p>
- 		<p id = "phone">(802) 777 0769</p>
- 	</div>	
+ 	<p id = "email">rschneides21@gmail.com</p>
+ 	<p id = "phone">(802) 777 0769</p>
  </div>
  <div id = "second-level">
  	<div class = "pic-links">
