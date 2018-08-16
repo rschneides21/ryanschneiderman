@@ -40,6 +40,15 @@
   	float: left;
   }
 
+  #parallelogram {
+	width: 150px;
+	height: 100px;
+	-webkit-transform: skew(20deg);
+	   -moz-transform: skew(20deg);
+	     -o-transform: skew(20deg);
+	background: red;
+  }
+
   #first-pic{
 
   }
@@ -65,6 +74,7 @@
  		<img class = "pic-links" src = "bball.jpg" width = "30%" height = "auto">
  	</div>
  </div>	
+ <div id = "parallelogram">
  </div>
  </body>
 </html>
