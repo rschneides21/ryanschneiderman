@@ -24,7 +24,7 @@
   	padding-left: 10px;
   }
   #header-line{
-  	padding-top: 15px;
+  	padding-top: 10px;
   }
   </style>
  </head>
