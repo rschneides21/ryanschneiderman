@@ -7,10 +7,11 @@
   	height: 25%;
   	text-align: center;
   	font-family: 'Montserrat', sans-serif;
+  	font-style: Light;
   }
 
   h1{
-  	font-size: 120px;
+  	font-size: 100px;
   }
 
   .sub-header{
