@@ -7,11 +7,11 @@
   	height: 25%;
   	text-align: center;
   	font-family: 'Montserrat', sans-serif;
-  	font-weight: 300;
   }
 
-  h1{
-  	font-size: 100px;
+  #name{
+  	font-size: 90px;
+  	font-weight: 300;
   }
 
   .sub-header{
@@ -33,7 +33,7 @@
  </head>
  <body>
  <div id = "banner">
- 	<h1>RYAN SCHNEIDERMAN</h1>
+ 	<p id = "Name">RYAN SCHNEIDERMAN</p>
  	<p id = "email" class = "sub-header">rschneides21@gmail.com</p>
  	<svg height = "53" width = "1" class = "sub-header" id = "header-line">
  		<line x1="0" y1="0" x2="1" y2="53" style="stroke:#707070;stroke-width:2"/>
