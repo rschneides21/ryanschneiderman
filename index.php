@@ -46,12 +46,13 @@
 	-webkit-transform: skewX(-10deg);
 	   -moz-transform: skewX(-10deg);
 	     -o-transform: skewX(-10deg);
-	background-image: url("writing.jpeg");
 	background-size:     cover;    
   }
 
-  #first-pic{
-
+  #unskewed{
+  	-webkit-transform: skewX(10deg);
+	-moz-transform: skewX(10deg);
+	-o-transform: skewX(10deg);
   }
 
   </style>
@@ -76,6 +77,7 @@
 		<img id = "third-pic" class = "pic-links" src = "bball.jpg" width = "30%" height = "auto">
 	</div>	
  	<div id = "parallelogram" class = "pic-links">
+ 		<img id = "unswkewed" src = "writing.jpeg">
  	</div>
  </div>	
 
