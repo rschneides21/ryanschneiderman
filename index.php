@@ -36,6 +36,9 @@
   #second-level{
   	padding-top: 10px;
   }
+  .pic-links{
+  	float: left;
+  }
 
   #first-pic{
 
