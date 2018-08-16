@@ -9,6 +9,7 @@
   .sub-header{
   	text-align: center;
   	float: left;
+  	margin: auto;
   }
   #sub-header{
   	margin: auto;
