@@ -46,7 +46,7 @@
 	-webkit-transform: skew(20deg);
 	   -moz-transform: skew(20deg);
 	     -o-transform: skew(20deg);
-	background: red;
+	background-image: url("writing.jpeg");
   }
 
   #first-pic{
