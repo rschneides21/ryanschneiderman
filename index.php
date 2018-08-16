@@ -4,7 +4,6 @@
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <style>
   #banner{
-  	height: 25%;
   	text-align: center;
   	font-family: 'Montserrat', sans-serif;
   	color: #3E3E3E;
