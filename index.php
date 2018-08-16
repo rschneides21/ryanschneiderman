@@ -12,11 +12,11 @@
   	margin: auto;
   }
   #email{
-  	padding-left: 40%;
+  	padding-left: 35%;
   	float: left;
   }
   #phone{
-  	padding-right: 40%;
+  	padding-right: 35%;
   	float: left;
   }
   </style>
