@@ -36,7 +36,9 @@
   #second-level{
   	padding-top: 10px;
   }
-
+  .pic-links{
+  	float: left;
+  }
 
   #parallelogram {
   	display: block;
@@ -57,18 +59,6 @@
   	transform-origin:inherit;
   	transform:skewX(10deg);
   }
-  .fishes
-	{
-		position: relative;
-		top: 0;
-		left: 0;
-	}
-  .fish
-	{
-		position: absolute;
-		top: 0;
-		left: 80px;
-	}
   #first-pic{
 
   }
@@ -84,10 +74,18 @@
  	</svg>
 	<p id = "phone" class="sub-header">(802) 777 0769</p>
  </div>
- <div style="position: relative; left: 0; top: 0;">
-		<img src="web_design_pic.png" class="fishes"/>
-		<img src="writing.jpeg" id = "parallelogram" class="fish"/>
- </div>
+ <div id = "second-level">
+ 	<div>
+ 		<img id = "first-pic" class = "pic-links" src = "web_design_pic.png" width = "30%" height = "auto">
+ 	</div>
+ 	<div>
+		<img id = "second-pic" "class = "pic-links" src = "writing.jpeg" height = "452" width = "auto" >
+	</div>
+	<div>
+		<img id = "third-pic" class = "pic-links" src = "bball.jpg" width = "30%" height = "auto">
+	</div>	
+ 	<div id = "parallelogram" class = "pic-links">
+ 	</div>
  </div>	
 
  </body>
