@@ -10,6 +10,9 @@
   	text-align: center;
   	float: left;
   }
+  #sub-header{
+  	margin: auto;
+  }
   </style>
  </head>
  <body>
