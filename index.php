@@ -33,6 +33,10 @@
   #header-line{
   	padding-top: 10px;
   }
+
+  .pic-links{
+  	float: left;
+  }
   </style>
  </head>
  <body>
@@ -47,13 +51,15 @@
  	</div>	
  </div>
  <div id = "second-level">
- 	<div class = "pic-links">
- 		<div id = "first-pic">
- 		</div>
- 		<div id = "second-pic">
- 		</div>
- 		<div id = "third-pic">
- 		</div>
+ 	<div id = "first-pic" class = "pic-links">
+ 		<img src = "web_design_pic">
+ 	</div>
+ 	<div id = "second-pic" class = "pic-links">
+ 		<img src = "writing.jpeg">
+ 	</div>
+ 	<div id = "third-pic" class = "pic-links">
+ 		<img src = "bball.jpg">
+ 	</div>
  	</div>	
  </div>
  </body>
