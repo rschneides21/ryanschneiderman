@@ -21,11 +21,12 @@
   	float: left;
   }
   #email{
-  	padding-left: 30%;
+  	padding-left: 35%;
   	padding-right: 10px;
   }
   #phone{
   	padding-left: 10px;
+  	padding-right: 35%;
   }
   #header-line{
   	padding-top: 10px;
@@ -35,11 +36,13 @@
  <body>
  <div id = "banner">
  	<p id = "Name">RYAN SCHNEIDERMAN</p>
- 	<p id = "email" class = "sub-header">rschneides21@gmail.com</p>
- 	<svg height = "45" width = "1" class = "sub-header" id = "header-line">
- 		<line x1="0" y1="0" x2="1" y2="45" style="stroke:#707070;stroke-width:2"/>
- 	</svg>
- 	<p id = "phone" class="sub-header">(802) 777 0769</p>
+ 	<div id = "sub-header">
+ 		<p id = "email" class = "sub-header">rschneides21@gmail.com</p>
+ 		<svg height = "45" width = "1" class = "sub-header" id = "header-line">
+ 			<line x1="0" y1="0" x2="1" y2="45" style="stroke:#707070;stroke-width:2"/>
+ 		</svg>
+ 		<p id = "phone" class="sub-header">(802) 777 0769</p>
+ 	</div>	
  </div>
  <div id = "second-level">
  	<div class = "pic-links">
