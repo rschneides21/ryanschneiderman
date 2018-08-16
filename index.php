@@ -19,10 +19,8 @@
  <body>
  <div id = "banner">
  	<h1>RYAN SCHNEIDERMAN</h1>
- 	<div id = "sub-header">
- 		<p class = "sub-header">rschneides21@gmail.com</p>
- 		<p class = "sub-header">(802) 777 0769</p>
- 	</div>
+ 	<p class = "sub-header">rschneides21@gmail.com</p>
+ 	<p class = "sub-header">(802) 777 0769</p>
  </div>
  <div id = "second-level">
  	<div class = "pic-links">
