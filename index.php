@@ -12,10 +12,10 @@
   	margin: auto;
   }
   #email{
-
+  	float: left;
   }
   #phone{
-
+  	float: left;
   }
   </style>
  </head>
