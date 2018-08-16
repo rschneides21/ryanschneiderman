@@ -79,12 +79,12 @@
  		<img id = "first-pic" class = "pic-links" src = "web_design_pic.png" width = "30%" height = "auto">
  	</div>
  	<div>
-		<img id = "second-pic" "class = "pic-links" src = "writing.jpeg" height = "452" width = "auto" >
+		<img id = "second-pic"  src = "writing.jpeg" height = "452" width = "auto" >
 	</div>
 	<div>
-		<img id = "third-pic" class = "pic-links" src = "bball.jpg" width = "30%" height = "auto">
+		<img id = "third-pic"  src = "bball.jpg" width = "30%" height = "auto">
 	</div>	
- 	<div id = "parallelogram">
+ 	<div id = "parallelogram" class = "pic-links">
  	</div>
  </div>	
 
