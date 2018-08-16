@@ -43,6 +43,9 @@
  <div id = "banner">
  	<p id = "Name">RYAN SCHNEIDERMAN</p>
  	<p id = "email" class = "sub-header">rschneides21@gmail.com</p>
+ 	 <svg height = "40" width = "1" class = "sub-header" id = "header-line">
+ 		<line x1="0" y1="0" x2="1" y2="40" style="stroke:#3E3E3E;stroke-width:2"/>
+ 	</svg>
 	<p id = "phone" class="sub-header">(802) 777 0769</p>
  </div>
  <div id = "second-level">
