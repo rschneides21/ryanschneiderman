@@ -64,11 +64,8 @@
   	transform:skewX(7deg);
   }
   #third-pic{
-  	position: absolute;
   	height: 73%;
   	width: auto;
-  	right: 30px;
-  	top: 25%;
   }
 
   #first-pic{
@@ -94,14 +91,19 @@
 	</div>	
  </div>
  <div id = "second-level">
- 	<div>
- 		<img id = "first-pic" class = "pic-links" src = "web_design_pic.png" >
- 	</div>
- 	<div id = "parallelogram" class = "pic-links">
- 	</div>
-	<div>
-		<img id = "third-pic" class = "pic-links" src = "bball.jpg" >
-	</div>	
+ 	<table>
+ 		<tr>
+ 			<td>
+ 				<img id = "first-pic" src = "web_design_pic.png">
+ 			</td>
+ 			<td>
+ 				<div id = parallelogram>
+ 			</td>
+ 			<td>
+ 				<img id = "third-pic" src = "bball.jpg">
+ 			</td>	
+ 		</tr>
+ 	</table>
  	
  </div>	
 
