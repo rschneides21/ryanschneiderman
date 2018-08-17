@@ -47,7 +47,7 @@
   	transform:skewX(-7deg);
   	overflow:hidden;
 	width: 35%;
-	height: 74.5%;
+	height: 74.7%;
 	right: 65px;
 	z-index: 2;
 	border-left: 5px solid white;
@@ -74,6 +74,10 @@
   #first-pic{
   	height: 73%;
   	width: auto;
+  }
+
+  #sub-header{
+  	padding-bottom: 10px;
   }
 
   </style>
