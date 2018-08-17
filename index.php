@@ -41,7 +41,7 @@
   }
 
   #parallelogram {
-  	display: block;
+  	display: inline-block;
   	position:relative;
   	transform-origin:0 100%;
   	transform:skewX(-7deg);
