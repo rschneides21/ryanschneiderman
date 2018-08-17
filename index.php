@@ -65,8 +65,8 @@
   }
   #third-pic{
   	position: absolute;
-  	bottom: 45px;
-  	right: 60px;
+  	width: 30%;
+  	height: auto;
   }
 
   </style>
@@ -87,7 +87,7 @@
  	<div id = "parallelogram" class = "pic-links">
  	</div>
 	<div>
-		<img id = "third-pic" class = "pic-links" src = "bball.jpg" width = "34%" height = "auto">
+		<img id = "third-pic" class = "pic-links" src = "bball.jpg" >
 	</div>	
  	
  </div>	
