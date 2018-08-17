@@ -64,8 +64,7 @@
   	transform:skewX(7deg);
   }
   #third-pic{
-  	position: absolute;
-  	width: 30%;
+  	width: 25%;
   	height: auto;
   }
 
