@@ -44,11 +44,11 @@
   	display: block;
   	position:relative;
   	transform-origin:0 100%;
-  	transform:skewX(-5deg);
+  	transform:skewX(-7deg);
   	overflow:hidden;
 	width: 473px;
 	height: 452px;
-	right: 80px;
+	right: 70px;
 	border-left: 5px solid white;
   }
   #parallelogram:before{
@@ -59,7 +59,7 @@
   	background-size:cover;
   	background-position:center;
   	transform-origin:inherit;
-  	transform:skewX(5deg);
+  	transform:skewX(7deg);
   }
   #first-pic{
 
