@@ -46,7 +46,7 @@
   	transform-origin:0 100%;
   	transform:skewX(-7deg);
   	overflow:hidden;
-	width: 430px;
+	width: 470px;
 	height: 513px;
 	right: 60px;
 	z-index: 2;
