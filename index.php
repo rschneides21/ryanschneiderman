@@ -48,7 +48,7 @@
   	overflow:hidden;
 	width: 473px;
 	height: 452px;
-	right: 60px;
+	right: 75px;
 	border-left: 5px solid white;
   }
   #parallelogram:before{
