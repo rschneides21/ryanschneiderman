@@ -48,12 +48,12 @@
   	overflow:hidden;
 	width: 473px;
 	height: 452px;
-	right: 40px;
+	right: 60px;
+	border-right: 10px white;
   }
   #parallelogram:before{
   	content:'';
   	position:absolute;
-  	right: 40px;
   	width:175%; height:100%;
   	background-image:url('writing.jpeg');
   	background-size:cover;
