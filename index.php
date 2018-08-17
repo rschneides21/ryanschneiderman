@@ -65,8 +65,8 @@
   }
   #third-pic{
   	position: absolute;
-  	width: 25%;
-  	height: auto;
+  	height: 513px;
+  	width: auto;
   	right: 30px;
   }
 
