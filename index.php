@@ -46,10 +46,10 @@
   	transform-origin:0 100%;
   	transform:skewX(-7deg);
   	overflow:hidden;
-	width: 473px;
-	height: 452px;
+	width: 540px;
+	height: 513px;
 	right: 70px;
-	z-index: 2
+	z-index: 2;
 	border-left: 5px solid white;
   }
   #parallelogram:before{
@@ -80,12 +80,12 @@
  </div>
  <div id = "second-level">
  	<div>
- 		<img id = "first-pic" class = "pic-links" src = "web_design_pic.png" width = "34%" height = "auto">
+ 		<img id = "first-pic" class = "pic-links" src = "web_design_pic.png" width = "32%" height = "auto">
  	</div>
  	<div id = "parallelogram" class = "pic-links">
  	</div>
 	<div>
-		<img id = "third-pic" class = "pic-links" src = "bball.jpg" width = "34%" height = "auto">
+		<img id = "third-pic" class = "pic-links" src = "bball.jpg" width = "32%" height = "auto">
 	</div>	
  	
  </div>	
