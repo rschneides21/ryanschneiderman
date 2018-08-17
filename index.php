@@ -48,7 +48,7 @@
   	overflow:hidden;
 	width: 470px;
 	height: 513px;
-	right: 60px;
+	right: 65px;
 	z-index: 2;
 	border-left: 5px solid white;
   }
@@ -64,6 +64,8 @@
   }
   #third-pic{
   	position: absolute;
+  	top: 50px;
+  	right: 100px;
   }
 
   </style>
@@ -79,12 +81,12 @@
  </div>
  <div id = "second-level">
  	<div>
- 		<img id = "first-pic" class = "pic-links" src = "web_design_pic.png" width = "35%" height = "auto">
+ 		<img id = "first-pic" class = "pic-links" src = "web_design_pic.png" width = "34%" height = "auto">
  	</div>
  	<div id = "parallelogram" class = "pic-links">
  	</div>
 	<div>
-		<img id = "third-pic" class = "pic-links" src = "bball.jpg" width = "35%" height = "auto">
+		<img id = "third-pic" class = "pic-links" src = "bball.jpg" width = "34%" height = "auto">
 	</div>	
  	
  </div>	
