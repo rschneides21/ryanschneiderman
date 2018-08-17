@@ -44,7 +44,7 @@
   	display: block;
   	position:relative;
   	transform-origin:0 100%;
-  	transform:skewX(-10deg);
+  	transform:skewX(-5deg);
   	overflow:hidden;
 	width: 473px;
 	height: 452px;
@@ -59,7 +59,7 @@
   	background-size:cover;
   	background-position:center;
   	transform-origin:inherit;
-  	transform:skewX(10deg);
+  	transform:skewX(5deg);
   }
   #first-pic{
 
