@@ -51,6 +51,7 @@
 	right: 65px;
 	z-index: 2;
 	border-left: 5px solid white;
+	border-right: 5px solid white;
   }
   #parallelogram:before{
   	content:'';
@@ -64,8 +65,8 @@
   }
   #third-pic{
   	position: absolute;
-  	bottom: 30px;
-  	right: 75px;
+  	bottom: 45px;
+  	right: 60px;
   }
 
   </style>
