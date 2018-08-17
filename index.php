@@ -49,7 +49,7 @@
 	width: 473px;
 	height: 452px;
 	right: 60px;
-	border-right: 10px white;
+	border-left: 5px solid white;
   }
   #parallelogram:before{
   	content:'';
