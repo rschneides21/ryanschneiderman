@@ -66,6 +66,7 @@
   #third-pic{
   	width: 25%;
   	height: auto;
+  	right: 30px;
   }
 
   </style>
