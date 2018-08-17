@@ -71,6 +71,11 @@
   	top: 186px;
   }
 
+  #first-pic{
+  	height: 513;
+  	width: auto;
+  }
+
   </style>
  </head>
  <body>
@@ -84,7 +89,7 @@
  </div>
  <div id = "second-level">
  	<div>
- 		<img id = "first-pic" class = "pic-links" src = "web_design_pic.png" width = "34%" height = "auto">
+ 		<img id = "first-pic" class = "pic-links" src = "web_design_pic.png" >
  	</div>
  	<div id = "parallelogram" class = "pic-links">
  	</div>
