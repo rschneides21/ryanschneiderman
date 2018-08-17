@@ -61,8 +61,9 @@
   	transform-origin:inherit;
   	transform:skewX(7deg);
   }
-  #first-pic{
-
+  #third-pic{
+  	position: relative;
+  	right: 50px;
   }
 
   </style>
