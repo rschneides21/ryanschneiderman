@@ -12,7 +12,7 @@
   #name{
   	font-size: 80px;
   	font-weight: 300;
-  	margin-bottom: 30px;
+  	margin-bottom: 20px;
   }
 
   .sub-header{
@@ -72,7 +72,7 @@
   }
 
   #first-pic{
-  	height: 70%;
+  	height: 73%;
   	width: auto;
   }
 
