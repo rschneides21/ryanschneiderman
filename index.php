@@ -64,7 +64,6 @@
   }
   #third-pic{
   	position: absolute;
-  	right: 50px;
   }
 
   </style>
