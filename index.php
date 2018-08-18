@@ -28,7 +28,6 @@
   }
   #phone{
     padding-left: 10px;
-    padding-right: 35%;
     max-width: 50%;
   }
   #header-line{
