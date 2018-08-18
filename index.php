@@ -73,14 +73,14 @@
   	left: 63%;
     position: fixed;
     top: 181px;
-    width: 35%;
+    width: auto;
     height: 73%;
     
   }
 
   #first-pic{
     height: 73%;
-    width: 35%;
+    width: auto;
   }
 
   #sub-header{
