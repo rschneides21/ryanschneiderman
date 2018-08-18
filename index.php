@@ -14,6 +14,7 @@
     font-size: 80px;
     font-weight: 300;
     padding-bottom: 5%;
+    margin-bottom: 0;
   }
 
   .sub-header{
