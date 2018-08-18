@@ -41,7 +41,7 @@
     float: left;
   }
 
-  #parallelogram {
+  #second-pic {
     display: block;
     position:relative;
     transform-origin:0 100%;
@@ -54,7 +54,7 @@
   border-left: 5px solid white;
   border-right: 5px solid white;
   }
-  #parallelogram:before{
+  #second-pic:before{
     content:'';
     position:absolute;
     width:175%; height:100%;
@@ -96,7 +96,7 @@
   <div>
     <img id = "first-pic" class = "pic-links" src = "web_design_pic.png" >
   </div>
-  <div id = "parallelogram" class = "pic-links">
+  <div id = "second-pic" class = "pic-links">
   </div>
   <div>
     <img id = "third-pic" class = "pic-links" src = "bball.jpg" >
@@ -107,7 +107,11 @@
  </body>
  <script>
  	var p1 = $("#first-pic").position().left
+ 	var p2 = $("#second-pic").position().left
+ 	var p3 = $("#third-pic").position().left
  	console.log(p1);
+ 	console.log(p2);
+ 	console.log(p3);
  </script>
 </html>
 
