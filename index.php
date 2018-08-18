@@ -19,7 +19,7 @@
 
   .sub-header{
     text-align: center;
-    float: right;
+    float: left;
 
   }
   #email{
