@@ -106,7 +106,7 @@
 
  </body>
  <script>
- 	var p1 = $("#first-pic").position.left
+ 	var p1 = $("#first-pic").position().left
  	console.log(p1);
  </script>
 </html>
