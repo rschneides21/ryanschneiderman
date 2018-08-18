@@ -68,7 +68,7 @@
   #third-pic{
   	left: 63%;
     position: fixed;
-    top: 183px;
+    top: 168px;
     width: auto;
     height: 73%;
     
