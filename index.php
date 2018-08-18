@@ -68,8 +68,6 @@
     position: absolute;
     height: 73%;
     width: auto;
-    right: 30px;
-    top: 25%;
   }
 
   #first-pic{
