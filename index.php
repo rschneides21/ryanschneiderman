@@ -49,7 +49,7 @@
     overflow:hidden;
   width: 35%;
   height: 74.7%;
-  right: 5px;
+  right: 5%;
   z-index: 2;
   border-left: 5px solid white;
   border-right: 5px solid white;
@@ -65,11 +65,11 @@
     transform:skewX(7deg);
   }
   #third-pic{
-  	left: 150px;
+  	left: 600px;
     position: fixed;
     width: 400px;
     height: auto;
-    top: 100px;
+    top: 200px;
     
   }
 
