@@ -49,7 +49,7 @@
     overflow:hidden;
   width: 35%;
   height: 74.7%;
-  right: 65px;
+  right: 5px;
   z-index: 2;
   border-left: 5px solid white;
   border-right: 5px solid white;
@@ -66,7 +66,7 @@
   }
   #third-pic{
   	left: 150px;
-    position: relative;
+    position: fixed;
     width: 400px;
     height: auto;
     top: 100px;
