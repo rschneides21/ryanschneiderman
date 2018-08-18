@@ -106,4 +106,13 @@
  </div> 
 
  </body>
+ <script>
+ 	var pic1 = document.getElementById("first-pic");
+ 	var pic2 = document.getElementById("parallelogram");
+ 	var pic3 = document.getElementById("third-pic");
+ 	var rect3 = pic3.getBoundingClientRect();
+ 	console.log(rect.top, rect.right, rect.bottom, rect.left);
+ </script>
 </html>
+
+
