@@ -68,7 +68,7 @@
     position: relative;
     width: 400px;
     height: auto;
-    left: -50px;
+    left: -100px;
   }
 
   #first-pic{
