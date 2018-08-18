@@ -28,7 +28,7 @@
 
   }
   #email{
-    padding-left: 33%;
+    padding-left: 30%;
     padding-right: 10px;
     max-width: 50%;
   }
