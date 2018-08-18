@@ -85,6 +85,9 @@
   </style>
  </head>
  <body>
+ <table>
+ <tr>
+ <td>	
  <div id = "banner">
   <p id = "Name">RYAN SCHNEIDERMAN</p>
   <div id = "sub-header">
@@ -95,6 +98,9 @@
     <p id = "phone" class="sub-header">(802) 777 0769</p>
   </div>  
  </div>
+</td> 
+</tr>
+</table>
  <div id = "second-level">
   <div>
     <img id = "first-pic" class = "pic-links" src = "web_design_pic.png" >
