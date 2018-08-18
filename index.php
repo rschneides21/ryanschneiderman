@@ -66,9 +66,9 @@
   }
   #third-pic{
     position: relative;
-    width: 375px;
+    width: 400px;
     height: auto;
-    left: -75px;
+    left: -100px;
   }
 
   #first-pic{
