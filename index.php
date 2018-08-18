@@ -107,6 +107,7 @@
  </body>
  <script>
  	$( window ).resize(function() {
+ 		$("third-pic").css('top', '176px');
   		var p1 = $("#first-pic").position()
  		var p2 = $("#second-pic").position()
  		var p3 = $("#third-pic").position()
@@ -114,13 +115,14 @@
  		console.log("second-pic: ", p2.top, p2.left);
  		console.log("third-pic: ", p3.top, p3.left);
 	});
+	$("third-pic").css('top', '176px');
  	var p1 = $("#first-pic").position()
  	var p2 = $("#second-pic").position()
  	var p3 = $("#third-pic").position()
  	console.log("first-pic: ", p1.top, p1.left);
  	console.log("second-pic: ", p2.top, p2.left);
  	console.log("third-pic: ", p3.top, p3.left);
- 	$("third-pic").css('top', '176px');
+
 
  </script>
 </html>
