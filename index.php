@@ -105,7 +105,8 @@
  </div>
 </td> 
 </tr>
-</table>
+<tr>
+<td>
  <div id = "second-level">
   <div>
     <img id = "first-pic" class = "pic-links" src = "web_design_pic.png" >
@@ -117,6 +118,10 @@
   </div>  
   
  </div> 
+ </td>
+ </tr>
+
+ </table>
 
  </body>
  <script>
