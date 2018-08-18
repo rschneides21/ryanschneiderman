@@ -111,7 +111,7 @@
  	var pic2 = document.getElementById("parallelogram");
  	var pic3 = document.getElementById("third-pic");
  	var rect3 = pic3.getBoundingClientRect();
- 	console.log(rect.top, rect.right, rect.bottom, rect.left);
+ 	console.log(rect3.top, rect3.right, rect3.bottom, rect3.left);
  </script>
 </html>
 
