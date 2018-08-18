@@ -106,15 +106,8 @@
 
  </body>
  <script>
- 	var pic1 = document.getElementById("first-pic");
- 	var pic2 = document.getElementById("parallelogram");
- 	var pic3 = document.getElementById("third-pic");
- 	var rect1 = pic1.getBoundingClientRect();
- 	var rect2 = pic2.getBoundingClientRect();
- 	var rect3 = pic3.getBoundingClientRect();
- 	console.log("pic1: ", rect1.top, rect1.right, rect1.bottom, rect1.left);
- 	console.log("pic2: ", rect2.top, rect2.right, rect2.bottom, rect2.left);
- 	console.log("pic3: ", rect3.top, rect3.right, rect3.bottom, rect3.left);
+ 	var p1 = $("#first-pic").position.left
+ 	console.log(p1);
  </script>
 </html>
 
