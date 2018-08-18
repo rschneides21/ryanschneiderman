@@ -106,12 +106,12 @@
 
  </body>
  <script>
- 	var p1 = $("#first-pic").position().left
- 	var p2 = $("#second-pic").position().left
- 	var p3 = $("#third-pic").position().left
- 	console.log(p1);
- 	console.log(p2);
- 	console.log(p3);
+ 	var p1 = $("#first-pic").position()
+ 	var p2 = $("#second-pic").position()
+ 	var p3 = $("#third-pic").position()
+ 	console.log("first-pic: ", p1.top, p1.left);
+ 	console.log("second-pic: ", p2.top, p2.left);
+ 	console.log("third-pic: ", p3.top, p3.left);
  </script>
 </html>
 
