@@ -13,7 +13,7 @@
   #name{
     font-size: 80px;
     font-weight: 300;
-    padding-bottom: 5%;
+    padding-bottom: 2%;
     margin-bottom: 0;
   }
 
