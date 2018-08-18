@@ -69,6 +69,7 @@
     position: relative;
     width: 400px;
     height: auto;
+    top: 100px;
     
   }
 
