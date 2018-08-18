@@ -13,7 +13,7 @@
   #name{
     font-size: 80px;
     font-weight: 300;
-    margin-bottom: 20px;
+    padding-bottom: 5%;
   }
 
   .sub-header{
