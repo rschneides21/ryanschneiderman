@@ -105,6 +105,7 @@
  </div>
 </td> 
 </tr>
+ </table>
 
  <div id = "second-level">
   <div>
@@ -119,7 +120,7 @@
  </div> 
 
 
- </table>
+
 
  </body>
  <script>
