@@ -2,6 +2,7 @@
  <head>
   <title>PHP Test</title>
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <style>
   #banner{
     text-align: center;
