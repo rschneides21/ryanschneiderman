@@ -52,12 +52,11 @@
     transform-origin:0 100%;
     transform:skewX(-7deg);
     overflow:hidden;
-  width: 35%;
-  height: 74.7%;
-  right: 5%;
-  z-index: 2;
-  border-left: 5px solid white;
-  border-right: 5px solid white;
+  	width: 35%;
+  	height: 74.7%;
+  	z-index: 2;
+  	border-left: 5px solid white;
+  	border-right: 5px solid white;
   }
   #second-pic:before{
     content:'';
@@ -138,6 +137,7 @@
  	var p2 = $("#second-pic").position()
  	var p3 = $("#third-pic").position()
  	$("third-pic").css('top', p1.top);
+ 	$("second-pic").css('left', p1.left + p1.width)
  	console.log("first-pic: ", p1.top, p1.left);
  	console.log("second-pic: ", p2.top, p2.left);
  	console.log("third-pic: ", p3.top, p3.left);
