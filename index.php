@@ -136,6 +136,11 @@
     	$("#second-pic").css('right', shift);
   	}
 
+  	function setPic2Width(){
+  		var pic1Width = $("#first-pic").width();
+		$("second-pic").css("width", pic1Width * 1.03)
+  	}
+
  	$( window ).resize(function() {
  		
   		var p1 = $("#first-pic").position()
@@ -143,13 +148,13 @@
  		$("third-pic").css('top', p1.top);
  		shiftPic2();
  		shiftPic3();
+ 		setPic2Width();
 	});
 	console.log("width 1: ", $("#first-pic").width());
 	console.log("width 2: ", $("#second-pic").width());
-	var pic1Width = $("#first-pic").width();
-	$("second-pic").css("width", pic1Width * 1.03)
 	shiftPic2();
 	shiftPic3();
+	setPic2Width();
 
 
  </script>
