@@ -129,7 +129,6 @@
 		var secondPicLeft = $("#second-pic").position().left;
 		var secondPicWidth = $("#second-pic").width();
 		$("#third-pic").css('left', secondPicLeft + secondPicWidth);
-		console.log("third left: ", $("#third-pic").position().left);
 	}
 
 	function shiftPic2 (){
@@ -154,10 +153,7 @@
  		setPic2Width();
  		console.log("width 2: ", $("#second-pic").width());
 	});
-	console.log("width 1: ", $("#first-pic").width());
-	console.log("width 2: ", $("#second-pic").width());
-	$(function(){
-		setPic2Width();});
+	setPic2Width();
 	shiftPic2();
 	shiftPic3();
 	
