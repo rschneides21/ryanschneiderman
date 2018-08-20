@@ -128,7 +128,7 @@
 	}
 
 	function shiftPic3 () {
-		var secondPicLeft = $("#second-pic").position.left;
+		var secondPicLeft = $("#second-pic").position().left;
 		console.log(secondPicLeft);
 		var secondPicWidth = $("#second-pic").width();
 		console.log(secondPicWidth);
