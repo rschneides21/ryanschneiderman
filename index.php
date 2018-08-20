@@ -146,6 +146,7 @@
 
  		$("third-pic").css('top', p1.top);
  		shiftPic2();
+ 		shiftPic3();
 	});
 	
 	shiftPic2();
