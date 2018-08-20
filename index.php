@@ -52,7 +52,6 @@
     transform-origin:0 100%;
     transform:skewX(-7deg);
     overflow:hidden;
-  	width: 35%;
   	height: 74.7%;
   	z-index: 2;
   	border-left: 5px solid white;
@@ -154,9 +153,10 @@
 	});
 	console.log("width 1: ", $("#first-pic").width());
 	console.log("width 2: ", $("#second-pic").width());
+	setPic2Width();
 	shiftPic2();
 	shiftPic3();
-	setPic2Width();
+	
 
 
  </script>
