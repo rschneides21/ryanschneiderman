@@ -147,9 +147,18 @@
  		$("third-pic").css('top', p1.top);
  		shiftPic2();
 	});
+	
+	var p1 = $("#first-pic");
+	var p2 = $("#second-pic");
+	var p3 = $("#third-pic");
 
- 	shiftPic2();
- 	shiftPic3();
+ 	var shift =  (p2.height() / getTanDeg(83));
+ 	p2.css('right',  shift);
+ 	var secondPicLeft = $("#second-pic").position.left;
+	console.log(secondPicLeft);
+	var secondPicWidth = $("#second-pic").width();
+	console.log(secondPicWidth);
+	$("#third-pic").css('left', secondPicLeft + secondPicWidth);
 
 
  </script>
