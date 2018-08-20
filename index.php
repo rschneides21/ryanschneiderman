@@ -147,10 +147,9 @@
   		var p1 = $("#first-pic").position()
 
  		$("#third-pic").css('top', p1.top);
+ 		setPic2Width();
  		shiftPic2();
  		shiftPic3();
- 		setPic2Width();
- 		console.log("width 2: ", $("#second-pic").width());
 	});
 	setPic2Width();
 	shiftPic2();
