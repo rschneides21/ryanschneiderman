@@ -126,11 +126,12 @@
   		var rad = deg * Math.PI/180;
   		return Math.tan(rad);
 	}
+
+
  	$( window ).resize(function() {
  		
-  		var p1 = $("#first-pic").position()
- 		var p2 = $("#second-pic").position()
- 		var p3 = $("#third-pic").position()
+  		var pos1 = $("#first-pic").position()
+
  		$("third-pic").css('top', p1.top);
 	});
 	
@@ -145,7 +146,7 @@
  	console.log("height: ", p2.height());
  	var shift =  (p2.height() / getTanDeg(83));
  	console.log("shift: ", shift);
- 	$("second-pic").css('right',  shift)
+ 	p2.css('right',  shift);
 
 
  </script>
