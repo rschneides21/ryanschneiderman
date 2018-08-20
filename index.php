@@ -141,8 +141,8 @@
  	var p2 = $("#second-pic").position()
  	var p3 = $("#third-pic").position()
  	$("third-pic").css('top', p1.top);
- 	var shift = p2.height / getTanDeg(83);
- 	$("second-pic").css('left', p1.left + p1.width - shift)
+ 	var shift =  p1.left + p1.width - (p2.height / getTanDeg(83));
+ 	$("second-pic").css('left',  shift)
  	console.log("first-pic: ", p1.top, p1.left);
  	console.log("second-pic: ", p2.top, p2.left);
  	console.log("third-pic: ", p3.top, p3.left);
