@@ -139,7 +139,7 @@
   	function setPic2Width(){
   		var pic1Width = $("#first-pic").width();
   		var pic2Width = pic1Width * 1.03;
-  		console.log("should be pic2 width: ", pic1Width * 1.03);
+  		console.log("should be pic2 width: ", pic1Width * 1.04);
 		$("#second-pic").css("width", pic2Width);
   	}
 
