@@ -136,22 +136,17 @@
     	$("#second-pic").css('right', shift);
   	}
 
-  	function setPic2Width(){
-  		var pic1Width = $("#first-pic").width();
-  		var pic2Width = pic1Width * 1.03;
-		$("#second-pic").css("width", pic2Width);
-  	}
 
  	$( window ).resize(function() {
  		
   		var p1 = $("#first-pic").position()
 
  		$("#third-pic").css('top', p1.top);
- 		setPic2Width();
+		$("#second-pic").css("width", $("#first-pic").width() * 1.04);
  		shiftPic2();
  		shiftPic3();
 	});
-	setPic2Width();
+ 	$("#second-pic").css("width", $("#first-pic").width() * 1.04);
 	shiftPic2();
 	shiftPic3();
 	
