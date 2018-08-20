@@ -141,6 +141,8 @@
  	var p2 = $("#second-pic").position()
  	var p3 = $("#third-pic").position()
  	$("third-pic").css('top', p1.top);
+ 	var tanval = p2.height / getTanDeg(83);
+ 	console.log("tanval: ", tanval);
  	var shift =  p1.left + p1.width - (p2.height / getTanDeg(83));
  	$("second-pic").css('left',  shift)
  	console.log("first-pic: ", p1.top, p1.left);
