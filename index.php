@@ -153,7 +153,8 @@
 	});
 	console.log("width 1: ", $("#first-pic").width());
 	console.log("width 2: ", $("#second-pic").width());
-	setPic2Width();
+	$(function(){
+		setPic2Width();});
 	shiftPic2();
 	shiftPic3();
 	
