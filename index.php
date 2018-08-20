@@ -129,6 +129,7 @@
 		var secondPicLeft = $("#second-pic").position().left;
 		var secondPicWidth = $("#second-pic").width();
 		$("#third-pic").css('left', secondPicLeft + secondPicWidth);
+		console.log("third left: ", $("third-pic").position().left);
 	}
 
 	function shiftPic2 (){
