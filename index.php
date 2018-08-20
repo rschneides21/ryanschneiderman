@@ -143,7 +143,7 @@
 
  	$("third-pic").css('top', p1.top);
  	console.log("height: ", p2.height());
- 	var shift =  p1.left + p1.width - (p2.height() / getTanDeg(83));
+ 	var shift =  p1.left + p1.width() - (p2.height() / getTanDeg(83));
  	$("second-pic").css('left',  shift)
 
 
