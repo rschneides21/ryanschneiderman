@@ -63,8 +63,7 @@
     position:absolute;
     width:175%; height:100%;
     background-image:url('webdesign2.png');
-    background-size:cover;
-    background-position:center;
+    background-size: 600px 500px;
     transform-origin:inherit;
     transform:skewX(7deg);
   }
@@ -153,8 +152,8 @@
 		shiftPic2();
 		shiftPic3();
 		console.log($("#second-pic").width(), $("#second-pic").height())
+		document.styleSheets[0].addRule('p.special:before','content: "'+str+'";');
  	});
- 
 
 	
 	
