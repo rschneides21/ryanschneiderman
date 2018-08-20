@@ -152,7 +152,9 @@
 		$("#second-pic").css("width", $("#first-pic").width() * 1.04);
 		shiftPic2();
 		shiftPic3();
+		console.log($("#second-pic").width(), $("#second-pic").height())
 	});
+
 	
 	
 
