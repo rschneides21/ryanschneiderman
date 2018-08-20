@@ -62,7 +62,7 @@
     content:'';
     position:absolute;
     width:175%; height:100%;
-    background-image:url('writing.jpeg');
+    background-image:url('webdesign2.png');
     background-size:cover;
     background-position:center;
     transform-origin:inherit;
@@ -106,7 +106,7 @@
 
  <div id = "second-level" style = "margin: auto;">
   <div>
-    <img id = "first-pic" class = "pic-links" src = "web_design_pic.png" >
+    <img id = "first-pic" class = "pic-links" src = "writing.jpeg" >
   </div>
   <div id = "second-pic" class = "pic-links">
   </div>
@@ -154,8 +154,6 @@
 		shiftPic3();
 	});
 	
-	
- 	
 	
 
 
