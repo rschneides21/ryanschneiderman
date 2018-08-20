@@ -16,7 +16,7 @@
   }
 
   #name{
-    font-size: 80px;
+    font-size: 60px;
     font-weight: 300;
     padding-bottom: 1%;
     margin-bottom: 0;
@@ -69,10 +69,9 @@
     transform:skewX(7deg);
   }
   #third-pic{
-  	left: 63%;
     position: absolute;
-    width: auto;
     height: 73%;
+    width: auto;
     
   }
 
@@ -148,7 +147,7 @@
  		shiftPic2();
  		shiftPic3();
 	});
-	
+	console.log("width 1: ", $("#first-pic").width());
 	shiftPic2();
 	shiftPic3();
 
