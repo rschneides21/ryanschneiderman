@@ -112,8 +112,7 @@
   </div>
   <div>
     <img id = "third-pic" class = "pic-links" src = "bball.jpg" >
-  </div>  
-  
+  </div>   
  </div> 
 
 
@@ -128,9 +127,7 @@
 
 	function shiftPic3 () {
 		var secondPicLeft = $("#second-pic").position().left;
-		console.log(secondPicLeft);
 		var secondPicWidth = $("#second-pic").width();
-		console.log(secondPicWidth);
 		$("#third-pic").css('left', secondPicLeft + secondPicWidth);
 	}
 
@@ -148,6 +145,7 @@
  		shiftPic3();
 	});
 	console.log("width 1: ", $("#first-pic").width());
+	console.log("width 2: ", $("#second-pic").width());
 	shiftPic2();
 	shiftPic3();
 
