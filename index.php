@@ -152,7 +152,6 @@
 		shiftPic2();
 		shiftPic3();
 		console.log($("#second-pic").width(), $("#second-pic").height())
-		document.styleSheets[0].addRule('p.special:before','content: "'+str+'";');
  	});
 
 	
