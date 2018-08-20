@@ -127,19 +127,25 @@
   		return Math.tan(rad);
 	}
 
-	function shiftMidPic (){
-		var shift =  $("#second-pic").height() / getTanDeg(83);
-		$("#second-pic").css('right', shift);
-	}
-
  	$( window ).resize(function() {
  		
-  		var pos1 = $("#first-pic").position()
+  		var p1 = $("#first-pic").position()
 
  		$("third-pic").css('top', p1.top);
- 		shiftMidPic();
 	});
 	
+	var p1 = $("#first-pic");
+	var p2 = $("#second-pic");
+	var p3 = $("#third-pic");
+ 	var pos1 = p1.position()
+ 	var pos2 = p2.position()
+ 	var pos3 = p3.position()
+
+ 	$("third-pic").css('top', p1.top);
+ 	console.log("height: ", p2.height());
+ 	var shift =  (p2.height() / getTanDeg(83));
+ 	console.log("shift: ", shift);
+ 	p2.css('right',  shift);
 
 
  </script>
