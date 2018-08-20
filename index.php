@@ -104,7 +104,7 @@
 </tr>
  </table>
 
- <div id = "second-level" style = "padding-left: 30px;">
+ <div id = "second-level" style = "margin: auto;">
   <div>
     <img id = "first-pic" class = "pic-links" src = "web_design_pic.png" >
   </div>
