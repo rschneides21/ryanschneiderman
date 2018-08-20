@@ -146,7 +146,8 @@
 	});
 	console.log("width 1: ", $("#first-pic").width());
 	console.log("width 2: ", $("#second-pic").width());
-	console.log("width 3: ", $("#third-pic").width());
+	var pic1Width = $("#first-pic").width();
+	$("second-pic").css("width", pic1Width * 1.03)
 	shiftPic2();
 	shiftPic3();
 
