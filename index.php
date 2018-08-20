@@ -127,7 +127,15 @@
   		return Math.tan(rad);
 	}
 
-	function shiftMidPic (){
+	function shiftPic3 {
+		var secondPicLeft = $("#second-pic").position.left;
+		console.log(secondPicLeft);
+		var secondPicWidth = $("#second-pic").width();
+		console.log(secondPicWidth);
+		$("#third-pic").css('left', secondPicLeft + secondPicWidth);
+	}
+
+	function shiftPic2 (){
     	var shift =  $("#second-pic").height() / getTanDeg(83);
     	$("#second-pic").css('right', shift);
   	}
@@ -137,15 +145,11 @@
   		var p1 = $("#first-pic").position()
 
  		$("third-pic").css('top', p1.top);
- 		shiftMidPic();
+ 		shiftPic2();
 	});
-	
-	var p1 = $("#first-pic");
-	var p2 = $("#second-pic");
-	var p3 = $("#third-pic");
 
- 	var shift =  (p2.height() / getTanDeg(83));
- 	p2.css('right',  shift);
+ 	shiftPic2();
+ 	shiftPic3();
 
 
  </script>
