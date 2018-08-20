@@ -127,7 +127,7 @@
   		return Math.tan(rad);
 	}
 
-	function shiftPic3 {
+	function shiftPic3 () {
 		var secondPicLeft = $("#second-pic").position.left;
 		console.log(secondPicLeft);
 		var secondPicWidth = $("#second-pic").width();
@@ -148,12 +148,8 @@
  		shiftPic2();
 	});
 	
-	var p1 = $("#first-pic");
-	var p2 = $("#second-pic");
-	var p3 = $("#third-pic");
-
- 	var shift =  (p2.height() / getTanDeg(83));
- 	p2.css('right',  shift);
+	shiftPic2();
+	shiftPic3();
 
 
  </script>
