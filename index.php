@@ -148,13 +148,13 @@
  		$("second-level").css('margin', 'auto')
 	});
 
- 	$(window).load(function() {
-		$("#second-pic").css("width", $("#first-pic").width() * 1.04);
-		$("#second-pic").css("width", $("#first-pic").width() * 1.04);
+ 	$(window).on('load', function () {
+      $("#second-pic").css("width", $("#first-pic").width() * 1.04);
 		shiftPic2();
 		shiftPic3();
 		console.log($("#second-pic").width(), $("#second-pic").height())
-	});
+ 	});
+ 
 
 	
 	
