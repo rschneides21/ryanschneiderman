@@ -123,7 +123,10 @@
  </body>
  <script>
  	function getTanDeg(deg) {
+ 		console.log(deg);
   		var rad = deg * Math.PI/180;
+  		console.log(rad);
+  		console.log(Math.tan(rad));
   		return Math.tan(rad);
 	}
  	$( window ).resize(function() {
@@ -139,7 +142,6 @@
  	var p3 = $("#third-pic").position()
  	$("third-pic").css('top', p1.top);
  	var tanval = p2.height / getTanDeg(83);
- 	console.log("tanval: ", tanval);
  	var shift =  p1.left + p1.width - (p2.height / getTanDeg(83));
  	$("second-pic").css('left',  shift)
 
