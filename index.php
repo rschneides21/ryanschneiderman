@@ -134,9 +134,13 @@
  		$("third-pic").css('top', p1.top);
 	});
 	
- 	var p1 = $("#first-pic").position()
- 	var p2 = $("#second-pic").position()
- 	var p3 = $("#third-pic").position()
+	var p1 = $("#first-pic");
+	var p2 = $("#second-pic");
+	var p3 = $("#third-pic");
+ 	var pos1 = p1.position()
+ 	var pos2 = p2.position()
+ 	var pos3 = p3.position()
+
  	$("third-pic").css('top', p1.top);
  	console.log("height: ", p2.height);
  	var tanval = p2.height / getTanDeg(83);
