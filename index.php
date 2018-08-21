@@ -69,7 +69,6 @@
   }
   #third-pic{
     position: absolute;
-
     width: 30%;
     height: auto;
     
@@ -154,6 +153,12 @@
 		shiftPic2();
 		shiftPic3();
 	  $("#second-pic").css("height", $("#first-pic").height());
+	  console.log($("#third-pic").width());
+	  console.log($("#third-pic").height());
+	  console.log($("#first-pic").width());
+	  console.log($("#first-pic").height());
+	  
+	  
  	});
 
 	
