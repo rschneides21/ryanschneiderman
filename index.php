@@ -77,7 +77,7 @@
   }
 
   #first-pic{
-    width: 33%;
+    width: 35%;
     height: auto;
   }
 
