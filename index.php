@@ -26,7 +26,7 @@
   .sub-header{
     text-align: center;
     float: left;
-    font-size: 1vw;
+    font-size: 2vw;
 
   }
   #email{
