@@ -69,7 +69,6 @@
   }
   #third-pic{
     position: absolute;
-    width: 33%;
     height: auto;
     
   }
@@ -80,7 +79,7 @@
   }
 
   #sub-header{
-    padding-bottom: 10px;
+    padding-left: 10px;
   }
 
   </style>
@@ -142,10 +141,13 @@
 
  		$("#third-pic").css('top', p1.top);
 		$("#second-pic").css("width", $("#first-pic").width() * 1.04);
+		$("#second-pic").css("height", $("#first-pic").height());
+		$("#third-pic").css("height", $("#first-pic").height());
+	  	$("#third-pic").css("width", $("#first-pic").width());
  		shiftPic2();
  		shiftPic3();
  		$("second-level").css('margin', 'auto');
- 		$("#second-pic").css("height", $("#first-pic").height());
+ 		
 	});
 
  	$(window).on('load', function () {
