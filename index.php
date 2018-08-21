@@ -30,7 +30,7 @@
 
   }
   #phone{
-    padding-left: 33%;
+    padding-left: 32.5%;
     padding-right: 3%;
     max-width: 50%;
   }
@@ -85,6 +85,25 @@
     padding-bottom: 10px;
   }
 
+  .backlight{
+  	transition: .5s ease;
+  	opacity: 0;
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+  	-ms-transform: translate(-50%, -50%);
+  	text-align: center;
+  }
+
+  .image-container:hover .image {
+  		opacity: .3;
+	}
+
+   .image-container:hover .backlight {
+ 		opacity: 1;
+	}	
+
   </style>
  </head>
  <body>
@@ -107,14 +126,22 @@
  </table>
 
  <div id = "second-level">
-  <div>
-    <img id = "first-pic" class = "pic-links" src = "writing.jpeg" >
+  <div class = "image-container">	
+  	<div class = "backlight">
+    	<img id = "first-pic" class = "pic-links" src = "writing.jpeg" >
+  	</div>
   </div>
-  <div id = "second-pic" class = "pic-links">
+  <div class = "image-container">		
+  	<div class = "backlight">
+  		<div id = "second-pic" class = "pic-links">
+  		</div>
+  	</div>
   </div>
-  <div>
-    <img id = "third-pic" class = "pic-links" src = "bball.jpg" >
-  </div>   
+  <div class = "image-container">			
+  	<div class = "backlight">
+    	<img id = "third-pic" class = "pic-links" src = "bball.jpg" >
+  	</div> 
+  </div>	  
  </div> 
 
 
