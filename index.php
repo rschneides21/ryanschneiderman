@@ -43,7 +43,7 @@
   }
   #second-level{
     padding-top: 10px;
-    padding-left: 5%;
+    padding-left: 2%;
   }
   .pic-links{
     float: left;
