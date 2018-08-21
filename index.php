@@ -122,7 +122,7 @@
  <div id = "second-level">
   <div class = "image-container">	
   	<div class = "backlight">
-    	<img id = "first-pic" class = "pic-links" src = "writing-copy.jpeg" >
+    	<img id = "first-pic" class = "pic-links" src = "writing-copy.jpg" >
   	</div>
   </div>
   <div class = "image-container">		
