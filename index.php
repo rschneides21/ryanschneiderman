@@ -89,14 +89,12 @@
   	transition: .5s ease;
   	opacity: 0;
   	position: absolute;
-  	top: 50%;
-  	left: 50%;
   	transform: translate(-50%, -50%);
   	-ms-transform: translate(-50%, -50%);
   	text-align: center;
   }
 
-  .image-container:hover .image {
+  .image-container:hover .pic-links {
   		opacity: .3;
 	}
 
