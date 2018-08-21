@@ -53,7 +53,7 @@
     display: block;
     position:relative;
     transform-origin:0 100%;
-    transform:skewX(-7deg);
+    transform:skewX(7deg);
     overflow:hidden;
     width: 300px;
   	height: 74.7%;
@@ -68,7 +68,7 @@
     background-image:url('webdesign2.png');
     background-size: contain;
     transform-origin:inherit;
-    transform:skewX(7deg);
+    transform:skewX(-7deg);
   }
   #third-pic{
     position: absolute;
