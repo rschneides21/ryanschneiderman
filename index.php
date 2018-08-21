@@ -87,7 +87,7 @@
 
   .backlight{
   	transition: .5s ease;
-  	opacity: 0;
+  	opacity: 1;
   }
 
   .image-container:hover .pic-links {
