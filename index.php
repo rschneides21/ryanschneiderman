@@ -58,8 +58,8 @@
     width: 300px;
   	height: 74.7%;
   	z-index: 2;
-  	padding-left: 5px solid white;
-  	padding-right: 5px solid white;
+  	border-left: 6px solid white;
+  	border-right: 6px solid white;
   }
   #second-pic:before{
     content:'';
