@@ -105,7 +105,7 @@
 </tr>
  </table>
 
- <div id = "second-level" style = "margin: auto;">
+ <div id = "second-level">
   <div>
     <img id = "first-pic" class = "pic-links" src = "writing.jpeg" >
   </div>
