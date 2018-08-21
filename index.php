@@ -16,8 +16,9 @@
   }
 
   #name{
-    font-size: 60px;
+    font-size: 200%;
     font-weight: 300;
+
     padding-bottom: 1%;
     margin-bottom: 0;
   }
