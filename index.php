@@ -88,10 +88,6 @@
   .backlight{
   	transition: .5s ease;
   	opacity: 0;
-  	position: absolute;
-  	transform: translate(-50%, -50%);
-  	-ms-transform: translate(-50%, -50%);
-  	text-align: center;
   }
 
   .image-container:hover .pic-links {
