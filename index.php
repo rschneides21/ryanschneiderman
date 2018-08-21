@@ -16,7 +16,7 @@
   }
 
   #name{
-    font-size: 4em;
+    font-size: 10vw;
     font-weight: 300;
 
     padding-bottom: 1%;
