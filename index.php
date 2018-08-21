@@ -30,12 +30,12 @@
 
   }
   #email{
-    padding-left: 30%;
-    padding-right: 10px;
+    padding-left: 25%;
+    padding-right: 2%;
     max-width: 50%;
   }
   #phone{
-    padding-left: 10px;
+    padding-left: 2%;
     max-width: 50%;
   }
   #header-line{
