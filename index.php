@@ -26,7 +26,7 @@
   .sub-header{
     text-align: center;
     float: left;
-    font-size: 1.5vw;
+    font-size: 1.3vw;
 
   }
   #phone{
