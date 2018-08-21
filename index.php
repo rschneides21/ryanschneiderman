@@ -26,6 +26,7 @@
   .sub-header{
     text-align: center;
     float: left;
+    font-size: 1vw;
 
   }
   #email{
@@ -42,7 +43,7 @@
   }
   #second-level{
     padding-top: 10px;
-    padding-left: 5%;
+    margin-left: 5%;
   }
   .pic-links{
     float: left;
