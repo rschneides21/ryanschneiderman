@@ -69,13 +69,13 @@
   }
   #third-pic{
     position: absolute;
-    width: 30%;
+    width: 33%;
     height: auto;
     
   }
 
   #first-pic{
-    width: 30%;
+    width: 33%;
     height: auto;
   }
 
