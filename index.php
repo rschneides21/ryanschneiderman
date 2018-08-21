@@ -30,7 +30,7 @@
 
   }
   #phone{
-    padding-left: 32%;
+    padding-left: 31%;
     padding-right: 3%;
     max-width: 50%;
   }
