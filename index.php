@@ -133,7 +133,7 @@
   </div>
   <div class = "image-container">			
   	<div class = "backlight">
-    	<img id = "third-pic" class = "pic-links" src = "bball.jpg" >
+    	<img id = "third-pic" class = "pic-links" src = "bball-copy.jpg" >
   	</div> 
   </div>	  
  </div> 
