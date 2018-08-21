@@ -144,7 +144,8 @@
 		$("#second-pic").css("width", $("#first-pic").width() * 1.04);
  		shiftPic2();
  		shiftPic3();
- 		$("second-level").css('margin', 'auto')
+ 		$("second-level").css('margin', 'auto');
+ 		$("#second-pic").css("height", $("#first-pic").height());
 	});
 
  	$(window).on('load', function () {
