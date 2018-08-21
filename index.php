@@ -69,14 +69,15 @@
   }
   #third-pic{
     position: absolute;
-    height: 73%;
-    width: auto;
+
+    width: 30%;
+    height: auto;
     
   }
 
   #first-pic{
-    height: 73%;
-    width: auto;
+    width: 30%;
+    height: auto;
   }
 
   #sub-header{
