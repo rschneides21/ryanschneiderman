@@ -149,14 +149,13 @@
 	});
 
  	$(window).on('load', function () {
-      $("#second-pic").css("width", $("#first-pic").width() * 1.04);
+      	$("#second-pic").css("width", $("#first-pic").width() * 1.04);
+      	$("#second-pic").css("height", $("#first-pic").height());
+	  	$("#third-pic").css("height", $("#first-pic").height());
+	  	$("#third-pic").css("width", $("#first-pic").width());
+
 		shiftPic2();
 		shiftPic3();
-	  $("#second-pic").css("height", $("#first-pic").height());
-	  console.log($("#third-pic").width());
-	  console.log($("#third-pic").height());
-	  console.log($("#first-pic").width());
-	  console.log($("#first-pic").height());
 	  
 	  
  	});
