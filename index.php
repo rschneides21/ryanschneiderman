@@ -105,6 +105,23 @@
  		opacity: 1;
   }
 
+  a:visited {
+    	text-decoration: none;
+    	color: #A6A6A6;
+	}
+  a:hover{
+		color: #383838;
+		-webkit-transition: all 0.2s linear;
+       -moz-transition: all 0.2s linear;
+        -ms-transition: all 0.2s linear;
+         -o-transition: all 0.2s linear;
+            transition: all 0.2s linear;
+   }
+   a:link {
+    	text-decoration: none;
+    	color: #383838;
+	}
+
   
 
   </style>
