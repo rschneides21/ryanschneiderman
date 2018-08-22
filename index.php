@@ -130,21 +130,15 @@
 
  <div id = "second-level">
   <div class = "image-container">	
-  	<div class = "backlight">
-    	<img id = "first-pic" class = "pic-links" src = "writing-copy.jpg" >
-    	<div class = "middle"><a href = "test.php">TEST </a></div>
-  	</div>
+    <img id = "first-pic" class = "pic-links" src = "writing-copy.jpg" >
+    <div class = "middle"><a href = "test.php">TEST </a></div>
   </div>
   <div class = "image-container">		
-  	<div class = "backlight">
-  		<div id = "second-pic" class = "pic-links">
-  		</div>
+  	<div id = "second-pic" class = "pic-links">
   	</div>
   </div>
   <div class = "image-container">			
-  	<div class = "backlight">
-    	<img id = "third-pic" class = "pic-links" src = "bball-copy.jpg" >
-  	</div> 
+    <img id = "third-pic" class = "pic-links" src = "bball-copy.jpg" >
   </div>	  
  </div> 
 
