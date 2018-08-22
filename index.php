@@ -123,6 +123,7 @@
   <div class = "image-container">	
   	<div class = "backlight">
     	<img id = "first-pic" class = "pic-links" src = "writing-copy.jpg" >
+    	<div class = "image-text"><a href = "test.php">TEST </a></div>
   	</div>
   </div>
   <div class = "image-container">		
