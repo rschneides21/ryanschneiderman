@@ -107,10 +107,10 @@
 
   a:visited {
     	text-decoration: none;
-    	color: #A6A6A6;
+    	color: #3E3E3E;
 	}
   a:hover{
-		color: #383838;
+		color: #3E3E3E;
 		-webkit-transition: all 0.2s linear;
        -moz-transition: all 0.2s linear;
         -ms-transition: all 0.2s linear;
