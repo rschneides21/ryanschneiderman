@@ -90,13 +90,26 @@
   	opacity: 1;
   }
 
-  .image-container:hover .pic-links {
-  		opacity: .3;
+  .middle {
+  		transition: .5s ease;
+  		opacity: 0;
+  		position: absolute;
+  		top: 50%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		-ms-transform: translate(-50%, -50%);
+  		text-align: center;
 	}
 
-   .image-container:hover .backlight {
+  .image-container:hover .pic-links {
+  		opacity: .3;
+  }
+
+  .image-container:hover .middle {
  		opacity: 1;
-	}	
+  }
+
+  
 
   </style>
  </head>
@@ -123,7 +136,7 @@
   <div class = "image-container">	
   	<div class = "backlight">
     	<img id = "first-pic" class = "pic-links" src = "writing-copy.jpg" >
-    	<div class = "image-text"><a href = "test.php">TEST </a></div>
+    	<div class = "middle"><a href = "test.php">TEST </a></div>
   	</div>
   </div>
   <div class = "image-container">		
