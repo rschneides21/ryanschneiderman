@@ -108,8 +108,8 @@
   <p id = "Name">RYAN SCHNEIDERMAN</p>
   <div id = "sub-header">
     <p id = "phone" class="sub-header">(802) 777 0769</p>
-    <svg style = "height: 10%; width: 1px;" class = "sub-header" id = "header-line">
-      <line x1="0" y1="0" x2="1" y2="10%" style="stroke:#3E3E3E;stroke-width:2"/>
+    <svg style = "height: 100%; width: 1px;" class = "sub-header" id = "header-line">
+      <line x1="0" y1="0" x2="1" y2="20%" style="stroke:#3E3E3E;stroke-width:2"/>
     </svg>
     <p id = "email" class = "sub-header">rschneides21@gmail.com</p>
     
