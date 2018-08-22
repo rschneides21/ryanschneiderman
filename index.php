@@ -85,10 +85,6 @@
     padding-bottom: 10px;
   }
 
-  .backlight{
-  	transition: .5s ease;
-  	opacity: 1;
-  }
 
   .middle {
   		transition: .5s ease;
