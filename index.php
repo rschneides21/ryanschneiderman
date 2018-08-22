@@ -146,8 +146,9 @@
  </table>
 
  <div id = "second-level">
-  <div class = "image-container">	
-    <img id = "first-pic" class = "pic-links" src = "writing-copy.jpg" >
+  <div class = "image-container">
+
+    <a href = "test.php"><img id = "first-pic" class = "pic-links" src = "writing-copy.jpg" ></a>
     <div class = "middle"><a href = "test.php">TEST </a></div>
   </div>
   <div class = "image-container">		
