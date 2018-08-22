@@ -152,8 +152,7 @@
     <div class = "middle"><a href = "test.php">TEST </a></div>
   </div>
   <div class = "image-container">		
-  	<div id = "second-pic" class = "pic-links">
-  	</div>
+  	<a href = "test.php"><div id = "second-pic" class = "pic-links"></div></a>
   </div>
   <div class = "image-container">			
     <img id = "third-pic" class = "pic-links" src = "bball-copy.jpg" >
