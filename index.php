@@ -87,10 +87,10 @@
 
   a:visited {
     	text-decoration: none;
-    	color: #3E3E3E;
+    	color: #1A1A1A;
 	}
   a:hover{
-		color: #3E3E3E;
+		color: #1A1A1A;
 		-webkit-transition: all 0.2s linear;
        -moz-transition: all 0.2s linear;
         -ms-transition: all 0.2s linear;
@@ -99,7 +99,7 @@
    }
    a:link {
     	text-decoration: none;
-    	color: #383838;
+    	color: #1A1A1A;
    }
 
 
@@ -113,14 +113,14 @@
   }
 
   #mid1{
-  		left:12%;
+  		left:15%;
   }
   #mid2{
   		left:43%;
   		z-index: 3;
   }
   #mid3{
-  		left:75%;
+  		left:80%;
   }
 
   .image-container:hover .pic-links {
