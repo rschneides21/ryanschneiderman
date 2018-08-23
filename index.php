@@ -212,7 +212,7 @@
       	$("#second-pic").css("height", $("#first-pic").height());
 	  	$("#third-pic").css("height", $("#first-pic").height());
 	  	$("#third-pic").css("width", $("#first-pic").width());
-	  	$(".middle").css("top", $("#first-pic").position().top * 1.1);
+	  	$(".middle").css("top", $("#first-pic").position().top * 1.2);
 
 		shiftPic2();
 		shiftPic3();
