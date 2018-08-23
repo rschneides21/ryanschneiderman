@@ -113,14 +113,14 @@
   }
 
   #mid1{
-  		left:17%;
+  		left:12%;
   }
   #mid2{
-  		left:50%;
+  		left:43%;
   		z-index: 3;
   }
   #mid3{
-  		left:83%;
+  		left:75%;
   }
 
   .image-container:hover .pic-links {
