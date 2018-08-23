@@ -215,7 +215,7 @@
 
 		shiftPic2();
 		shiftPic3();
-		var pos1 = $("first-pic").position();
+		var pos1 = $("#first-pic").position();
 		console.log(pos1.left);
 	  
 	  
