@@ -109,8 +109,8 @@
   		position: absolute;
   		top: 50%;
   		left: 50%;
-  		transform: translate(-25%, -25%);
-  		-ms-transform: translate(-25%, -25%);
+  		transform: translate(75%, 75%);
+  		-ms-transform: translate(75%, 75%);
   		text-align: center;
 	}
 
