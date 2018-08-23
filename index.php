@@ -116,6 +116,7 @@
   }
   #mid2{
   		left:50%;
+  		z-index: 3;
   }
   #mid3{
   		left:83%;
