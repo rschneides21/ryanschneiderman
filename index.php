@@ -109,8 +109,8 @@
   		position: absolute;
   		top: 50%;
   		left: 50%;
-  		transform: translate(75%, 75%);
-  		-ms-transform: translate(75%, 75%);
+  		transform: translate(-50%, -50%);
+  		-ms-transform: translate(-50%, -50%);
   		text-align: center;
 	}
 
@@ -156,9 +156,11 @@
   </div>
   <div class = "image-container">		
   	<a href = "test.php"><div id = "second-pic" class = "pic-links"></div></a>
+  	<div class = "middle"><a href = "test.php">TEST </a></div>
   </div>
   <div class = "image-container">			
     <a href = "test.php"><img id = "third-pic" class = "pic-links" src = "bball-copy.jpg" ></a>
+    <div class = "middle"><a href = "test.php">TEST </a></div>
   </div>	  
  </div> 
 
