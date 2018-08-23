@@ -106,7 +106,7 @@
   .middle {
   	 	transition: .5s ease;
   		opacity: 0;
-  		position: relative;
+  		position: absolute;
 
   		text-align: center;
   }
