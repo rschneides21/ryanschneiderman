@@ -215,6 +215,7 @@
 
 		shiftPic2();
 		shiftPic3();
+		console.log($("first-pic").position().top);
 	  
 	  
  	});
