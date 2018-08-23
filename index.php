@@ -104,6 +104,7 @@
 
 
   .middle {
+  	 	transition: .5s ease;
   		opacity: 0;
   		position: absolute;
   		top: 50%;
@@ -119,7 +120,7 @@
 
   .image-container:hover .middle {
  		opacity: 1;
- 		transition: .5s ease;
+
   }
 
   
