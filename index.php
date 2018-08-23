@@ -113,13 +113,13 @@
   }
 
   #mid1{
-  		left:25%;
+  		left:17%;
   }
   #mid2{
   		left:50%;
   }
   #mid3{
-  		left:75%;
+  		left:83%;
   }
 
   .image-container:hover .pic-links {
