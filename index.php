@@ -108,6 +108,7 @@
   		opacity: 0;
   		position: absolute;
   		font-family: 'Montserrat', sans-serif;
+  		font-weight: 500;
   		text-align: center;
   		font-size: 2.3vw;
   }
