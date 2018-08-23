@@ -107,8 +107,9 @@
   	 	transition: .5s ease;
   		opacity: 0;
   		position: absolute;
-
+  		font-family: 'Montserrat', sans-serif;
   		text-align: center;
+  		font-size: 1vw;
   }
 
   #mid1{
@@ -160,15 +161,15 @@
   <div class = "image-container">
 
     <a href = "test.php"><img id = "first-pic" class = "pic-links" src = "writing-copy.jpg" ></a>
-    <div class = "middle" id = "mid1"><a href = "test.php">TEST </a></div>
+    <div class = "middle" id = "mid1"><a href = "test.php"> Writing </a></div>
   </div>
   <div class = "image-container">		
   	<a href = "test.php"><div id = "second-pic" class = "pic-links"></div></a>
-  	<div class = "middle" id = "mid2"><a href = "test.php">TEST </a></div>
+  	<div class = "middle" id = "mid2"><a href = "test.php">Web Development </a></div>
   </div>
   <div class = "image-container">			
     <a href = "test.php"><img id = "third-pic" class = "pic-links" src = "bball-copy.jpg" ></a>
-    <div class = "middle" id = "mid3"><a href = "test.php">TEST </a></div>
+    <div class = "middle" id = "mid3"><a href = "test.php"> Coaching </a></div>
   </div>	  
  </div> 
 
