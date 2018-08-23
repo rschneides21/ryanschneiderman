@@ -109,7 +109,7 @@
   		position: absolute;
   		font-family: 'Montserrat', sans-serif;
   		text-align: center;
-  		font-size: 1vw;
+  		font-size: 2vw;
   }
 
   #mid1{
