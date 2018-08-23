@@ -107,10 +107,20 @@
   	 	transition: .5s ease;
   		opacity: 0;
   		position: absolute;
-
-  		
+ 		transform: translate(-50%, -50%);
+  		-ms-transform: translate(-50%, -50%);
   		text-align: center;
-	}
+  }
+
+  #mid1{
+  		left:25%;
+  }
+  #mid2{
+  		left:50%;
+  }
+  #mid3{
+  		left:75%;
+  }
 
   .image-container:hover .pic-links {
   		opacity: .3;
@@ -150,15 +160,15 @@
   <div class = "image-container">
 
     <a href = "test.php"><img id = "first-pic" class = "pic-links" src = "writing-copy.jpg" ></a>
-    <div class = "middle"><a href = "test.php">TEST </a></div>
+    <div class = "middle" id = "mid1"><a href = "test.php">TEST </a></div>
   </div>
   <div class = "image-container">		
   	<a href = "test.php"><div id = "second-pic" class = "pic-links"></div></a>
-  	<div class = "middle"><a href = "test.php">TEST </a></div>
+  	<div class = "middle" id = "mid2"><a href = "test.php">TEST </a></div>
   </div>
   <div class = "image-container">			
     <a href = "test.php"><img id = "third-pic" class = "pic-links" src = "bball-copy.jpg" ></a>
-    <div class = "middle"><a href = "test.php">TEST </a></div>
+    <div class = "middle" id = "mid3"><a href = "test.php">TEST </a></div>
   </div>	  
  </div> 
 
@@ -185,9 +195,7 @@
 
 
  	$( window ).resize(function() {
- 		
   		var p1 = $("#first-pic").position()
-
  		$("#third-pic").css('top', p1.top);
 		$("#second-pic").css("width", $("#first-pic").width() * 1.04);
 		$("#second-pic").css("height", $("#first-pic").height());
