@@ -107,8 +107,7 @@
   	 	transition: .5s ease;
   		opacity: 0;
   		position: absolute;
-  		top: 50%;
-  		left: 50%;
+
   		
   		text-align: center;
 	}
