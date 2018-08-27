@@ -49,7 +49,7 @@
     float: left;
   }
 
-  #second-pic {
+  img#second-pic {
     display: block;
     position:relative;
     transform-origin:0 100%;
@@ -61,7 +61,7 @@
   	border-left: 6px solid white;
   	border-right: 6px solid white;
   }
-  #second-pic:before{
+  img#second-pic:before{
     content:'';
     position:absolute;
     width:175%; height:100%;
