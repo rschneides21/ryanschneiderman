@@ -165,7 +165,7 @@
     <div class = "middle" id = "mid1"><a href = "test.php"> Writing </a></div>
   </div>
   <div class = "image-container">		
-  	<a href = "test.php"><div id = "second-pic" class = "pic-links"></div></a>
+  	<a href = "test.php"><img id = "second-pic" class = "pic-links"></a>
   	<div class = "middle" id = "mid2"><a href = "test.php">Web Development </a></div>
   </div>
   <div class = "image-container">			
