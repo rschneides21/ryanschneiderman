@@ -49,7 +49,7 @@
     float: left;
   }
 
-  img#second-pic {
+  #second-pic {
     display: block;
     position:relative;
     transform-origin:0 100%;
@@ -61,7 +61,7 @@
   	border-left: 6px solid white;
   	border-right: 6px solid white;
   }
-  img#second-pic:before{
+  #second-pic:before{
     content:'';
     position:absolute;
     width:175%; height:100%;
@@ -165,7 +165,7 @@
     <div class = "middle" id = "mid1"><a href = "test.php"> Writing </a></div>
   </div>
   <div class = "image-container">		
-  	<a href = "test.php"><img id = "second-pic" class = "pic-links"></a>
+  	<a href = "test.php"><div id = "second-pic" class = "pic-links"></div></a>
   	<div class = "middle" id = "mid2"><a href = "test.php">Web Development </a></div>
   </div>
   <div class = "image-container">			
