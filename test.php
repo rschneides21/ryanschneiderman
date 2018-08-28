@@ -169,19 +169,19 @@
  </body>
  <script type="text/babel">
 
- 	function LeftImage {
+ 	function LeftImage() {
  		return(
  			<img className = "pic-links" id = "first-pic" src = "writing-copy.jpg"/>
  		);	
  	}
 
- 	function MiddleImage {
+ 	function MiddleImage() {
  		return(
  			<div id = "second-pic" className = "pic-links"></div>
  		);	
  	}
 
- 	function RightImage {
+ 	function RightImage() {
  		return(
  			<img className = "pic-links" id = "third-pic" src = "bball-copy.jpg"/>
  		);	
