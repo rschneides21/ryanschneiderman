@@ -186,7 +186,6 @@
  	
 
  	class ImageManager extends React.Component {
-
  		render(){
  			return(
  				<LeftImage />
