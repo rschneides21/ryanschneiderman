@@ -166,9 +166,6 @@
  </div> 
 
 
-
-
-
  </body>
  <script type="text/babel">
  	Class Test extends React.Component {
@@ -182,55 +179,7 @@
 
 
  </script>	
- <script>
- 	function getTanDeg(deg) {
-  		var rad = deg * Math.PI/180;
-  		return Math.tan(rad);
-	}
-
-	function shiftPic3 () {
-		var secondPicLeft = $("#second-pic").position().left;
-		var secondPicWidth = $("#second-pic").width();
-		$("#third-pic").css('left', secondPicLeft + secondPicWidth);
-	}
-
-	function shiftPic2 (){
-    	var shift =  $("#second-pic").height() / getTanDeg(83);
-    	$("#second-pic").css('right', shift);
-  	}
-
-
- 	$( window ).resize(function() {
-  		var p1 = $("#first-pic").position()
- 		$("#third-pic").css('top', p1.top);
-		$("#second-pic").css("width", $("#first-pic").width() * 1.04);
-		$("#second-pic").css("height", $("#first-pic").height());
-		$("#third-pic").css("height", $("#first-pic").height());
-	  	$("#third-pic").css("width", $("#first-pic").width());
-	  	$(".middle").css("top", $("#first-pic").position().top * 1.4);
- 		shiftPic2();
- 		shiftPic3();
- 		$("second-level").css('margin', 'auto');
- 		
-	});
-
- 	$(window).on('load', function () {
-      	$("#second-pic").css("width", $("#first-pic").width() * 1.04);
-      	$("#second-pic").css("height", $("#first-pic").height());
-	  	$("#third-pic").css("height", $("#first-pic").height());
-	  	$("#third-pic").css("width", $("#first-pic").width());
-
-		shiftPic2();
-		shiftPic3();
-		var pos1 = $("#first-pic").position(); 
- 	});
- 	$(".middle").css("top", $("#first-pic").position().top * 1.4);
-
-	
-	
-
-
- </script>
+ 
 </html>
 
 
