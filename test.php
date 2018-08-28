@@ -183,41 +183,13 @@
  		}
  	}
 
- 	class MiddleImage extends React.Component{
- 		render(){
- 			return(
- 				<div className = "image-container">
- 					<a href = "test.php"><div id = "second-pic" class = "pic-links"></div></a>
- 				<div className = "middle" id = "mid2">
- 					<a herf = "test.php"> Web Development
- 					</a>
- 				</div>			
- 			);
- 		}
- 	}
-
- 	class RightImage extends React.Component{
- 		render(){
- 			return(
- 				<div className = "image-container">
- 					<a href = "test.php">
- 						<img className = "pic-links" id = "third-pic" src = "bball-copy.jpg"/>
- 					</a>
- 				<div className = "middle" id = "mid3">
- 					<a herf = "test.php"> Coaching
- 					</a>
- 				</div>			
- 			);
- 		}
- 	}
+ 	
 
  	class ImageManager extends React.Component {
 
  		render(){
  			return(
  				<LeftImage />
- 				<MiddleImage />
- 				<RightImage />
  			);
  		}
 
