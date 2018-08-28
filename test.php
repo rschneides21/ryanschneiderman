@@ -169,7 +169,7 @@
  </body>
  <script type="text/babel">
 
- 	function LeftImage extends {
+ 	function LeftImage {
  		return(
  			<img className = "pic-links" id = "first-pic" src = "writing-copy.jpg"/>
  		)	
