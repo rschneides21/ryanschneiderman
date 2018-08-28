@@ -172,19 +172,19 @@
  	function LeftImage {
  		return(
  			<img className = "pic-links" id = "first-pic" src = "writing-copy.jpg"/>
- 		)	
+ 		);	
  	}
 
  	function MiddleImage {
  		return(
  			<div id = "second-pic" className = "pic-links"></div>
- 		)	
+ 		);	
  	}
 
  	function RightImage {
  		return(
  			<img className = "pic-links" id = "third-pic" src = "bball-copy.jpg"/>
- 		)	
+ 		);	
  	}
 
  	class Image extends React.Component {
