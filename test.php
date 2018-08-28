@@ -181,7 +181,7 @@
  		}
  	}
 
- 	class LeftImage {
+ 	class RightImage {
  		render(){
  			<img className = "pic-links" id = "third-pic" src = "bball-copy.jpg"/>
  		}
