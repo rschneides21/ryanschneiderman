@@ -213,7 +213,7 @@
  		}
  	}
 
- 	Class ImageManager extends React.Component {
+ 	class ImageManager extends React.Component {
 
  		render(){
  			return(
