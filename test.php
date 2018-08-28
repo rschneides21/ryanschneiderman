@@ -183,19 +183,8 @@
  		}
  	}
 
- 	
 
- 	class ImageManager extends React.Component {
- 		render(){
- 			return(
- 				<LeftImage />
- 			);
- 		}
-
- 	}
-
-
- 	ReactDOM.render(<ImageManager />, document.getElementById("second-level"));
+ 	ReactDOM.render(<LeftImage />, document.getElementById("second-level"));
 
 
  </script>
