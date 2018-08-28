@@ -176,7 +176,7 @@
  						<img className = "pic-links" id = "first-pic" src = "writing-copy.jpg"/>
  					</a>
  					<div className = "middle" id = "mid1">
- 						<a herf = "test.php"> WRITING
+ 						<a herf = "test.php"> Writing
  						</a>
  					</div>
  				</div>
@@ -187,7 +187,7 @@
  		render(){
  			return(
  				<div className = "image-container">
- 					<a href = "test.php"><div id = "second-pic" class = "pic-links"></div></a>
+ 					<a href = "test.php"><div id = "second-pic" className = "pic-links"></div></a>
  					<div className = "middle" id = "mid2">
  						<a herf = "test.php"> Web Development
  						</a>
