@@ -171,19 +171,25 @@
 
  	class LeftImage extends React.Component{
  		render(){
- 			<img className = "pic-links" id = "first-pic" src = "writing-copy.jpg"/>
+ 			return(
+ 				<img className = "pic-links" id = "first-pic" src = "writing-copy.jpg"/>
+ 			)	
  		}
  	}
 
  	class MiddleImage {
  		render(){
- 			<div id = "second-pic" className = "pic-links"></div>
+ 			return(
+ 				<div id = "second-pic" className = "pic-links"></div>
+ 			)	
  		}
  	}
 
  	class RightImage {
  		render(){
- 			<img className = "pic-links" id = "third-pic" src = "bball-copy.jpg"/>
+ 			return(
+ 				<img className = "pic-links" id = "third-pic" src = "bball-copy.jpg"/>
+ 			)	
  		}
  	}
 
