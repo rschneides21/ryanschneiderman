@@ -171,61 +171,14 @@
 
  </body>
  <script type="text/babel">
- 	Class LeftImage extends React.Component{
- 		render(){
+ 	Class Test extends React.Component {
+ 		render() {
  			return(
- 				<div className = "image-container">
- 					<a href = "test.php">
- 						<img className = "pic-links" id = "first-pic" src = writing-copy.jpg>
- 					</a>
- 				<div className = "middle" id = "mid1">
- 					<a herf = "test.php"> WRITING
- 					</a>
- 				</div>			
- 			);
+ 				<div> HELLO WORLD </div>
+ 			);	
  		}
  	}
-
- 	Class MiddleImage extends React.Component{
- 		render(){
- 			return(
- 				<div className = "image-container">
- 					<a href = "test.php"><div id = "second-pic" class = "pic-links"></div></a>
- 				<div className = "middle" id = "mid2">
- 					<a herf = "test.php"> Web Development
- 					</a>
- 				</div>			
- 			);
- 		}
- 	}
-
- 	Class RightImage extends React.Component{
- 		render(){
- 			return(
- 				<div className = "image-container">
- 					<a href = "test.php">
- 						<img className = "pic-links" id = "third-pic" src = "bball-copy.jpg">
- 					</a>
- 				<div className = "middle" id = "mid3">
- 					<a herf = "test.php"> Coaching
- 					</a>
- 				</div>			
- 			);
- 		}
- 	}
-
- 	Class ImageManager extends React.Component {
-
- 		render(){
- 			return(
- 				<LeftImage />
- 				<MiddleImage />
- 				<RightImage />
- 			);
- 		}
-
- 	}
- 	ReactDOM.render(<ImageManager />, document.getElementById("second-level"));
+ 	ReactDOM.render(<Test />, document.getElementById("second-level"));
 
 
  </script>	
