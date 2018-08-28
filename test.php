@@ -274,8 +274,9 @@
 		shiftPic3();
 		var pos1 = $("#first-pic").position(); 
  	});
- 	$(".middle").css("top", $("#first-pic").position().top * 1.4);
-
+ 	$( document ).ready(function() {
+        $(".middle").css("top", $("#first-pic").position().top * 1.4);
+    });
 	
 	
 
