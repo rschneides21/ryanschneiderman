@@ -169,28 +169,22 @@
  </body>
  <script type="text/babel">
 
- 	class LeftImage extends React.Component{
- 		render(){
- 			return(
- 				<img className = "pic-links" id = "first-pic" src = "writing-copy.jpg"/>
- 			)	
- 		}
+ 	function LeftImage extends {
+ 		return(
+ 			<img className = "pic-links" id = "first-pic" src = "writing-copy.jpg"/>
+ 		)	
  	}
 
- 	class MiddleImage extends React.Component{
- 		render(){
- 			return(
- 				<div id = "second-pic" className = "pic-links"></div>
- 			)	
- 		}
+ 	function MiddleImage {
+ 		return(
+ 			<div id = "second-pic" className = "pic-links"></div>
+ 		)	
  	}
 
- 	class RightImage extends React.Componenet{
- 		render(){
- 			return(
- 				<img className = "pic-links" id = "third-pic" src = "bball-copy.jpg"/>
- 			)	
- 		}
+ 	function RightImage {
+ 		return(
+ 			<img className = "pic-links" id = "third-pic" src = "bball-copy.jpg"/>
+ 		)	
  	}
 
  	class Image extends React.Component {
