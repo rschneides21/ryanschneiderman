@@ -182,7 +182,7 @@
  					<a herf = "test.php"> WRITING
  					</a>
  				</div>			
- 			)
+ 			);
  		}
  	}
 
@@ -195,7 +195,7 @@
  					<a herf = "test.php"> Web Development
  					</a>
  				</div>			
- 			)
+ 			);
  		}
  	}
 
@@ -210,7 +210,7 @@
  					<a herf = "test.php"> Coaching
  					</a>
  				</div>			
- 			)
+ 			);
  		}
  	}
 
@@ -221,7 +221,7 @@
  				<LeftImage />
  				<MiddleImage />
  				<RightImage />
- 			)
+ 			);
  		}
 
  	}
