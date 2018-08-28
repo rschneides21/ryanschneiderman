@@ -168,47 +168,37 @@
 
  </body>
  <script type="text/babel">
- 	class LeftImage extends React.Component {
+
+ 	class LeftImage extends React.Component{
  		render(){
- 			return(
- 				<div className = "image-container">
- 					<a href = "test.php">
- 						<img className = "pic-links" id = "first-pic" src = "writing-copy.jpg"/>
- 					</a>
- 					<div className = "middle" id = "mid1">
- 						<a herf = "test.php"> Writing
- 						</a>
- 					</div>
- 				</div>
- 			);
- 		}
- 	}
- 	class MiddleImage extends React.Component{
- 		render(){
- 			return(
- 				<div className = "image-container">
- 					<a href = "test.php"><div id = "second-pic" className = "pic-links"></div></a>
- 					<div className = "middle" id = "mid2">
- 						<a herf = "test.php"> Web Development
- 						</a>
- 					</div>
- 				</div>				
- 			);
+ 			<img className = "pic-links" id = "first-pic" src = "writing-copy.jpg"/>
  		}
  	}
 
- 	class RightImage extends React.Component{
+ 	class MiddleImage {
+ 		render(){
+ 			<div id = "second-pic" className = "pic-links"></div>
+ 		}
+ 	}
+
+ 	class LeftImage {
+ 		render(){
+ 			<img className = "pic-links" id = "third-pic" src = "bball-copy.jpg"/>
+ 		}
+ 	}
+
+ 	class Image extends React.Component {
  		render(){
  			return(
  				<div className = "image-container">
- 					<a href = "test.php">
- 						<img className = "pic-links" id = "third-pic" src = "bball-copy.jpg"/>
+ 					<a href = {this.props.link}>
+ 						{this.props.image_class}
  					</a>
- 					<div className = "middle" id = "mid3">
- 						<a herf = "test.php"> Coaching
+ 					<div className = "middle" id = {this.props.imageId}>
+ 						<a herf = {this.props.link}> {this.props.imageText}
  						</a>
  					</div>
- 				</div>				
+ 				</div>
  			);
  		}
  	}
@@ -218,9 +208,9 @@
  		render(){
  			return(
  				<div>
- 					<LeftImage />
- 					<MiddleImage />
- 					<RightImage />
+ 					<Image link="test.php" image_class={<LeftImage/>} imageId = "mid1" imageText = "Writing"/>
+ 					<Image link="test.php" image_class={<MiddleImage/>} imageId = "mid2" imageText = "Web Development"/>
+ 					<Image link="test.php" image_class={<RightImage/>} imageId = "mid3" imageText = "Coaching"/>
  				</div>	
  			);
  		}
