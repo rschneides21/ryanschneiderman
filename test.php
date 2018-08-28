@@ -177,7 +177,7 @@
  		}
  	}
 
- 	class MiddleImage {
+ 	class MiddleImage extends React.Component{
  		render(){
  			return(
  				<div id = "second-pic" className = "pic-links"></div>
@@ -185,7 +185,7 @@
  		}
  	}
 
- 	class RightImage {
+ 	class RightImage extends React.Componenet{
  		render(){
  			return(
  				<img className = "pic-links" id = "third-pic" src = "bball-copy.jpg"/>
