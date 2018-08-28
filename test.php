@@ -5,6 +5,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
   <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+  <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
   <style>
 
   table.center{
@@ -137,7 +138,7 @@
 
   
 
-  
+
 
   </style>
  </head>
@@ -161,25 +162,73 @@
  </table>
 
  <div id = "second-level">
-  <div class = "image-container">
-
-    <a href = "test.php"><img id = "first-pic" class = "pic-links" src = "writing-copy.jpg" ></a>
-    <div class = "middle" id = "mid1"><a href = "test.php"> Writing </a></div>
-  </div>
-  <div class = "image-container">		
-  	<a href = "test.php"><div id = "second-pic" class = "pic-links"></div></a>
-  	<div class = "middle" id = "mid2"><a href = "test.php">Web Development </a></div>
-  </div>
-  <div class = "image-container">			
-    <a href = "test.php"><img id = "third-pic" class = "pic-links" src = "bball-copy.jpg" ></a>
-    <div class = "middle" id = "mid3"><a href = "test.php"> Coaching </a></div>
-  </div>	  
+    
  </div> 
 
 
 
 
+
  </body>
+ <script type="text/babel">
+ 	Class LeftImage extends React.Component{
+ 		render(){
+ 			return(
+ 				<div className = "image-container">
+ 					<a href = "test.php">
+ 						<img className = "pic-links" id = "first-pic" src = writing-copy.jpg>
+ 					</a>
+ 				<div className = "middle" id = "mid1">
+ 					<a herf = "test.php"> WRITING
+ 					</a>
+ 				</div>			
+ 			)
+ 		}
+ 	}
+
+ 	Class MiddleImage extends React.Component{
+ 		render(){
+ 			return(
+ 				<div className = "image-container">
+ 					<a href = "test.php"><div id = "second-pic" class = "pic-links"></div></a>
+ 				<div className = "middle" id = "mid2">
+ 					<a herf = "test.php"> Web Development
+ 					</a>
+ 				</div>			
+ 			)
+ 		}
+ 	}
+
+ 	Class RightImage extends React.Component{
+ 		render(){
+ 			return(
+ 				<div className = "image-container">
+ 					<a href = "test.php">
+ 						<img className = "pic-links" id = "third-pic" src = "bball-copy.jpg">
+ 					</a>
+ 				<div className = "middle" id = "mid3">
+ 					<a herf = "test.php"> Coaching
+ 					</a>
+ 				</div>			
+ 			)
+ 		}
+ 	}
+
+ 	Class ImageManager extends React.Component {
+
+ 		render(){
+ 			return(
+ 				<LeftImage />
+ 				<MiddleImage />
+ 				<RightImage />
+ 			)
+ 		}
+
+ 	}
+ 	ReactDOM.render(<ImageManager />, document.getElementById("second-level"));
+
+
+ </script>	
  <script>
  	function getTanDeg(deg) {
   		var rad = deg * Math.PI/180;
