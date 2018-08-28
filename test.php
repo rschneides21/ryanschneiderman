@@ -168,13 +168,14 @@
 
  </body>
  <script type="text/babel">
- 	Class Test extends React.Component {
+ 	class Test extends React.Component {
  		render() {
  			return(
  				<div> HELLO WORLD </div>
  			);	
  		}
  	}
+
  	ReactDOM.render(<Test />, document.getElementById("second-level"));
 
 
