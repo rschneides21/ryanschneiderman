@@ -168,15 +168,112 @@
 
  </body>
  <script type="text/babel">
- 	class Test extends React.Component {
- 		render() {
+ 	class LeftImage extends React.Component {
+ 		render(){
  			return(
- 				<div> HELLO WORLD </div>
- 			);	
+ 				<div className = "image-container">
+ 					<a href = "test.php">
+ 						<img className = "pic-links" id = "first-pic" src = writing-copy.jpg>
+ 					</a>
+ 				<div className = "middle" id = "mid1">
+ 					<a herf = "test.php"> WRITING
+ 					</a>
+ 				</div>			
+ 			);
  		}
  	}
 
- 	ReactDOM.render(<Test />, document.getElementById("second-level"));
+ 	class MiddleImage extends React.Component{
+ 		render(){
+ 			return(
+ 				<div className = "image-container">
+ 					<a href = "test.php"><div id = "second-pic" class = "pic-links"></div></a>
+ 				<div className = "middle" id = "mid2">
+ 					<a herf = "test.php"> Web Development
+ 					</a>
+ 				</div>			
+ 			);
+ 		}
+ 	}
+
+ 	class RightImage extends React.Component{
+ 		render(){
+ 			return(
+ 				<div className = "image-container">
+ 					<a href = "test.php">
+ 						<img className = "pic-links" id = "third-pic" src = "bball-copy.jpg">
+ 					</a>
+ 				<div className = "middle" id = "mid3">
+ 					<a herf = "test.php"> Coaching
+ 					</a>
+ 				</div>			
+ 			);
+ 		}
+ 	}
+
+ 	class ImageManager extends React.Component {
+
+ 		render(){
+ 			return(
+ 				<LeftImage />
+ 				<MiddleImage />
+ 				<RightImage />
+ 			);
+ 		}
+
+ 	}
+
+
+ 	ReactDOM.render(<ImageManager />, document.getElementById("second-level"));
+
+
+ </script>
+ <script>
+ 	function getTanDeg(deg) {
+  		var rad = deg * Math.PI/180;
+  		return Math.tan(rad);
+	}
+
+	function shiftPic3 () {
+		var secondPicLeft = $("#second-pic").position().left;
+		var secondPicWidth = $("#second-pic").width();
+		$("#third-pic").css('left', secondPicLeft + secondPicWidth);
+	}
+
+	function shiftPic2 (){
+    	var shift =  $("#second-pic").height() / getTanDeg(83);
+    	$("#second-pic").css('right', shift);
+  	}
+
+
+ 	$( window ).resize(function() {
+  		var p1 = $("#first-pic").position()
+ 		$("#third-pic").css('top', p1.top);
+		$("#second-pic").css("width", $("#first-pic").width() * 1.04);
+		$("#second-pic").css("height", $("#first-pic").height());
+		$("#third-pic").css("height", $("#first-pic").height());
+	  	$("#third-pic").css("width", $("#first-pic").width());
+	  	$(".middle").css("top", $("#first-pic").position().top * 1.4);
+ 		shiftPic2();
+ 		shiftPic3();
+ 		$("second-level").css('margin', 'auto');
+ 		
+	});
+
+ 	$(window).on('load', function () {
+      	$("#second-pic").css("width", $("#first-pic").width() * 1.04);
+      	$("#second-pic").css("height", $("#first-pic").height());
+	  	$("#third-pic").css("height", $("#first-pic").height());
+	  	$("#third-pic").css("width", $("#first-pic").width());
+
+		shiftPic2();
+		shiftPic3();
+		var pos1 = $("#first-pic").position(); 
+ 	});
+ 	$(".middle").css("top", $("#first-pic").position().top * 1.4);
+
+	
+	
 
 
  </script>	
