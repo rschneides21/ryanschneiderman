@@ -171,7 +171,15 @@
  	class LeftImage extends React.Component {
  		render(){
  			return(
- 				<div> HELLO WORLD </div>		
+ 				<div className = "image-container">
+ 					<a href = "test.php">
+ 						<img className = "pic-links" id = "first-pic" src = "writing-copy.jpg"/>
+ 					</a>
+ 					<div className = "middle" id = "mid1">
+ 						<a herf = "test.php"> WRITING
+ 						</a>
+ 					</div>
+ 				</div>
  			);
  		}
  	}
