@@ -217,9 +217,11 @@
 
  		render(){
  			return(
- 				<LeftImage />
- 				<MiddleImage />
- 				<RightImage />
+ 				<div>
+ 					<LeftImage />
+ 					<MiddleImage />
+ 					<RightImage />
+ 				</div>	
  			);
  		}
 
