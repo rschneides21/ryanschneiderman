@@ -24,6 +24,10 @@
 		</div>
 	</body>
 	<script>
-		console.log($(".side-image").width());
+		var img = $(".side-image");
+
+		img.on('load', function(){
+ 		 	console.log($(this).width());
+		});
 	</script>	
 </html>
