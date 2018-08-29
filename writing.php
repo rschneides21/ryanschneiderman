@@ -14,7 +14,7 @@
    			position:relative;
     		transform-origin:0 100%;
     		transform:skewX(-7deg);
-    		overflow: hidden
+    		overflow: hidden;
     		height: 100%;
     		width: auto;
   			z-index: 2;
