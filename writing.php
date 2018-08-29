@@ -13,8 +13,8 @@
     		transform-origin:0 100%;
     		transform:skewX(-7deg);
     		overflow:hidden;
-    		width: 300px;
-  			height: 74.7%;
+    		height: 100%;
+    		width: auto;
   			z-index: 2;
   			border-left: 6px solid white;
   			border-right: 6px solid white;
@@ -24,7 +24,7 @@
     		position:absolute;
     		width:15%; height:100%;
     		background-image:url('webdesign2.png');
-    		background-size: contain;
+    		background-size: cover;
     		transform-origin:inherit;
     		transform:skewX(7deg);
   		}
