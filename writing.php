@@ -24,5 +24,6 @@
 		</div>
 	</body>
 	<script>
+		console.log($("side-image").width());
 	</script>	
 </html>
