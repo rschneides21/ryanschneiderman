@@ -39,7 +39,7 @@
   		#side-image:before{
     		content:'';
     		position:absolute;
-    		width:175%; height:100%;
+    		width:15%; height:100%;
     		background-image:url('webdesign2.png');
     		background-size: contain;
     		transform-origin:inherit;
