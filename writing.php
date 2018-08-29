@@ -20,10 +20,11 @@
 
 	<body>
 		<div id = "body">
+			<div id ="image-container">
 				<img id = "side-image" src = "webdesign-cropped.png">
+			</div>	
 		</div>
 	</body>
 	<script>
-		$("side-image").
 	</script>	
 </html>
