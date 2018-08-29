@@ -41,7 +41,7 @@
     		position:absolute;
     		width:15%; height:100%;
     		background-image:url('webdesign2.png');
-    		background-size: contain;
+    		background-size: cover;
     		transform-origin:inherit;
     		transform:skewX(7deg);
     		margin: 0;
