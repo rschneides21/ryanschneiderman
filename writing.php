@@ -14,7 +14,7 @@
   			opacity: .3;
   		}
 
-  		.side-image: hover{
+  		.side-image:hover {
   			opacity: 1;
   		}
 
