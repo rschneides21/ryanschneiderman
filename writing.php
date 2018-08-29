@@ -11,6 +11,11 @@
 
   		.side-image{
   			float: right;
+  			opacity: .3;
+  		}
+
+  		.side-image: hover{
+  			opacity: 1;
   		}
 
 
