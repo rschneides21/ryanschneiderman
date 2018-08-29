@@ -9,7 +9,7 @@
   		<meta name="viewport" content="width=device-width, initial-scale=1.0">
   		<style>
 
-  		#side-image-container{
+  		.side-image-container .side-image{
   			float:left;
     		overflow: auto;
   		}
@@ -41,8 +41,8 @@
 
 	<body>
 		<div id = "body">
-			<div id = "side-image-container">
-				<div id = "side-image"></div>
+			<div class = "side-image-container">
+				<div class = "side-image"></div>
 			</div>	
 		</div>
 	</body>
