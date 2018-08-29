@@ -34,6 +34,7 @@
   			z-index: 2;
   			border-left: 6px solid white;
   			border-right: 6px solid white;
+  			margin: 0;
   		}
   		#side-image:before{
     		content:'';
@@ -43,6 +44,7 @@
     		background-size: contain;
     		transform-origin:inherit;
     		transform:skewX(7deg);
+    		margin: 0;
   		}
 
 
