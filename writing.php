@@ -18,6 +18,30 @@
   			opacity: 1;
   		}
 
+  		#side-image {
+    		display: block;
+    		position:relative;
+    		transform-origin:0 100%;
+    		transform:skewX(-7deg);
+    		overflow:hidden;
+    		width: 300px;
+  			height: 74.7%;
+  			z-index: 2;
+  			border-left: 6px solid white;
+  			border-right: 6px solid white;
+  		}
+  		#side-image:before{
+    		content:'';
+    		position:absolute;
+    		width:175%; height:100%;
+    		background-image:url('webdesign2.png');
+    		background-size: contain;
+    		transform-origin:inherit;
+    		transform:skewX(7deg);
+  		}
+
+
+
 
 
   		</style>
@@ -25,7 +49,9 @@
 
 	<body>
 		<div id = "body">
-			<img class = "side-image" src = "webdesign-cropped.png">
+			<div id = "image-container">
+				<div id = "side-image"></div>
+			</div>		
 		</div>
 	</body>
 	<script>
