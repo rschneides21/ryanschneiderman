@@ -11,10 +11,10 @@
   		#side-image {
     		display: block;
    			position:relative;
-   			float: right;
     		transform-origin:0 100%;
     		transform:skewX(-7deg);
-    		overflow:hidden;
+    		overflow:auto;
+    		float: left;
     		height: 200%;
     		width: auto;
   			z-index: 2;
