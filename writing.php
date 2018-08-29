@@ -20,7 +20,7 @@
 
 	<body>
 		<div id = "body">
-				<img id = "side-image" src = "webdesign-triangle.png">
+				<img id = "side-image" src = "webdesign-cropped.png">
 		</div>
 	</body>
 	<script>
