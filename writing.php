@@ -19,7 +19,7 @@
   		}
 
 
-  		.image-container #side-image{
+  		#image-container #side-image{
   			overflow: auto;
   			float: right;
   		}
