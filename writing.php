@@ -20,9 +20,7 @@
 
 	<body>
 		<div id = "body">
-			<div id ="image-container">
-				<img id = "side-image" src = "webdesign-cropped.png">
-			</div>	
+			<p><img id = "side-image" src = "webdesign-cropped.png"></p>
 		</div>
 	</body>
 	<script>
