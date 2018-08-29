@@ -11,6 +11,7 @@
   		#side-image {
     		display: block;
    			position:relative;
+   			float: right;
     		transform-origin:0 100%;
     		transform:skewX(-7deg);
     		overflow:hidden;
