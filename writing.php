@@ -6,6 +6,7 @@
   		<script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
   		<script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
   		<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+  		<meta name="viewport" content="width=device-width, initial-scale=1.0">
   		<style>
   		#side-image {
     		display: block;
@@ -13,7 +14,7 @@
     		transform-origin:0 100%;
     		transform:skewX(-7deg);
     		overflow:hidden;
-    		width: 100%;
+    		width: ;
     		height: auto;
   			z-index: 2;
   			border-left: 6px solid white;
