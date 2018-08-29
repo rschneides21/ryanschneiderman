@@ -13,7 +13,7 @@
   			float:left;
     		overflow: auto;
   		}
-  		#side-image {
+  		.side-image {
     		display: block;
    			position:relative;
     		transform-origin:0 100%;
@@ -24,7 +24,7 @@
   			border-left: 6px solid white;
   			border-right: 6px solid white;
   		}
-  		#side-image:before{
+  		.side-image:before{
     		content:'';
     		position:absolute;
     		width:15%; height:100%;
