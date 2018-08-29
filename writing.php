@@ -20,10 +20,10 @@
 
 	<body>
 		<div id = "body">
-			<p><img id = "side-image" src = "webdesign-cropped.png"></p>
+			<img classs = "side-image" src = "webdesign-cropped.png">
 		</div>
 	</body>
 	<script>
-		console.log($("#side-image").width());
+		console.log($(".side-image").width());
 	</script>	
 </html>
