@@ -9,26 +9,8 @@
   		<meta name="viewport" content="width=device-width, initial-scale=1.0">
   		<style>
 
-  		.side-image {
-    		display: block;
-   			position:relative;
-    		transform-origin:0 100%;
-    		transform:skewX(-7deg);
-    		overflow: hidden;
-    		height: 100%;
-    		width: auto;
-  			z-index: 2;
-  			border-left: 6px solid white;
-  			border-right: 6px solid white;
-  		}
-  		.side-image:before{
-    		content:'';
-    		position:absolute;
-    		width:15%; height:100%;
-    		background-image:url('webdesign2.png');
-    		background-size: cover;
-    		transform-origin:inherit;
-    		transform:skewX(7deg);
+  		#side-image{
+  			float: right;
   		}
 
 
@@ -38,9 +20,10 @@
 
 	<body>
 		<div id = "body">
-			<div class = "side-image-container">
-				<div class = "side-image"></div>
-			</div>	
+				<img id = "side-image" src = "webdesign-triangle.png">
 		</div>
 	</body>
+	<script>
+		$("side-image").
+	</script>	
 </html>
