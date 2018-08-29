@@ -13,8 +13,9 @@
     		transform-origin:0 100%;
     		transform:skewX(-7deg);
     		overflow:hidden;
-    		height: 100%;
-    		width: auto;
+    		
+    		width: 100%;
+    		height: auto%;
   			z-index: 2;
   			border-left: 6px solid white;
   			border-right: 6px solid white;
