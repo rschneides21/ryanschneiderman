@@ -18,6 +18,11 @@
   			opacity: 1;
   		}
 
+
+  		.image-container #side-image{
+  			overflow: auto;
+  			float: right;
+  		}
   		#side-image {
     		display: block;
     		position:relative;
