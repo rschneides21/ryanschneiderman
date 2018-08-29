@@ -8,13 +8,16 @@
   		<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
   		<meta name="viewport" content="width=device-width, initial-scale=1.0">
   		<style>
+
+  		#side-image-container{
+  			float:left;
+    		overflow: auto;
+  		}
   		#side-image {
     		display: block;
    			position:relative;
     		transform-origin:0 100%;
     		transform:skewX(-7deg);
-    		overflow:auto;
-    		float: left;
     		height: 200%;
     		width: auto;
   			z-index: 2;
@@ -38,7 +41,9 @@
 
 	<body>
 		<div id = "body">
-			<div id = "side-image"></div>
+			<div id = "side-image-container">
+				<div id = "side-image"></div>
+			</div>	
 		</div>
 	</body>
 </html>
