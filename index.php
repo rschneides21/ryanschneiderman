@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>PHP Test</title>
+  <title>Ryan Schneiderman</title>
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <style>
@@ -161,7 +161,7 @@
  <div id = "second-level">
   <div class = "image-container">
 
-    <a href = "test.php"><img id = "first-pic" class = "pic-links" src = "writing-copy.jpg" ></a>
+    <a href = "writing.php"><img id = "first-pic" class = "pic-links" src = "writing-copy.jpg" ></a>
     <div class = "middle" id = "mid1"><a href = "test.php"> Writing </a></div>
   </div>
   <div class = "image-container">		
