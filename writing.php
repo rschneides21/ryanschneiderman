@@ -25,12 +25,6 @@
   			padding-top: 5%;
   		}
 
-  		#sub-headers:after{
-  			content: "";
-  			display: table;
-  			clear: both;
-  		}
-
 
 
 
