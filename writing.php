@@ -9,45 +9,11 @@
   		<meta name="viewport" content="width=device-width, initial-scale=1.0">
   		<style>
 
-  		.side-image{
-  			float: right;
-  			opacity: .3;
+  		
+  		#sub-headers{
+  			float: left;
+  			margin: auto;
   		}
-
-  		.side-image:hover {
-  			opacity: 1;
-  		}
-
-
-  		#image-container #side-image{
-  			overflow: auto;
-  			float: right;
-  		}
-  		#side-image {
-    		display: block;
-    		position:relative;
-    		transform-origin:0 100%;
-    		transform:skewX(-7deg);
-    		overflow:hidden;
-			height: 100%;
-			width: auto;
-  			z-index: 2;
-  			border-left: 6px solid white;
-  			border-right: 6px solid white;
-  			margin: 0;
-  		}
-  		#side-image:before{
-    		content:'';
-    		position:absolute;
-    		width:15%; height:100%;
-    		background-image:url('webdesign2.png');
-    		background-size: cover;
-    		transform-origin:inherit;
-    		transform:skewX(7deg);
-    		margin: 0;
-  		}
-
-
 
 
 
@@ -56,9 +22,11 @@
 
 	<body>
 		<div id = "body">
-			<div id = "image-container">
-				<div id = "side-image"></div>
-			</div>		
+			<h1>Writing</h1>
+			<div id = "sub-headers">
+				<h2>articles</h2>
+				<h2>essays</h2>
+			</div>	
 		</div>
 	</body>
 	<script>
