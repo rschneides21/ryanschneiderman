@@ -34,15 +34,11 @@
   		}
 
   		#article-header{
-  			padding-right: 100px;
+  			padding-left: 35%;
+  			padding-right: 10%;
   		}
   		#essay-header{
   			padding-left: 0;
-  		}
-
-  		table{
-  			border-spacing: 0;
-  			border-collapse: collapse;
   		}
 
 
