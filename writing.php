@@ -44,7 +44,7 @@
 			<div id = "header">
 				<table style="margin:auto">
 					<tr>
-						<td><h1 class = "header">Writing</h1></td>
+						<td><div class = "header">Writing</div></td>
 					</tr>	
 					<tr>
 						<td><div id = "article-header" class = "sub-header">articles</div></td>
