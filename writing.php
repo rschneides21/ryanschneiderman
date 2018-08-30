@@ -31,11 +31,12 @@
 
   		#header-line{
   			padding-top: 3%;
+  			padding-left: 10%;
   		}
 
   		#article-header{
   			padding-left: 37%;
-  			padding-right: 12%;
+  			padding-right: 10%;
   		}
   		#essay-header{
   			padding-left: 0;
@@ -53,7 +54,7 @@
 				<div class = "header">Writing</div>
 				<div id = "article-header" class = "sub-header">articles</div>
 				<div id = "essay-header" class = "sub-header">essays</div>
-				<svg style = "height: 0; width: 80%; margin: auto;" id = "header-line">
+				<svg style = "height: 0; width: 80%;" id = "header-line">
       				<line x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
     			</svg>
 			</div>	
