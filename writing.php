@@ -16,12 +16,14 @@
   		}
   		.header{
   			font-size: 5vw;
+  			font-weight: 400;
   			margin: auto;
   			text-align: center;
   		}
 
   		.sub-header{
-  			font-size: 3vw;
+  			font-size: 2.5vw;
+  			font-weight: 400;
   			float: left;
   			text-align: center;
   			margin: auto;
@@ -35,7 +37,7 @@
   			padding-right: 20px;
   		}
   		#essay-header{
-  			padding-left: 30px;
+  			padding-left: 100px;
   		}
 
 
