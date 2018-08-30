@@ -40,6 +40,10 @@
   			padding-left: 0;
   		}
 
+  		table{
+  			border-spacing: 0;
+  		}
+
 
 
 
