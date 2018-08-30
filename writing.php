@@ -34,8 +34,8 @@
   		}
 
   		#article-header{
-  			padding-left: 35%;
-  			padding-right: 10%;
+  			padding-left: 37%;
+  			padding-right: 12%;
   		}
   		#essay-header{
   			padding-left: 0;
