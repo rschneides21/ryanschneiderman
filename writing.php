@@ -15,11 +15,13 @@
     		color: #3E3E3E;
   		}
   		.header{
+  			font-size: 2vw;
   			margin: auto;
   			text-align: center;
   		}
 
   		.sub-header{
+  			font-size: 1vw;
   			float: left;
   			text-align: center;
   			margin: auto;
