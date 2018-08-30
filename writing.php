@@ -42,7 +42,7 @@
 
   		table{
   			border-spacing: 0;
-  			border-collapse: separate;
+  			border-collapse: collapse;
   		}
 
 
