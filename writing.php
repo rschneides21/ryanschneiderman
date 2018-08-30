@@ -25,6 +25,10 @@
   			padding-top: 5%;
   		}
 
+  		#sub-headers{
+  			margin: auto;
+  		}
+
 
 
 
