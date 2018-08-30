@@ -25,6 +25,10 @@
   			padding-top: 3%;
   		}
 
+  		#article-header{
+  			padding-left: 20px;
+  		}
+
 
 
 
