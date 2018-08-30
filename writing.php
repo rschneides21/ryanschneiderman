@@ -10,7 +10,7 @@
   		<style>
 
   		
-  		#sub-headers{
+  		h2{
   			float: left;
   			margin: auto;
   		}
