@@ -12,6 +12,7 @@
   		
   		.header{
   			margin: auto;
+  			text-align: center;
   		}
 
   		.sub-header{
