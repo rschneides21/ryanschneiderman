@@ -10,6 +10,10 @@
   		<style>
 
   		
+  		#header{
+  			font-family: 'Montserrat', sans-serif;
+    		color: #3E3E3E;
+  		}
   		.header{
   			margin: auto;
   			text-align: center;
