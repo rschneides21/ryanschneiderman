@@ -17,6 +17,7 @@
 
   		.sub-header{
   			float: left;
+  			text-align: center;
   			margin: auto;
   		}
 
