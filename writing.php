@@ -10,10 +10,15 @@
   		<style>
 
   		
+  		.header{
+  			margin: auto;
+  		}
+
   		.sub-header{
   			float: left;
   			margin: auto;
   		}
+
 
 
 
@@ -23,7 +28,7 @@
 	<body>
 		<div id = "body">
 			<div id = "header">
-				<h1>Writing</h1>
+				<h1 class = "header">Writing</h1>
 				<div class = "sub-header">articles</div>
 				<div class = "sub-header">essays</dvi>
 			</div>	
