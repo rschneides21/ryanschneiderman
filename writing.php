@@ -10,15 +10,16 @@
   		<style>
 
   		
-  		#header{
+  		#headers{
   			font-family: 'Montserrat', sans-serif;
     		color: #3E3E3E;
   		}
-  		.header{
+  		#header{
   			font-size: 5vw;
   			font-weight: 300;
   			margin: auto;
   			text-align: center;
+  			padding-bottom: 2%; 
   		}
 
   		.sub-header{
@@ -50,8 +51,8 @@
 
 	<body>
 		<div id = "body">
-			<div id = "header">
-				<div class = "header">Writing</div>
+			<div id = "headers">
+				<div id = "header" >Writing</div>
 				<div id = "article-header" class = "sub-header">articles</div>
 				<div id = "essay-header" class = "sub-header">essays</div>
 				<svg style = "height: 0; width: 80%;" id = "header-line">
