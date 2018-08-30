@@ -34,10 +34,10 @@
   		}
 
   		#article-header{
-  			padding-right: 20px;
+  			padding-right: 100px;
   		}
   		#essay-header{
-  			padding-left: 100px;
+  			padding-left: 0;
   		}
 
 
