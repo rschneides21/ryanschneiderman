@@ -25,10 +25,6 @@
   			padding-top: 3%;
   		}
 
-  		#article-header{
-  			margin-left: 35%;
-  		}
-
 
 
 
