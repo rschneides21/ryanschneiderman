@@ -19,7 +19,7 @@
   			font-weight: 300;
   			margin: auto;
   			text-align: center;
-  			padding-bottom: 2%; 
+  			padding-bottom: 1%; 
   		}
 
   		.sub-header{
