@@ -32,6 +32,9 @@
   		#article-header{
   			padding-right: 20px;
   		}
+  		#essay-header{
+  			padding-left: 30px;
+  		}
 
 
 
