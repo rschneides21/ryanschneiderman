@@ -21,6 +21,10 @@
   			margin: auto;
   		}
 
+  		#header-line{
+  			padding-top: 5%;
+  		}
+
 
 
 
