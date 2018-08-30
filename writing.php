@@ -16,14 +16,14 @@
   		}
   		.header{
   			font-size: 5vw;
-  			font-weight: 400;
+  			font-weight: 300;
   			margin: auto;
   			text-align: center;
   		}
 
   		.sub-header{
   			font-size: 2.5vw;
-  			font-weight: 400;
+  			font-weight: 300;
   			float: left;
   			text-align: center;
   			margin: auto;
