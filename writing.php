@@ -51,6 +51,7 @@
 
   		.article-link{
   			padding-bottom: 2%;
+  			padding-left: 10%;
   		}
 
 
