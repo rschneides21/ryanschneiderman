@@ -91,6 +91,11 @@
 	}
   a:hover{
 		color: #1A1A1A;
+		-webkit-transition: all 0.2s linear;
+       -moz-transition: all 0.2s linear;
+        -ms-transition: all 0.2s linear;
+         -o-transition: all 0.2s linear;
+            transition: all 0.2s linear;
    }
    a:link {
     	text-decoration: none;
