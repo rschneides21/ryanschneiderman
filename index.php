@@ -164,11 +164,11 @@
     <div class = "middle" id = "mid1"><a href = "writing.php"> Writing </a></div>
   </div>
   <div class = "image-container">		
-  	<a href = "test.php"><div id = "second-pic" class = "pic-links"></div></a>
+  	<a href = "web_dev.php"><div id = "second-pic" class = "pic-links"></div></a>
   	<div class = "middle" id = "mid2"><a href = "web_dev.php">Web Development </a></div>
   </div>
   <div class = "image-container">			
-    <a href = "test.php"><img id = "third-pic" class = "pic-links" src = "bball-copy.jpg" ></a>
+    <a href = "basketball.php"><img id = "third-pic" class = "pic-links" src = "bball-copy.jpg" ></a>
     <div class = "middle" id = "mid3"><a href = "basketball.php"> Coaching </a></div>
   </div>	  
  </div> 
