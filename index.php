@@ -99,7 +99,6 @@
 
 
   .middle {
-  	 	transition: .5s ease;
   		opacity: 0;
   		position: absolute;
   		font-family: 'Montserrat', sans-serif;
