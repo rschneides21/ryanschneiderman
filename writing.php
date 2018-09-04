@@ -45,6 +45,8 @@
 
   		.header2{
   			text-align: center;
+  			padding-top: 3%;
+  			font-size: 2vw;
   		}
 
   		.article-link{
