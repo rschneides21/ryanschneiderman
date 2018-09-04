@@ -64,8 +64,6 @@
 		<div id = "body">
 			<div id = "headers">
 				<div id = "header" >Writing</div>
-				<div id = "article-header" class = "sub-header">articles</div>
-				<div id = "essay-header" class = "sub-header">essays</div>
 				<svg style = "height: 0; width: 80%;" id = "header-line">
       				<line x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
     			</svg>
