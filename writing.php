@@ -50,7 +50,7 @@
   		}
 
   		.article-link{
-  			padding-bottom: 2%;
+  			padding-top: 2%;
   			padding-left: 10%;
   		}
 
