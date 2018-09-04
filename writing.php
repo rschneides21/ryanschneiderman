@@ -52,7 +52,7 @@
   		.article-link{
   			padding-top: 2%;
   			padding-left: 10%;
-  			font-size: 1vw;
+  			font-size: 1.5vw;
   		}
 
 

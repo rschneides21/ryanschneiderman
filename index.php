@@ -91,7 +91,6 @@
 	}
   a:hover{
 		color: #1A1A1A;
-
    }
    a:link {
     	text-decoration: none;
