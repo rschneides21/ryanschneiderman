@@ -19,7 +19,6 @@
   			font-weight: 300;
   			margin: auto;
   			text-align: center;
-  			padding-bottom: 1%; 
   		}
 
       #sub-headers{
@@ -64,8 +63,8 @@
 		<div id = "body">
 			<div id = "headers">
 				<div id = "header" >Web Development</div>
-				<svg style = "height: 0; width: 80%;" id = "header-line">
-      				<line x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
+				<svg style = "height: 1; width: 80%;" id = "header-line">
+      				<line x1="0" y1="0" x2="100%" y2="1" style="stroke:#3E3E3E;stroke-width:2"/>
     			</svg>
 			</div>
       <div id = "sub-headers">
