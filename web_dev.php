@@ -22,7 +22,7 @@
   			padding-bottom: 1%; 
   		}
 
-  		.sub-header{
+  		.sub-headers{
         float: left;
   		}
 
