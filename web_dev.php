@@ -72,7 +72,7 @@
       }
 
       #techs{
-        padding-left: 20%;
+        padding-left: 25%;
       }
 
 
@@ -113,15 +113,6 @@
         <div id = "technologies">
           <div class = "header2">Technologies</div>
           <p id = "techs"> HTML/CSS/Javascript &nbsp | &nbsp  React  &nbsp | &nbsp  Bootstrap  &nbsp | &nbsp  Django  &nbsp | &nbsp  Python  &nbsp | &nbsp  Java  &nbsp | &nbsp  PHP </p>
-          <ul>
-            <li>HTML/CSS/Javascript</li>
-            <li>React</li>
-            <li>Bootstrap</li>
-            <li>Django</li>
-            <li>Python</li>
-            <li>Java</li>
-            <li>PHP</li>
-          </ul>
         </div>  
 
       </div>
