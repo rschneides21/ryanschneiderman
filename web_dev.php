@@ -62,6 +62,7 @@
 
       #design-descr{
         padding-left: 20%;
+        padding-right: 10%;
       }
 
 
