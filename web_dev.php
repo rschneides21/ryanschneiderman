@@ -54,12 +54,12 @@
         width: 35%;
         height: auto;
         border-radius: 3%;
-        padding-top: 2%;
-        padding-bottom: 2%;
       }
 
       #example-imgs{
         padding-left: 40%;
+        padding-top: 2%;
+        padding-bottom: 2%;
       }
 
       #design-descr{
