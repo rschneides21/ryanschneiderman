@@ -19,6 +19,7 @@
   			font-weight: 300;
   			margin: auto;
   			text-align: center;
+        padding-bottom: 1%;
   		}
 
       #sub-headers{
@@ -32,7 +33,7 @@
   		}
 
   		#header-line{
-
+        padding-bottom: 2%;
   			padding-left: 10%;
   		}
 
