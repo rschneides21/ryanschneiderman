@@ -54,6 +54,8 @@
         width: 35%;
         height: auto;
         border-radius: 3%;
+        padding-top: 2%;
+        padding-bottom: 2%;
       }
 
       #example-imgs{
@@ -106,6 +108,7 @@
         </div>
         <div id = "technologies">
           <div class = "header2">Technologies</div>
+          <p> HTML/CSS/Javascript  |  React  |  Bootstrap  |  Django  |  Python  |  Java  |  PHP </p>
           <ul>
             <li>HTML/CSS/Javascript</li>
             <li>React</li>
