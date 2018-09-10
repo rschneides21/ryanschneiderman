@@ -40,9 +40,8 @@
   		}
 
   		.header2{
-  			text-align: center;
-  			padding-top: 3%;
-  			font-size: 2vw;
+  			font-size: 1vw;
+        padding-right: 10%;
   		}
 
 
@@ -68,9 +67,9 @@
         <div>Examples</div>
         <div>Technologies</div>
       </div>
-			<div class = "header2">Design Philosophy</div>
-
-			<div class = "header2">Work Examples</div>
+			<div class = "header2">Design</div>
+			<div class = "header2">Examples</div>
+      <div class = "header2">Technologies</div>
 			
 		</div>
 	</body>
