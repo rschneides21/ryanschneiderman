@@ -51,8 +51,9 @@
   		}
 
       .example-img{
-        width: 25%;
+        width: 35%;
         height: auto;
+        border-radius: 5%;
       }
 
       #example-imgs{
