@@ -64,16 +64,12 @@
 	<body>
 		<div id = "body">
 			<div id = "headers">
-				<div id = "header" >Writing</div>
+				<div id = "header" >Basketball</div>
 				<svg style = "height: 0; width: 80%;" id = "header-line">
       				<line x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
     			</svg>
 			</div>
-			<div class = "header2">Sports Columnist Tufts Daily (2016 - 2017)</div>
-			<div class = "article-link"><a href = "https://tuftsdaily.com/sports/2016/03/10/chinese-super-league-and/">Chinese Super League: Here to Stay?</a></div>
-			<div class = "article-link"><a href = "https://tuftsdaily.com/sports/2016/02/18/a-walk-alone-liverpools-ticket-pricing-crisis/"> A Walk Alone - Liverpool's Ticket Pricing Crisis</a></div>
-			<div class = "article-link"><a href = "https://tuftsdaily.com/sports/2016/04/28/outside-boot-kings-italy-juve-win/"> The Kings of Italy - Juve Win Again </a></div>
-			<div class = "article-link"><a href = "https://tuftsdaily.com/sports/2016/02/18/a-walk-alone-liverpools-ticket-pricing-crisis/">Leicester City and the Decline of the Premier League Hierarchy</a>	</div>
+			<div class = "header2">Coaching Philosophy</div>
 
 			<div class = "header2">Selected Essays</div>
 			

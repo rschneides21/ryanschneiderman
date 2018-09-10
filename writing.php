@@ -76,6 +76,7 @@
 			<div class = "article-link"><a href = "https://tuftsdaily.com/sports/2016/02/18/a-walk-alone-liverpools-ticket-pricing-crisis/">Leicester City and the Decline of the Premier League Hierarchy</a>	</div>
 
 			<div class = "header2">Selected Essays</div>
+			<div class = "article-link"><a href = "VS_Seeing.pdf">Heideggerian Notions in Seeing While Moving</a></div>
 			
 		</div>
 	</body>
