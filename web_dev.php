@@ -22,7 +22,7 @@
   			padding-bottom: 1%; 
   		}
 
-  		.sub-headers{
+  		.sub-header{
         font-size: 1.5vw;
         float: left;
   		}
@@ -63,10 +63,11 @@
       				<line x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
     			</svg>
 			</div>
-
-      <div class = "sub-headers">Design Philosophy</div>
-      <div class = "sub-headers">Examples</div>
-      <div class = "sub-headers">Technologies</div>
+      <div id = "sub-headers">
+        <div class = "sub-header">Design Philosophy</div>
+        <div class = "sub-header">Examples</div>
+        <div class = "sub-header">Technologies</div>
+      </div>
 			<div class = "header2">Design</div>
 			<div class = "header2">Examples</div>
       <div class = "header2">Technologies</div>
