@@ -99,7 +99,19 @@
             <a href = "http://iotd3-dev.us-east-1.elasticbeanstalk.com/"><img class = "example-img" src = "webdesign2.png"></a>
           </div>  
         </div>
-        <div class = "header2">Technologies</div>
+        <div id = "technologies">
+          <div class = "header2">Technologies</div>
+          <ul>
+            <li>HTML/CSS/Javascript</li>
+            <li>React</li>
+            <li>Bootstrap</li>
+            <li>Django</li>
+            <li>Python</li>
+            <li>Java</li>
+            <li>PHP</li>
+          </ul>
+        </div>  
+
       </div>
 			
 		</div>
