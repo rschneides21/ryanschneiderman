@@ -62,11 +62,10 @@
       				<line x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
     			</svg>
 			</div>
-      <div class = "sub-headers">
-        <div>Design Philosophy</div>
-        <div>Examples</div>
-        <div>Technologies</div>
-      </div>
+      
+      <div class = "sub-headers">Design Philosophy</div>
+      <div class = "sub-headers">Examples</div>
+      <div class = "sub-headers">Technologies</div>
 			<div class = "header2">Design</div>
 			<div class = "header2">Examples</div>
       <div class = "header2">Technologies</div>
