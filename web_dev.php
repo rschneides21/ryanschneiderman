@@ -52,7 +52,7 @@
 
       .example-img{
         float: left;
-        width: 15%;
+        width: 25%;
         height: auto;
       }
 
