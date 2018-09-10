@@ -52,6 +52,8 @@
 
       .example-img{
         float: left;
+        width: 15%;
+        height: auto;
       }
 
       #example-imgs{
