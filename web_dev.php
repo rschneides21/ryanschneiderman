@@ -23,11 +23,7 @@
   		}
 
   		.sub-header{
-  			font-size: 2.5vw;
-  			font-weight: 300;
-  			float: left;
-  			text-align: center;
-  			margin: auto;
+        float: left;
   		}
 
   		#header-line{
@@ -49,11 +45,9 @@
   			font-size: 2vw;
   		}
 
-  		.article-link{
-  			padding-top: 2%;
-  			padding-left: 10%;
-  			font-size: 1.5vw;
-  		}
+
+
+
 
 
 
@@ -69,11 +63,12 @@
       				<line x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
     			</svg>
 			</div>
+      <div class = "sub-headers">
+        <div>Design Philosophy</div>
+        <div>Examples</div>
+        <div>Technologies</div>
+      </div>
 			<div class = "header2">Design Philosophy</div>
-			<div class = "article-link"><a href = "https://tuftsdaily.com/sports/2016/03/10/chinese-super-league-and/">Chinese Super League: Here to Stay?</a></div>
-			<div class = "article-link"><a href = "https://tuftsdaily.com/sports/2016/02/18/a-walk-alone-liverpools-ticket-pricing-crisis/"> A Walk Alone - Liverpool's Ticket Pricing Crisis</a></div>
-			<div class = "article-link"><a href = "https://tuftsdaily.com/sports/2016/04/28/outside-boot-kings-italy-juve-win/"> The Kings of Italy - Juve Win Again </a></div>
-			<div class = "article-link"><a href = "https://tuftsdaily.com/sports/2016/02/18/a-walk-alone-liverpools-ticket-pricing-crisis/">Leicester City and the Decline of the Premier League Hierarchy</a>	</div>
 
 			<div class = "header2">Work Examples</div>
 			
