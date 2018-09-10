@@ -23,7 +23,6 @@
   		}
 
       #sub-headers{
-        padding-top: 2%;
         padding-left: 30%;
         padding-bottom: 5%;
       }
@@ -34,6 +33,7 @@
   		}
 
   		#header-line{
+  			padding-top: 2%;
   			padding-left: 10%;
   		}
 
