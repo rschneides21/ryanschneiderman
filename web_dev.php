@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Writing</title>
+		<title>Web Development</title>
 		<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
  		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   		<script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
