@@ -71,9 +71,9 @@
         <div class = "sub-header">Examples</div>
         <div class = "sub-header">Technologies</div>
       </div>
-			<div class = "header2">Design</div>
-			<div class = "header2">Examples</div>
-      <div class = "header2">Technologies</div>
+			<p class = "header2">Design</p>
+			<p class = "header2">Examples</p>
+      <p class = "header2">Technologies</p>
 			
 		</div>
 	</body>
