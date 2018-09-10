@@ -53,7 +53,7 @@
       .example-img{
         width: 35%;
         height: auto;
-        border-radius: 5%;
+        border-radius: 3%;
       }
 
       #example-imgs{
@@ -97,6 +97,7 @@
 		      <div class = "header2">Examples</div>
           <div id = "example-imgs">
             <a href = "http://iotd3-dev.us-east-1.elasticbeanstalk.com/"><img class = "example-img" src = "webdesign2.png"></a>
+            <div id = "caption">Jeff Schneiderman Photography</div>
           </div>  
         </div>
         <div id = "technologies">
