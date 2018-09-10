@@ -50,6 +50,14 @@
         padding-left: 10%;
   		}
 
+      .example-img{
+        float: left;
+      }
+
+      #example-imgs{
+        padding-left: 40%;
+      }
+
 
 
 
@@ -76,8 +84,14 @@
       <div id = "content">
         <div id = "design">
 		      <div class = "header2">Design</div>
+          <p>This is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophy</p>
         </div>
-		    <div class = "header2">Examples</div>
+        <div id = "examples">
+		      <div class = "header2">Examples</div>
+          <div id = "example-imgs">
+            <a href = "http://iotd3-dev.us-east-1.elasticbeanstalk.com/"><img class = "example-img" src = "webdesign2.png"></a>
+          </div>  
+        </div>
         <div class = "header2">Technologies</div>
       </div>
 			
