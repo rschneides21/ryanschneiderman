@@ -51,7 +51,6 @@
   		}
 
       .example-img{
-        float: left;
         width: 25%;
         height: auto;
       }
