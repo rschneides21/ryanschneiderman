@@ -33,7 +33,7 @@
   		}
 
   		#header-line{
-  			padding-top: 2%;
+
   			padding-left: 10%;
   		}
 
