@@ -23,6 +23,7 @@
   		}
 
       #sub-headers{
+        padding-top: 2%;
         padding-left: 30%;
         padding-bottom: 5%;
       }
@@ -46,7 +47,7 @@
 
   		.header2{
   			font-size: 1.5vw;
-        padding-right: 10%;
+        padding-left: 10%;
   		}
 
 
