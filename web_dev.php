@@ -65,6 +65,10 @@
         padding-right: 10%;
       }
 
+      .caption{
+        padding-top: 1%;
+      }
+
 
 
 
@@ -97,7 +101,7 @@
 		      <div class = "header2">Examples</div>
           <div id = "example-imgs">
             <a href = "http://iotd3-dev.us-east-1.elasticbeanstalk.com/"><img class = "example-img" src = "webdesign2.png"></a>
-            <div id = "caption">Jeff Schneiderman Photography</div>
+            <div class = "caption">Jeff Schneiderman Photography</div>
           </div>  
         </div>
         <div id = "technologies">
