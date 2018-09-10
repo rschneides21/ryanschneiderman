@@ -58,6 +58,10 @@
         padding-left: 40%;
       }
 
+      #design-descr{
+        padding-left: 20%;
+      }
+
 
 
 
@@ -84,7 +88,7 @@
       <div id = "content">
         <div id = "design">
 		      <div class = "header2">Design</div>
-          <p>This is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophy</p>
+          <p id = "design-descr">This is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophy</p>
         </div>
         <div id = "examples">
 		      <div class = "header2">Examples</div>
