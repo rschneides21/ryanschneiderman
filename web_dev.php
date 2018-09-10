@@ -24,9 +24,11 @@
 
       #sub-headers{
         padding-left: 30%;
+        padding-bottom: 5%;
       }
   		.sub-header{
         font-size: 1.5vw;
+        padding-right: 5%;
         float: left;
   		}
 
