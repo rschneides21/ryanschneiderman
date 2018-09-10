@@ -108,7 +108,7 @@
         </div>
         <div id = "technologies">
           <div class = "header2">Technologies</div>
-          <p> HTML/CSS/Javascript  |  React  |  Bootstrap  |  Django  |  Python  |  Java  |  PHP </p>
+          <p> HTML/CSS/Javascript  |  React  |        Bootstrap  |  Django  |  Python  |  Java  |  PHP </p>
           <ul>
             <li>HTML/CSS/Javascript</li>
             <li>React</li>
