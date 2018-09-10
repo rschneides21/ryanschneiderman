@@ -22,6 +22,9 @@
   			padding-bottom: 1%; 
   		}
 
+      #sub-headers{
+        padding-left: 30%;
+      }
   		.sub-header{
         font-size: 1.5vw;
         float: left;
