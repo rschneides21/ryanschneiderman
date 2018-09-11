@@ -62,7 +62,7 @@
         padding-bottom: 2%;
       }
 
-      #design-descr{
+      .design-descr{
         padding-left: 20%;
         padding-right: 10%;
       }
@@ -101,7 +101,9 @@
       <div id = "content">
         <div id = "design">
 		      <div class = "header2">Design</div>
-          <p id = "design-descr">This is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophyThis is my design philosophy</p>
+          <p class = "design-descr">Design is a form of extraverbal communication. It tells the viewer about the subject of your design. Everything from color, to font, to arrangement communicates to the viewer something about the product. Much of design communicates to the subconcious; universal associations exist in the mind which the designer should always be cognizant of. The color red evokes passion, bloodshed, love. The font 'Comic Sans' evokes childhood, partially because it is frequently used in schools, but perhaps more importantly because the form of the font is playful and unstructured, much like the mind of a child. Any design is a composition of symbols, each assumed to have associations and connotations in the mind of the viewer. The manipulation of design ushers a message to mind of the viewer as a result of these associations and connotations. </p>
+          <p class = "design-descr">
+          But Design should not only communicate, it should communicate clearly. A design is much like an essay; it needs a thesis or core message which supports the rest of the work. The entirety of the design should align with the thesis so the message to the viewer is clear.  Anything else serves only to distract from the core message. For example, while designing the photography website below, the thesis is simply to showcase the images in the best way possible. Every design choice was made with the images in mind. Specifically, I chose a minimalist aesthetic with little color or embellishing features so as to not draw the eye of the viewer away from the core message: the images themselves.</p>
         </div>
         <div id = "examples">
 		      <div class = "header2">Examples</div>
