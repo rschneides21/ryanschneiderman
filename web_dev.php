@@ -100,6 +100,10 @@
         <div class = "sub-header">Technologies</div>
       </div>
       <div id = "content">
+        <div id = "technologies">
+          <div class = "header2">Technologies</div>
+          <p id = "techs"> HTML/CSS/Javascript &nbsp | &nbsp  React  &nbsp | &nbsp  Bootstrap  &nbsp | &nbsp  Django  &nbsp | &nbsp  Python  &nbsp | &nbsp  Java  &nbsp | &nbsp  PHP </p>
+        </div>  
         <div id = "design">
 		      <div class = "header2">Design Philosophy</div>
 
@@ -116,10 +120,7 @@
             <div class = "caption">Jeff Schneiderman Photography</div>
           </div>  
         </div>
-        <div id = "technologies">
-          <div class = "header2">Technologies</div>
-          <p id = "techs"> HTML/CSS/Javascript &nbsp | &nbsp  React  &nbsp | &nbsp  Bootstrap  &nbsp | &nbsp  Django  &nbsp | &nbsp  Python  &nbsp | &nbsp  Java  &nbsp | &nbsp  PHP </p>
-        </div>  
+        
 
       </div>
 			
