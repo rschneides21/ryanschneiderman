@@ -55,6 +55,12 @@
   			font-size: 1.5vw;
   		}
 
+      p {
+        text-align: center;
+        padding-left: 15%;
+        padding-right: 15%;
+      }
+
 
 
 

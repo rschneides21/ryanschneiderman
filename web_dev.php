@@ -72,8 +72,7 @@
       }
 
       #techs{
-        padding-left: 25%;
-        padding-bottom: 5%;
+        text-align: center;
       }
 
 
