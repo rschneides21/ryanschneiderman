@@ -112,7 +112,7 @@
 			<div class = "article-link"><a href = "https://tuftsdaily.com/sports/2016/04/28/outside-boot-kings-italy-juve-win/"> The Kings of Italy - Juve Win Again </a></div>
 			<div class = "article-link"><a href = "https://tuftsdaily.com/sports/2016/02/18/a-walk-alone-liverpools-ticket-pricing-crisis/">Leicester City and the Decline of the Premier League Hierarchy</a>	</div>
 
-			<div class = "header2">Selected Essays</div>
+			<div class = "header2">Selected Essays and Articles</div>
 			<div class = "article-link"><a href = "VS_Seeing.pdf">Heideggerian Notions in Seeing While Moving</a></div>
 			<div class = "article-link"><a href = "VS_Final.pdf">What is Visual Studies? - Barthes's Signs and the Yen Satori</a></div>
 			<div class = "article-link"><a href = "Journ_Socio.pdf">The Problem of Socioeconomic Diversity at Tufts</a></div>
