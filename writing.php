@@ -64,7 +64,7 @@
 
       	.sidebar{
       		padding-left: 5%;
-      		padding-bottom: 3%;
+      		padding-top: 3%;
 
       	}
 
@@ -94,7 +94,7 @@
 		<div id = "body">
 			<div id = "sidebar">
 				<div id = "sidebar-nav">
-					<div class = "sidebar">Home</div>
+					<div class = "sidebar-home">Home</div>
 					<svg style = "height: 1px; width: 80%;" >
       					<line id = "sidebar-line" x1="0" y1="0" x2="100%" y2="0" style="stroke:white;stroke-width:2"/>
     				</svg>
