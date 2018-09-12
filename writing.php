@@ -62,6 +62,13 @@
         	background-color: #3E3E3E;;
       	}
 
+      	.sidebar{
+      		padding-left: 5%;
+
+      	}
+
+
+
 
 
 
@@ -71,9 +78,12 @@
 	<body>
 		<div id = "body">
 			<div id = "sidebar">
-				<div class = "sidebar">test</div>
-				<div class = "sidebar">test2</div>
-				<div class = "sidebar">test3</div>
+				<div id = "sidebar-nav">
+					<div class = "sidebar">Home</div>
+					<div class = "sidebar">Writing</div>
+					<div class = "sidebar">Web Development</div>
+					<div class = "sidebar">Coaching</div>
+				</div>	
 			</div>
 			<div id = "headers">
 				<div id = "header" >Writing</div>
