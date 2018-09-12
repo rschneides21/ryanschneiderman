@@ -92,8 +92,8 @@
 			<div id = "sidebar">
 				<div id = "sidebar-nav">
 					<div class = "sidebar">Home</div>
-					<svg style = "height: 0; width: 80%;" id = "sidebar-line">
-      					<line x1="0" y1="0" x2="100%" y2="0" style="stroke:white;stroke-width:2"/>
+					<svg style = "height: 0; width: 80%;" >
+      					<line id = "sidebar-line" x1="0" y1="0" x2="100%" y2="1" style="stroke:white;stroke-width:2"/>
     				</svg>
 					<div class = "sidebar">Writing</div>
 					<div class = "sidebar">Web Development</div>
