@@ -32,7 +32,7 @@
 
   		#header-line{
   			padding-left: 16%;
-  			padding-bottom: 2%
+  			padding-top: 2%
   		}
 
   		#article-header{
