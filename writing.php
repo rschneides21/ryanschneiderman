@@ -56,7 +56,7 @@
   		#sidebar{
         	color: white;
         	position: fixed;
-        	font-size: 1.1vw;
+        	font-size: 1.2vw;
         	width: 12%;
         	height:100%;
         	background-color: #3E3E3E;;
@@ -69,7 +69,7 @@
       	}
 
       	#sidebar-nav{
-      		padding-top: 55%;
+      		padding-top: 53%;
       	}
 
       	.sidebar-home{
