@@ -65,7 +65,7 @@
 
       	.sidebar{
       		padding-left: 5%;
-      		padding-bottom: 5%;
+      		padding-bottom: 2%;
 
       	}
 
@@ -75,7 +75,7 @@
 
       	#sidebar-line{
       		padding-left: 5%;
-  			padding-top: 2%;
+  			padding-top: 5%;
   		}
 
 
