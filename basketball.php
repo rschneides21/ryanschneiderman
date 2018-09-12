@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Writing</title>
+		<title>Coaching</title>
 		<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
  		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   		<script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
@@ -63,7 +63,6 @@
 
 
 
-
   		</style>
 	</head>
 
@@ -85,6 +84,8 @@
       <p>I intend to start my career coaching at the middle school level for a couple of reasons. First of all, I think it is important to begin my career as a head coach because many of my ideas are perhaps unconventional in the current basketball coaching space and I want the freedom to experiment. Second of all, I view middle school as a critical time of development. It was the time that I was discouraged from shooting threes because I was tall and encouraged to focus on my post moves, which established a framework of thought that I carried for the rest of my basketball career. I want to impart on my players a sense of freedom to explore all parts of their game to establish a strong foundation for the rest of their basketball careers.</p>
 
       <div class = "header2">Practice Philosophy</div>
+
+
 
 			
 		</div>
