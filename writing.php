@@ -72,10 +72,13 @@
       		padding-top: 55%;
       	}
 
+      	.sidebar-home{
+      		padding-left: 5%;
+      		padding-bottom: 3%;
+      	}
+
       	#sidebar-line{
       		padding-left: 5%;
-  			padding-top: 2%;
-  			padding-bottom: 5%;
   		}
 
   		#line{
