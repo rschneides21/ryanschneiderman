@@ -95,9 +95,9 @@
     			</svg>
 			</div>
       <div id = "sub-headers">
+        <div class = "sub-header">Technologies</div>
         <div class = "sub-header">Design Philosophy</div>
         <div class = "sub-header">Examples</div>
-        <div class = "sub-header">Technologies</div>
       </div>
       <div id = "content">
         <div id = "technologies">

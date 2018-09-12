@@ -69,9 +69,17 @@
       				<line x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
     			</svg>
 			</div>
-			<div class = "header2">Coaching Philosophy</div>
+			<div class = "header2">Intro -- Why Coach?</div>
+      <p>Since my sophomore year in college, I knew that I wanted to be a basketball coach. Primarily, because I missed basketball. Basketball had been a part of my life as far as I could remember. From playing rec basketball in first grade all the way to varsity captain my senior year. In college, I read a book called "My Turn" by soccer legend Johan Cruyff wherein he talked about his playing days for Ajax and Barcelona and then his time coaching for Barcelona. He also talked about a notion called "Total Football" which is characterized by an egalitarian style of play. The striker is the first line of defense and the defenders and goalkeeper are the first line of attack. I became inspired. I researched the inception of this style of play and found that it was coined by the coach of Cruyff's boyhood club, Rinus Michels. I read Michels's book and came to realize that many of the same principles that constitute Total Football could also be applied to basketball. It was at this point I knew that I would make it my life's goal to do just that: implement Total Basketball. </p>
 
-			<div class = "header2">Selected Essays</div>
+      <p>Since then, I have devised numerous plays and schemes which lean into the principles outined in Total Football. Specifically, I have focused on devising presses and offensive sets which aim to create space in the most dangerous areas on the court, namely near the basket and around the three point line.</p>
+
+      <p>I have also constucted plans for how to create an egalitarian development system inspired by Total Football whereby no player is pidgeonholed based on their size or current skill level.  A 5'0" guard may have a growth spurt later in life and benefit from knowing how to post up and a 6'0" forward may be done growing and need to know how to handle the ball if he is to succeed at higher levels. Teaching a wide range of skills to everyone also allows for greater flexiblity in exploiting matchups during a game. It may very well be that a guard possess the greatest size differential against his opponent or a forward possess the greatest differential in speed. Total Basketball is positionless basketball.</p>
+
+      <p>I intend to start my career coaching at the middle school level for a couple of reasons. First of all, I think it is important to begin my career as a head coach because many of my ideas are perhaps unconventional in the current basketball coaching space and I want the freedom to experiment. Second of all, I view middle school as a critical time of development. It was the time that I was discouraged from shooting threes because I was tall and encouraged to focus on my post moves, which established a framework of thought that I carried for the rest of my basketball career. I want to impart on my players a sense of freedom to explore all parts of their game to establish a strong foundation for the rest of their basketball careers.</p>
+
+      <div class = "header2">Practice Philosophy</div>
+
 			
 		</div>
 	</body>

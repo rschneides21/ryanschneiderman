@@ -1,0 +1,40 @@
+Design Philosophy
+
+
+--Intro to paragraph about why design is important/connection to users/grab attention/reel user in
+
+I believe good design boils down to two things: essence and communication. 
+
+Design is a form of extraverbal communication. It tells the viewer about the subject of your design. Everything from color, to font, to arrangement communicates to the viewer something about the product. Much of design communicates to the subconcious; universal associations exist in the mind which the designer should always be cognizant of. The color red evokes passion, bloodshed, love. The font 'Comic Sans' evokes childhood, partially because it is frequently used in schools, but perhaps more importantly because the form of the font is playful and unstructured, much like the mind of a child. Any design is a composition of symbols, each assumed to have associations and connotations in the mind of the viewer. The manipulation of design ushers a message to mind of the viewer as a result of these associations and connotations. 
+
+But Design should not only communicate, it should communicate clearly. A design is much like an essay; it needs a thesis or core message which supports the rest of the work. The entirety of the design should align with the thesis so the message to the viewer is clear.  Anything else serves only to distract from the core message. 
+
+
+I see myself as a developer first and a designer second. But in many ways, the two are intertwined and the principles that make for good code are much the same as those that make for good design. The first principle of design I view as important is minimalism. Simple code is good code. Code should be self explanatory and easily readible. Elegant code should always be pursued over complex. Likewise in good design. At its core, design is a form of communication and as in any form of communication, a clear message is important. Design is much like an essay or a speech; a thesis or core message is essential. The rest of a design must clearly support the core message. Everything from color, to font, to arrangement of elements should evoke in the viewer a feeling which aligns with the core message. Anything else serves only to distract. For example, while designing the photography website below, the thesis is simply to showcase the photographs. Every design choice was made with the photographs in mind. Specifically, I chose an aesthetic with little color or embellishing features, and a simple and symmetrical font so as to not draw the eye of the viewer away from the the images.
+
+The second principle of design I view as important is experimentation. In regards to coding, the first solution is sometimes the solution I end up using, but many times it isn't. After experimenting with different approaches to a problem, I either come to the conclusion that my initial solution is the best of the bunch or I come to the conclusion that another solution is better; both are equally valuable insights. Likewise in design, rarely is first design the best design. Usually I go through multiple iterations of a design before I am satisfied. Some ideas work, and others don't, but it is impossible to know unless you experiment. Better to try and fail, than to never have tried at all.
+
+The last principle of design I view as critically important is inspiration. Design is everywhere in the world and I believe in analyzing all design, good or bad. By looking around us we can find inspiration in design that works, and critique design that doesn't thinking on how it could be improved. Similarly with coding, there is value in applying others ideas to a specific problem. If a solution already exists, why reinvent the wheel? I frequently use libraries and resources like Stack Overflow so that the majority of my mental energy is focused on the particularities of the problem at hand. 
+
+
+_______________________
+
+What exactly do I mean by design?
+
+HEART OF MESSAGE
+
+GEOMETRY -- Rule of thirds
+
+FONTS
+
+COLOR
+
+ANIMATION?
+
+Every design choice should be purposeful and work towards communicating a cohesive message to the viewer. 
+
+Experimentation is important in design. Design is always a process and every design should go through multiple revisions to try out ideas and hone the design to get to the essence of the message.
+
+Design is much like an essay... needs a thesis or core message.
+
+What is design? Design is arrangement. Design is selection. Design is communication. Good design is essence.
