@@ -57,7 +57,7 @@
         	color: white;
         	position: fixed;
         	font-size: 1.2vw;
-        	width: 12%;
+        	width: 13%;
         	height:100%;
         	background-color: #3E3E3E;;
       	}
@@ -69,7 +69,7 @@
       	}
 
       	#sidebar-nav{
-      		padding-top: 53%;
+      		padding-top: 50%;
       	}
 
       	.sidebar-home{
