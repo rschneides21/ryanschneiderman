@@ -31,7 +31,7 @@
   		}
 
   		#header-line{
-  			padding-left: 14%;
+  			padding-left: 13%;
   		}
 
   		#article-header{
@@ -50,7 +50,7 @@
 
   		.article-link{
   			padding-top: 2%;
-  			padding-left: 14%;
+  			padding-left: 15%;
   			font-size: 1.5vw;
   		}
   		#sidebar{
