@@ -56,6 +56,7 @@
   		}
 
       #sidebar{
+        text-decoration-color: white;
         position: fixed;
         width: 10%;
         height:100%;
