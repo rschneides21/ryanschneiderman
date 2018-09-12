@@ -79,7 +79,7 @@
   		}
 
   		#line{
-  			padding-top: 1%;
+  			
   		}
 
 
