@@ -75,7 +75,7 @@
 
 	<body>
 		<div id = "body">
-      <div id = "sidebar"></div>
+      <div id = "sidebar">test</div>
 			<div id = "headers">
 				<div id = "header" >Basketball Coaching</div>
 				<svg style = "height: 0; width: 80%;" id = "header-line">
