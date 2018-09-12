@@ -57,7 +57,7 @@
   		#sidebar{
         	color: white;
         	position: fixed;
-        	font-size: 1vw;
+        	font-size: 1.1vw;
         	width: 12%;
         	height:100%;
         	background-color: #3E3E3E;;
@@ -65,7 +65,7 @@
 
       	.sidebar{
       		padding-left: 5%;
-      		padding-bottom: 2%;
+      		padding-bottom: 3%;
 
       	}
 
@@ -75,7 +75,8 @@
 
       	#sidebar-line{
       		padding-left: 5%;
-  			padding-top: 5%;
+  			padding-top: 2%;
+  			padding-bottom: 2%;
   		}
 
 
