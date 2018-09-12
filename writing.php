@@ -109,7 +109,7 @@
 			<div id = "headers">
 				<div id = "header" >Writing</div>
 				<div id = "line">
-					<svg style = "height: 1px; width: 80%;" id = "header-line">
+					<svg style = "height: 2px; width: 80%;" id = "header-line">
       					<line  x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
     				</svg>
     			</div>	
