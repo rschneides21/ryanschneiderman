@@ -101,9 +101,9 @@
 					<svg style = "height: 1px; width: 80%;" >
       					<line id = "sidebar-line" x1="0" y1="0" x2="100%" y2="0" style="stroke:white;stroke-width:2"/>
     				</svg>
-					<div class = "sidebar">Writing</div>
-					<div class = "sidebar">Web Development</div>
-					<div class = "sidebar">Coaching</div>
+					<div class = "sidebar"><a href = "writing.php">Writing</a></div>
+					<div class = "sidebar"><a href = "web_dev.php">Web Development</a></div>
+					<div class = "sidebar"><a href = "basketball.php">Coaching</a></div>
 				</div>	
 			</div>
 			<div id = "headers">
