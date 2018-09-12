@@ -85,13 +85,15 @@
   			
   		}
 
-  		a:visited {
+  		a.sidebar-link:visited {
   			text-decoration: none;
+  			color: white;
 
   		}
 
-  		a:link {
+  		a.sidebar-link:link {
   			text-decoration: none;
+  			color: white;
   		}
 
 
@@ -112,9 +114,9 @@
 					<svg style = "height: 1px; width: 80%;" >
       					<line id = "sidebar-line" x1="0" y1="0" x2="100%" y2="0" style="stroke:white;stroke-width:2"/>
     				</svg>
-					<a class = "sidebar" href = "writing.php">Writing</a>
-					<a class = "sidebar" href = "web_dev.php">Web Development</a>
-					<a class = "sidebar" href = "basketball.php">Coaching</a>
+					<div class = "sidebar"><a class = "sidebar-link" href = "writing.php">Writing</a></div>
+					<div class = "sidebar"><a class = "sidebar-link" href = "web_dev.php">Web Development</a></div>
+					<div class = "sidebar"><a class = "sidebar-link" href = "basketball.php">Coaching</a></div>
 				</div>	
 			</div>
 			<div id = "headers">
