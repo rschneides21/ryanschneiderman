@@ -65,12 +65,12 @@
 
       	.sidebar{
       		padding-left: 5%;
-      		padding-bottom: 2%;
+      		padding-bottom: 5%;
 
       	}
 
       	#sidebar-nav{
-      		padding-top: 45%;
+      		padding-top: 50%;
       	}
 
       	#sidebar-line{
