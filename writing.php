@@ -69,7 +69,7 @@
       	}
 
       	#sidebar-nav{
-      		padding-top: 40%;
+      		padding-top: 41%;
       	}
 
       	.sidebar-home{
