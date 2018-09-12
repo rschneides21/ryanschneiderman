@@ -69,7 +69,7 @@
       	}
 
       	#sidebar-nav{
-      		padding-top: 15%;
+      		padding-top: 30%;
       	}
 
 
@@ -85,6 +85,9 @@
 			<div id = "sidebar">
 				<div id = "sidebar-nav">
 					<div class = "sidebar">Home</div>
+					<svg style = "height: 0; width: 10%;" id = "header-line">
+      					<line x1="0" y1="0" x2="100%" y2="0" style="stroke:white;stroke-width:2"/>
+    				</svg>
 					<div class = "sidebar">Writing</div>
 					<div class = "sidebar">Web Development</div>
 					<div class = "sidebar">Coaching</div>
