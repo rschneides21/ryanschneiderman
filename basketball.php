@@ -89,7 +89,7 @@
 
       <p>Be democratic. Listen to the kids. I believe a coach should be uncompromising on certain things like effort and the sorts of plays that are run, but it is important for the kids to feel heard. Encourage input from the players to make the team feel like a collective.</p>
 
-      <p>Have times for music, and let the kids choose what plays. Music is an awesome resource for developing rhythm particularly for dribbling drills.</p>
+      <p>Have times for music, and let the kids choose what plays. Music can be an awesome resource for developing rhythm particularly for dribbling drills.</p>
 
       <p>Scrimmage. Have scrimmages meant to reinforce plays which will be used in games, and have scrimmages that are meant for having fun and expirementing and developing chemistry. </p>
 

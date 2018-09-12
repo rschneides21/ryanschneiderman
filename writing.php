@@ -54,6 +54,12 @@
   			padding-left: 10%;
   			font-size: 1.5vw;
   		}
+  		#sidebar{
+  			position: fixed;
+  			width: 10%;
+  			height:100%;
+  			background-color: grey;
+  		}
 
 
 
@@ -69,6 +75,7 @@
       				<line x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
     			</svg>
 			</div>
+			<div id = "sidebar"></div>
 			<div class = "header2">Sports Columnist Tufts Daily (2016 - 2017)</div>
 			<div class = "article-link"><a href = "https://tuftsdaily.com/sports/2016/03/10/chinese-super-league-and/">Chinese Super League: Here to Stay?</a></div>
 			<div class = "article-link"><a href = "https://tuftsdaily.com/sports/2016/02/18/a-walk-alone-liverpools-ticket-pricing-crisis/"> A Walk Alone - Liverpool's Ticket Pricing Crisis</a></div>
