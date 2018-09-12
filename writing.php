@@ -50,7 +50,7 @@
 
   		.article-link{
   			padding-top: 2%;
-  			padding-left: 15%;
+  			padding-left: 14%;
   			font-size: 1.5vw;
   		}
   		#sidebar{
@@ -69,7 +69,7 @@
       	}
 
       	#sidebar-nav{
-      		padding-top: 50%;
+      		padding-top: 45%;
       	}
 
       	.sidebar-home{
