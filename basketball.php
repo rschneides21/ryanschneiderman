@@ -85,6 +85,21 @@
 
       <div class = "header2">Practice Philosophy</div>
 
+      <p>
+In the younger age groups I believe winning should never drive coaching decisions. Rather, the development of the kids should take the highest priority. As such, it is important to instill in young players an inner drive to improve on a daily basis in practice. I believe the most effective way to do this is to make practice fun; to make the kids look forward to practice instead of dread it. If a player is to succeed at the high school and college level they must develop a love for the game. So how do you make practice fun? 
+
+Be democratic. Listen to the kids. I believe a coach should be uncompromising on certain things like effort and the sorts of plays that are run, but it is important for the kids to feel heard. Encourage input from the players to make the team feel like a collective.
+
+Have times for music, and let the kids choose what plays. Music is an awesome resource for developing rhythm particularly for dribbling drills.
+
+Scrimmage. Have scrimmages meant to reinforce plays which will be used in games, and have scrimmages that are meant for having fun and expirementing and developing chemistry. 
+
+Allow kids to express themselves and play with camaraderie. Sports are valuable in life as much as they are inside the gym. Allow and encourage teammates to become friends.
+
+Win. Winning feels good and its why you play the game. As I mentioned above, I believe winning for winnings sake is pointless, but winning as a direct correlation of the work that the team puts in is a valuable teaching tool.  Development is first priority but a competitive spirit is important too. 
+
+It is crucial that practice be fun, but the functionality of practice extends beyond enjoyment. Practice is a time for development, and in the younger age groups the fundamentals should be prioritized. I believe in set times during practice where players have time to work on their skills; to experiment with different approaches to the problems they face during a game. Mistakes should be made during this time in practice because mistakes mean that players are pushing beyond their comfort zones. Whenever a player makes a mistake, they should be encouraged to think critically about what happened and what possible solutions might exist to correct the mistake in the future.</p>
+
 
 
 			
