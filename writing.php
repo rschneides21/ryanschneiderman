@@ -65,14 +65,16 @@
 
       	.sidebar{
       		padding-left: 5%;
+      		padding-bottom: 2%;
 
       	}
 
       	#sidebar-nav{
-      		padding-top: 30%;
+      		padding-top: 45%;
       	}
 
       	#sidebar-line{
+      		padding-left: 5%;
   			padding-top: 2%;
   		}
 
