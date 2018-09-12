@@ -70,7 +70,7 @@
       	}
 
       	#sidebar-nav{
-      		padding-top: 50%;
+      		padding-top: 59%;
       	}
 
       	#sidebar-line{
@@ -102,8 +102,8 @@
 			</div>
 			<div id = "headers">
 				<div id = "header" >Writing</div>
-				<svg style = "height: 0; width: 80%;" id = "header-line">
-      				<line x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
+				<svg style = "height: 1px; width: 80%;" >
+      				<line id = "header-line" x1="0" y1="0" x2="100%" y2="1" style="stroke:#3E3E3E;stroke-width:2"/>
     			</svg>
 			</div>
 			<div class = "header2">Sports Columnist Tufts Daily (2016 - 2017)</div>
