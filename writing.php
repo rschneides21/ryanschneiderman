@@ -70,7 +70,11 @@
 
 	<body>
 		<div id = "body">
-			<div id = "sidebar">test</div>
+			<div id = "sidebar">
+				<div class = "sidebar">test</div>
+				<div class = "sidebar">test2</div>
+				<div class = "sidebar">test3</div>
+			</div>
 			<div id = "headers">
 				<div id = "header" >Writing</div>
 				<svg style = "height: 0; width: 80%;" id = "header-line">
