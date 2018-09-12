@@ -31,7 +31,7 @@
   		}
 
   		#header-line{
-  			padding-left: 17%;
+  			padding-left: 30%;
   		}
 
   		#article-header{
