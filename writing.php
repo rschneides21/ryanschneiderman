@@ -58,7 +58,7 @@
   			position: fixed;
   			width: 10%;
   			height:100%;
-  			background-color: grey;
+  			background-color: #3E3E3E;;
   		}
 
 
