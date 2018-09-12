@@ -67,6 +67,10 @@
 
       	}
 
+      	#sidebar-nav{
+      		padding-top: 15%;
+      	}
+
 
 
 
