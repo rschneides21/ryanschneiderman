@@ -32,7 +32,7 @@
 
   		#header-line{
   			padding-left: 16%;
-  			padding-top: 2%
+  			padding-top: 2%;
   		}
 
   		#article-header{
@@ -79,6 +79,10 @@
   			padding-bottom: 5%;
   		}
 
+  		#line{
+  			padding-top: 2%;
+  		}
+
 
 
 
@@ -102,9 +106,11 @@
 			</div>
 			<div id = "headers">
 				<div id = "header" >Writing</div>
-				<svg style = "height: 0px; width: 80%;" id = "header-line">
-      				<line  x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
-    			</svg>
+				<div id = "line">
+					<svg style = "height: 0; width: 80%;" id = "header-line">
+      					<line  x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
+    				</svg>
+    			</div>	
 			</div>
 			<div class = "header2">Sports Columnist Tufts Daily (2016 - 2017)</div>
 			<div class = "article-link"><a href = "https://tuftsdaily.com/sports/2016/03/10/chinese-super-league-and/">Chinese Super League: Here to Stay?</a></div>
