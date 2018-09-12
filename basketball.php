@@ -56,7 +56,7 @@
   		}
 
       p {
-        text-align: center;
+        text-align: justify;
         padding-left: 15%;
         padding-right: 15%;
       }
@@ -70,7 +70,7 @@
 	<body>
 		<div id = "body">
 			<div id = "headers">
-				<div id = "header" >Basketball</div>
+				<div id = "header" >Basketball Coaching</div>
 				<svg style = "height: 0; width: 80%;" id = "header-line">
       				<line x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
     			</svg>
