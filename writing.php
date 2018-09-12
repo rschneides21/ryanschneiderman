@@ -58,7 +58,7 @@
         	color: white;
         	position: fixed;
         	font-size: 1vw;
-        	width: 10%;
+        	width: 12%;
         	height:100%;
         	background-color: #3E3E3E;;
       	}
@@ -85,7 +85,7 @@
 			<div id = "sidebar">
 				<div id = "sidebar-nav">
 					<div class = "sidebar">Home</div>
-					<svg style = "height: 0; width: 10%;" id = "header-line">
+					<svg style = "height: 0; width: 100%;" id = "header-line">
       					<line x1="0" y1="0" x2="100%" y2="0" style="stroke:white;stroke-width:2"/>
     				</svg>
 					<div class = "sidebar">Writing</div>
