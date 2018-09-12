@@ -89,7 +89,7 @@
   			text-decoration: none;
   		}
 
-  		a {
+  		a:link {
   			text-decoration: none;
   		}
 
