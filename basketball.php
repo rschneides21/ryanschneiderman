@@ -56,12 +56,13 @@
   		}
 
       #sidebar{
-        color: white;
-        position: fixed;
-        width: 10%;
-        height:100%;
-        background-color: #3E3E3E;;
-      }
+          color: white;
+          position: fixed;
+          font-size: 1.2vw;
+          width: 13%;
+          height:100%;
+          background-color: #3E3E3E;
+        }
 
       p {
         text-align: justify;
