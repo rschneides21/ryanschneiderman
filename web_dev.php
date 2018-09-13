@@ -15,12 +15,14 @@
     		color: #3E3E3E;
   		}
   		#header{
-  			font-size: 5vw;
-  			font-weight: 300;
-  			margin: auto;
-  			text-align: center;
-        padding-bottom: 1%;
-  		}
+        font-size: 5vw;
+        font-weight: 300;
+        margin: auto;
+        text-align: center;
+        padding-bottom: 1%; 
+        padding-left: 7%;
+        padding-top: 1%;
+      }
 
       #sub-headers{
         padding-left: 30%;
@@ -33,9 +35,8 @@
   		}
 
   		#header-line{
-        padding-bottom: 2%;
-  			padding-left: 10%;
-  		}
+        padding-left: 16%;
+      }
 
   		#article-header{
   			padding-left: 37%;
