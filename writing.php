@@ -191,7 +191,7 @@
 			var sidebar_width = $("#sidebar").width();
 			var sidebar_left = $("#sidebar").position().left;
       		var taper = $("#taper");
-      		console.log(taper.borderWidth());
+      		console.log(taper.borderWidth);
       		console.log(taper.width());
       		taper.css("left", sidebar_left + sidebar_width );
  		});
