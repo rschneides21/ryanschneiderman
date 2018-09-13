@@ -69,6 +69,41 @@
         padding-right: 15%;
       }
 
+      .sidebar{
+          padding-left: 5%;
+          padding-top: 3%;
+
+        }
+
+        #sidebar-nav{
+          padding-top: 40%;
+        }
+
+        .sidebar-home{
+          padding-left: 5%;
+          padding-bottom: 3%;
+        }
+
+        #sidebar-line{
+          padding-left: 5%;
+      }
+
+      a.sidebar-link:visited {
+        text-decoration: none;
+        color: white;
+
+      }
+
+      a.sidebar-link:link {
+        text-decoration: none;
+        color: white;
+      }
+
+      a.sidebar-link:hover {
+        text-decoration: none;
+        color: #85e8f1;
+      }
+
 
 
   		</style>
@@ -76,7 +111,17 @@
 
 	<body>
 		<div id = "body">
-      <div id = "sidebar">test</div>
+      <div id = "sidebar">
+        <div id = "sidebar-nav">
+          <div class = "sidebar-home"><a class = "sidebar-link" href = "index.php">Home</a></div>
+          <svg style = "height: 1px; width: 80%;" >
+                <line id = "sidebar-line" x1="0" y1="0" x2="100%" y2="0" style="stroke:white;stroke-width:2"/>
+            </svg>
+          <div class = "sidebar"><a class = "sidebar-link" href = "writing.php">Writing</a></div>
+          <div class = "sidebar"><a class = "sidebar-link" href = "web_dev.php">Web Development</a></div>
+          <div class = "sidebar"><a class = "sidebar-link" href = "basketball.php">Coaching</a></div>
+        </div>
+      </div>
 			<div id = "headers">
 				<div id = "header" >Basketball Coaching</div>
 				<svg style = "height: 0; width: 80%;" id = "header-line">
