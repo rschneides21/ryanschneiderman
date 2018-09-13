@@ -99,6 +99,7 @@
   		}
 
   		a:hover {
+  			color: #85e8f1;
   			text-decoration: none;
   		}
 
@@ -122,9 +123,6 @@
   			color: white;
   		}
 
-  		a.sidebar-link:hover {
-  			color: #85e8f1;
-  		}
 
   		a#selected:link {
         	color: #85e8f1;
