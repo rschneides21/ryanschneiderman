@@ -139,7 +139,6 @@
       		width: 0;
 			height: 0;
 			border-style: solid;
-			border-width: 0 0 700px 50px;
 			border-color: transparent transparent white transparent;
 			z-index: 2;
 			left: 12%;
@@ -190,6 +189,8 @@
 		$(window).on('load', function () {
 			var sidebar_width = $("#sidebar").width();
 			var sidebar_left = $("#sidebar").position().left;
+			var taper = $("#taper");
+			taper.css("border-width", "0 0 500px 75px")
       		console.log($("#taper").style.borderWidth);
       		console.log(taper.width());
       		taper.css("left", sidebar_left + sidebar_width );
