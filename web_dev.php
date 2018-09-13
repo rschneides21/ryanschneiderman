@@ -25,7 +25,7 @@
       }
 
       #sub-headers{
-        padding-left: 30%;
+        padding-left: 35%;
         padding-bottom: 5%;
       }
   		.sub-header{
