@@ -25,12 +25,12 @@
       }
 
       #sub-headers{
-        padding-left: 40%;
+        padding-left: 30%;
         padding-bottom: 5%;
       }
   		.sub-header{
         font-size: 1.5vw;
-        padding-right: 5%;
+        padding-right: 15%;
         float: left;
   		}
 
