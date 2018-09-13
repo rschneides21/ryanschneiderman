@@ -195,7 +195,7 @@
 
 			taper.css("border-width", "0 0 100vh 75px");
       		console.log(taper.width());
-      		taper.css("left", sidebar_left + sidebar_width );
+      		taper.css("left", sidebar_left + sidebar_width - 75);
  		});
 
 	</script>	
