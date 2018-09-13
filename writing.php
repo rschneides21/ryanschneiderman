@@ -180,6 +180,13 @@
 			<div class = "article"><a class = "article-link" href = "VS_Final.pdf">What is Visual Studies? - Barthes's Signs and the Yen Satori</a></div>
 			<div class = "article"><a class = "article-link" href = "Journ_Socio.pdf">The Problem of Socioeconomic Diversity at Tufts</a></div>
 			<div class = "article"><a class = "article-link" href = "Journ_Opio.pdf">A Commentary on the NFL’s Opioid Crisis: Why is Cannabis Being Ignored?</a></div>
+			<div class = "article"><a class = "article-link" href = "Journ_Opio.pdf">A Commentary on the NFL’s Opioid Crisis: Why is Cannabis Being Ignored?</a></div>
+			<div class = "article"><a class = "article-link" href = "Journ_Opio.pdf">A Commentary on the NFL’s Opioid Crisis: Why is Cannabis Being Ignored?</a></div>
+			<div class = "article"><a class = "article-link" href = "Journ_Opio.pdf">A Commentary on the NFL’s Opioid Crisis: Why is Cannabis Being Ignored?</a></div>
+			<div class = "article"><a class = "article-link" href = "Journ_Opio.pdf">A Commentary on the NFL’s Opioid Crisis: Why is Cannabis Being Ignored?</a></div>
+			<div class = "article"><a class = "article-link" href = "Journ_Opio.pdf">A Commentary on the NFL’s Opioid Crisis: Why is Cannabis Being Ignored?</a></div>
+			<div class = "article"><a class = "article-link" href = "Journ_Opio.pdf">A Commentary on the NFL’s Opioid Crisis: Why is Cannabis Being Ignored?</a></div>
+			<div class = "article"><a class = "article-link" href = "Journ_Opio.pdf">A Commentary on the NFL’s Opioid Crisis: Why is Cannabis Being Ignored?</a></div>
 		</div>
 	</body>
 	<script>
