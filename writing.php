@@ -32,7 +32,7 @@
   		}
 
   		#header-line{
-  			padding-left: 17%;
+  			padding-left: 13%;
   		}
 
   		#article-header{
@@ -99,7 +99,7 @@
 
   		a.sidebar-link:hover {
   			text-decoration: none;
-  			color: #cccccc;
+  			color: #9ae0e0;
   		}
 
 
