@@ -192,7 +192,7 @@
 			var sidebar_height = $("#sidebar").width();
 			var taper = $("#taper");
 
-			taper.css("border-width", "0 0 "+ sidebar_height + " 75px")
+			taper.css("border-width", "0 0 100vh 75px");
       		console.log(taper.width());
       		taper.css("left", sidebar_left + sidebar_width );
  		});
