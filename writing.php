@@ -190,7 +190,6 @@
 		$(window).on('load', function () {
 			var sidebar_width = $("#sidebar").width();
 			var sidebar_left = $("#sidebar").position().left;
-      		var taper = ;
       		console.log($("#taper").style.borderWidth);
       		console.log(taper.width());
       		taper.css("left", sidebar_left + sidebar_width );
