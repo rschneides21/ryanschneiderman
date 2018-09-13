@@ -67,7 +67,7 @@
 
       p {
         text-align: justify;
-        padding-left: 15%;
+        padding-left: 17%;
         padding-right: 15%;
       }
 
