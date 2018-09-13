@@ -21,7 +21,7 @@
   			text-align: center;
   			padding-bottom: 1%; 
   			padding-left: 7%;
-  			padding-top: 2%;
+  			padding-top: 1%;
   		}
 
   		.sub-header{
