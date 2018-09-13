@@ -157,8 +157,8 @@
                 <line id = "sidebar-line" x1="0" y1="0" x2="100%" y2="0" style="stroke:white;stroke-width:2"/>
             </svg>
           <div class = "sidebar"><a class = "sidebar-link" href = "writing.php">Writing</a></div>
-          <div class = "sidebar"><a class = "sidebar-link" href = "web_dev.php">Web Development</a></div>
-          <div class = "sidebar"><a class = "sidebar-link" id = "selected" href = "basketball.php">Coaching</a></div>
+          <div class = "sidebar"><a class = "sidebar-link" id = "selected" href = "web_dev.php">Web Development</a></div>
+          <div class = "sidebar"><a class = "sidebar-link"  href = "basketball.php">Coaching</a></div>
         </div>
       </div>
       <div id = "taper"></div>
