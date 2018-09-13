@@ -15,12 +15,14 @@
     		color: #3E3E3E;
   		}
   		#header{
-  			font-size: 5vw;
-  			font-weight: 300;
-  			margin: auto;
-  			text-align: center;
-  			padding-bottom: 1%; 
-  		}
+        font-size: 5vw;
+        font-weight: 300;
+        margin: auto;
+        text-align: center;
+        padding-bottom: 1%; 
+        padding-left: 7%;
+        padding-top: 1%;
+      }
 
   		.sub-header{
   			font-size: 2.5vw;
@@ -31,9 +33,8 @@
   		}
 
   		#header-line{
-  			padding-top: 2%;
-  			padding-left: 10%;
-  		}
+        padding-left: 16%;
+      }
 
   		#article-header{
   			padding-left: 37%;
@@ -143,9 +144,9 @@
       <div id = "taper"></div>
 			<div id = "headers">
 				<div id = "header" >Basketball Coaching</div>
-				<svg style = "height: 0; width: 80%;" id = "header-line">
-      				<line x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
-    			</svg>
+				<svg style = "height: 1px; width: 84%;" id = "header-line">
+                <line  x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
+            </svg>
 			</div>
 			<div class = "header2">Intro - Why Coach?</div>
       <p>Since my sophomore year in college, I knew that I wanted to be a basketball coach, mostly because I missed basketball. Basketball had been a part of my life as far as I could remember. From playing rec basketball in first grade all the way to varsity captain my senior year of high school. In college, I read a book called "My Turn" by soccer legend Johan Cruyff wherein he talked about his playing days for Ajax and Barcelona and then his time coaching for Barcelona. He also talked about a notion called "Total Football" which is characterized by an egalitarian style of play. The striker is the first line of defense and the defenders and goalkeeper are the first line of attack. I became inspired. I researched the inception of this style of play and found that it was coined by the coach of Cruyff's boyhood club, Rinus Michels. I read Michels's book and came to realize that many of the same principles that constitute Total Football could also be applied to basketball. It was at this point I knew that I would make it my life's goal to do just that: implement Total Basketball. </p>
