@@ -24,10 +24,6 @@
         padding-top: 1%;
       }
 
-      #headers{
-        position:fixed;
-      }
-
   		.sub-header{
   			font-size: 2.5vw;
   			font-weight: 300;
