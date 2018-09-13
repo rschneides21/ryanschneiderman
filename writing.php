@@ -112,7 +112,7 @@
   		}
 
   		a.article-link:hover {
-  			color: #85e8f1;
+  			color: #75ced6;
   		}
 
   		a.sidebar-link:visited {
