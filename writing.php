@@ -189,9 +189,10 @@
 		$(window).on('load', function () {
 			var sidebar_width = $("#sidebar").width();
 			var sidebar_left = $("#sidebar").position().left;
+			var sidebar_height = $("#sidebar").width();
 			var taper = $("#taper");
-			taper.css("border-width", "0 0 500px 75px")
-      		console.log($("#taper").style.borderWidth);
+
+			taper.css("border-width", "0 0 "+ sidebar_height + " 75px")
       		console.log(taper.width());
       		taper.css("left", sidebar_left + sidebar_width );
  		});
