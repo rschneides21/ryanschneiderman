@@ -51,7 +51,7 @@
 
   		.article{
   			padding-top: 2%;
-  			padding-left: 15%;
+  			padding-left: 18%;
   			font-size: 1.5vw;
   		}
   		#sidebar{
