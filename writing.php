@@ -20,6 +20,7 @@
   			margin: auto;
   			text-align: center;
   			padding-bottom: 1%; 
+  			padding-left: 7%;
   		}
 
   		.sub-header{
