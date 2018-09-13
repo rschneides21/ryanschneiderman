@@ -160,10 +160,7 @@
 		</div>
 	</body>
 	<script>
-		var img = $(".side-image");
-
-		img.on('load', function(){
- 		 	console.log($(this).width());
-		});
+		var sidebar_width = $(".sidebar").width;
+		console.log(sidebar_width);
 	</script>	
 </html>
