@@ -118,6 +118,7 @@
 			border-width: 0 0 700px 50px;
 			border-color: transparent transparent white transparent;
 			z-index: 2;
+			padding-left: 13
       	}
 
   		</style>
