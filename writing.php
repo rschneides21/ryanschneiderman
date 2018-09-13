@@ -99,7 +99,6 @@
   		}
 
   		a:hover {
-  			color: #85e8f1;
   			text-decoration: none;
   		}
 
@@ -112,7 +111,7 @@
   		}
 
   		a.article-link:hover {
-  			color: #3E3E3E;
+  			color: #85e8f1;
   		}
 
   		a.sidebar-link:visited {
@@ -121,6 +120,10 @@
 
   		a.sidebar-link:link {
   			color: white;
+  		}
+
+  		a.sidebar-link:hover {
+  			color: #85e8f1;
   		}
 
 
