@@ -49,7 +49,7 @@
   			font-size: 2vw;
   		}
 
-  		.article-link{
+  		.article{
   			padding-top: 2%;
   			padding-left: 15%;
   			font-size: 1.5vw;
