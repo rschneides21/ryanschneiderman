@@ -92,7 +92,6 @@
       a.sidebar-link:visited {
         text-decoration: none;
         color: white;
-
       }
 
       a.sidebar-link:link {
@@ -102,6 +101,14 @@
 
       a.sidebar-link:hover {
         text-decoration: none;
+        color: #85e8f1;
+      }
+
+      a#selected:link {
+        color: #85e8f1;
+      }
+
+      a#selected:visited{
         color: #85e8f1;
       }
 
@@ -120,7 +127,7 @@
             </svg>
           <div class = "sidebar"><a class = "sidebar-link" href = "writing.php">Writing</a></div>
           <div class = "sidebar"><a class = "sidebar-link" href = "web_dev.php">Web Development</a></div>
-          <div class = "sidebar"><a class = "sidebar-link" href = "basketball.php">Coaching</a></div>
+          <div class = "sidebar"><a class = "sidebar-link" id = "selected" href = "basketball.php">Coaching</a></div>
         </div>
       </div>
 			<div id = "headers">
