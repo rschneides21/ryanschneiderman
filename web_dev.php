@@ -48,7 +48,7 @@
 
   		.header2{
   			font-size: 1.5vw;
-        padding-left: 20%;
+        padding-left: 17%;
   		}
 
       .example-img{
