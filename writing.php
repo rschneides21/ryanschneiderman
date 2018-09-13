@@ -110,7 +110,7 @@
 		<div id = "body">
 			<div id = "sidebar">
 				<div id = "sidebar-nav">
-					<div class = "sidebar-home">Home</div>
+					<div class = "sidebar-home"><a class = "sidebar-link" href = "index.php">Home</a></div>
 					<svg style = "height: 1px; width: 80%;" >
       					<line id = "sidebar-line" x1="0" y1="0" x2="100%" y2="0" style="stroke:white;stroke-width:2"/>
     				</svg>
