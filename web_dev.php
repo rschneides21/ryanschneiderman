@@ -200,7 +200,7 @@
 		</div>
 	</body>
 	<script>
-    $("#example-imgs").innerHtml += "<a href = 'http://iotd3-dev.us-east-1.elasticbeanstalk.com/'><img class = 'example-img' src = 'webdesign2.png'></a> <div class = 'caption'>Jeff Schneiderman Photography</div>";
+    $("#example-imgs").append( "<a href = 'http://iotd3-dev.us-east-1.elasticbeanstalk.com/'><img class = 'example-img' src = 'webdesign2.png'></a> <div class = 'caption'>Jeff Schneiderman Photography</div>");
 		$(window).on('load', function () {
       var sidebar_width = $("#sidebar").width();
       var sidebar_left = $("#sidebar").position().left;
