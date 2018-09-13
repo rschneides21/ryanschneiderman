@@ -58,7 +58,7 @@
         	color: white;
         	position: fixed;
         	font-size: 1.2vw;
-        	width: 13%;
+        	width: 15%;
         	height:100%;
         	background-color: #3E3E3E;
       	}
@@ -110,6 +110,16 @@
         	color: #85e8f1;
       	}
 
+      	#taper{
+      		position: fixed;
+      		width: 0;
+			height: 0;
+			border-style: solid;
+			border-width: 0 0 700px 50px;
+			border-color: transparent transparent white transparent;
+			z-index: 2;
+      	}
+
   		</style>
 	</head>
 
@@ -126,6 +136,7 @@
 					<div class = "sidebar"><a class = "sidebar-link" href = "basketball.php">Coaching</a></div>
 				</div>	
 			</div>
+			<div id = "taper"></div>
 			<div id = "headers">
 				<div id = "header" >Writing</div>
 				<div id = "line">
