@@ -99,7 +99,7 @@
 
   		a.sidebar-link:hover {
   			text-decoration: none;
-  			color: grey;
+  			color: #cccccc;
   		}
 
 
