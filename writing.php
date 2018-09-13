@@ -160,10 +160,15 @@
 		</div>
 	</body>
 	<script>
-		var sidebar_width = $("#sidebar").width();
-		var sidebar_left = $("#sidebar").position().left;
-		console.log(sidebar_width);
-		console.log(sidebar_left);
+		
+
+
+		$(window).on('load', function () {
+			var sidebar_width = $("#sidebar").width();
+			var sidebar_left = $("#sidebar").position().left;
+      		var taper = $("#taper");
+      		taper.css("left", sidebar_left + sidebar_width)
+ 		});
 
 	</script>	
 </html>
