@@ -160,7 +160,10 @@
 		</div>
 	</body>
 	<script>
-		var sidebar_width = $(".sidebar").width;
+		var sidebar_width = $("#sidebar").width;
+		var sidebar_left = $("#sidebar").position().left;
 		console.log(sidebar_width);
+		console.log(sidebar_left);
+
 	</script>	
 </html>
