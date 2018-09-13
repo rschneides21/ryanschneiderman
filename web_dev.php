@@ -200,10 +200,15 @@
 		</div>
 	</body>
 	<script>
-		var img = $(".side-image");
+		$(window).on('load', function () {
+      var sidebar_width = $("#sidebar").width();
+      var sidebar_left = $("#sidebar").position().left;
+      var sidebar_height = $("#sidebar").width();
+      var taper = $("#taper");
 
-		img.on('load', function(){
- 		 	console.log($(this).width());
-		});
+      taper.css("border-width", "0 0 100vh 75px");
+          console.log(taper.width());
+          taper.css("left", sidebar_left + sidebar_width - 75);
+    });
 	</script>	
 </html>
