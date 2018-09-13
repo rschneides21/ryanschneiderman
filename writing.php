@@ -97,6 +97,11 @@
   			color: white;
   		}
 
+  		a.sidebar-link:hover {
+  			text-decoration: none;
+  			color: grey;
+  		}
+
 
 
 
