@@ -39,7 +39,7 @@
     max-width: 50%;
   }
   #header-line{
-    
+    padding-top: 10px;
   }
   #second-level{
     padding-top: 10px;
@@ -146,7 +146,7 @@
   <p id = "Name">RYAN SCHNEIDERMAN</p>
   <div id = "sub-header">
     <p id = "phone" class="sub-header">(802) 777 0769</p>
-    <svg style = "height: 25%; width: 1px;" class = "sub-header" id = "header-line">
+    <svg style = "height: 5%; width: 1px;" class = "sub-header" id = "header-line">
       <line x1="0" y1="0" x2="1" y2="100%" style="stroke:#3E3E3E;stroke-width:2"/>
     </svg>
     <p id = "email" class = "sub-header">rschneides21@gmail.com</p>
