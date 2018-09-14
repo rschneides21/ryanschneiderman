@@ -28,6 +28,7 @@
         position: fixed;
         width: 100%;
         opacity: 1;
+        z-index: 2;
       }
 
       #sub-headers{
@@ -151,10 +152,6 @@
           z-index: 2;
           left: 12%;
         }
-
-      #technologies{
-        
-      }  
 
 
 
