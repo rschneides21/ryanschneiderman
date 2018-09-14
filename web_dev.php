@@ -24,6 +24,12 @@
         padding-top: 1%;
       }
 
+      #headers{
+        position: fixed;
+        width: 100%;
+        top: 0;
+      }
+
       #sub-headers{
         padding-left: 30%;
         padding-bottom: 5%;
