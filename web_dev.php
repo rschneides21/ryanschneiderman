@@ -93,6 +93,7 @@
           width: 15%;
           height:100%;
           background-color: #3E3E3E;
+          z-index: 2;
         }
 
       p {
@@ -149,7 +150,7 @@
           height: 0;
           border-style: solid;
           border-color: transparent transparent white transparent;
-          z-index: 2;
+          z-index: 3;
           left: 12%;
         }
 

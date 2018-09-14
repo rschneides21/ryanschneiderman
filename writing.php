@@ -24,15 +24,6 @@
   			padding-top: 1%;
   		}
 
-  		.sub-header{
-  			font-size: 2.5vw;
-  			font-weight: 300;
-  			float: left;
-  			text-align: center;
-  			margin: auto;
-  			padding-left: 7%;
-  		}
-
   		#header-line{
   			padding-left: 16%;
   		}
@@ -49,6 +40,7 @@
   			text-align: center;
   			padding-top: 3%;
   			font-size: 2vw;
+  			padding-left: 7%;
   		}
 
   		.article{
@@ -88,21 +80,6 @@
   			
   		}
 
-  		a {
-  			text-decoration: none;
-  		}
-
-  		a:visited {
-  			text-decoration: none;
-  		}
-
-  		a:link {
-  			text-decoration: none;
-  		}
-
-  		a:hover {
-  			text-decoration: none;
-  		}
 
   		a.article-link:link {
   			color: #3E3E3E;
@@ -117,14 +94,17 @@
   		}
 
   		a.sidebar-link:visited {
+  			text-decoration: none;
   			color: white;
   		}
 
   		a.sidebar-link:link {
+  			text-decoration: none;
   			color: white;
   		}
 
   		a.sidebar-link:hover {
+  			text-decoration: none;
   			color: #85e8f1;
   		}
 
