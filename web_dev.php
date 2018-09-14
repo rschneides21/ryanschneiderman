@@ -49,8 +49,9 @@
   		.header2{
         text-align: center;
   			font-size: 1.5vw;
-        padding-left: 5%;
+        padding-left: 4%;
         font-size: 2vw;
+        padding-top: 3%;
   		}
 
       .example-img{
@@ -146,7 +147,7 @@
         }
 
       #technologies{
-        padding-top: 5%;
+        
       }  
 
 
