@@ -55,7 +55,7 @@
   		.header2{
         text-align: center;
   			font-size: 1.5vw;
-        padding-left: 2%;
+        padding-left: 0;
         font-size: 2vw;
         padding-top: 3%;
   		}
