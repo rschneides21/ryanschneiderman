@@ -62,6 +62,7 @@
         	width: 15%;
         	height:100%;
         	background-color: #3E3E3E;
+        	z-index: 2;
       	}
 
       	.sidebar{
@@ -71,7 +72,7 @@
       	}
 
       	#sidebar-nav{
-      		padding-top: 38%;
+      		padding-top: 37%;
       	}
 
       	.sidebar-home{
@@ -130,7 +131,7 @@
 			height: 0;
 			border-style: solid;
 			border-color: transparent transparent white transparent;
-			z-index: 2;
+			z-index: 3;
 			left: 12%;
       	}
 
