@@ -30,6 +30,7 @@
   			float: left;
   			text-align: center;
   			margin: auto;
+  			padding-left: 7%;
   		}
 
   		#header-line{
