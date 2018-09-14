@@ -109,7 +109,7 @@
         }
 
         #sidebar-nav{
-          padding-top: 40%;
+          padding-top: 38%;
         }
 
         .sidebar-home{
@@ -219,8 +219,8 @@
           var sidebar_height = $("#sidebar").width();
           var taper_width = sidebar_width / 2.5;
           var taper = $("#taper");
-          taper.css("border-width", "0 0 100vh " + (taper_width + 2)  + "px");
-          taper.css("left", sidebar_left + sidebar_width - taper_width -1);
+          taper.css("border-width", "0 0 100vh " + (taper_width + 5)  + "px");
+          taper.css("left", sidebar_left + sidebar_width - taper_width - 1);
       }
 
     $(window).resize(function() {
