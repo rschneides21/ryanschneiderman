@@ -139,9 +139,6 @@
   </style>
  </head>
  <body>
- <table class = "center">
- <tr>
- <td>	
  <div id = "banner">
   <p id = "Name">RYAN SCHNEIDERMAN</p>
   <div id = "sub-header">
@@ -153,9 +150,6 @@
     
   </div>  
  </div>
-</td> 
-</tr>
- </table>
 
  <div id = "second-level">
   <div class = "image-container">
