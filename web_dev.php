@@ -49,6 +49,7 @@
   		.header2{
   			font-size: 1.5vw;
         padding-left: 17%;
+        text-decoration: underline;
   		}
 
       .example-img{
@@ -168,16 +169,17 @@
       				<line x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
     			</svg>
 			</div>
-      <div id = "sub-headers">
-        <div class = "sub-header">Technologies</div>
-        <div class = "sub-header">Design Philosophy</div>
-        <div class = "sub-header">Examples</div>
-      </div>
       <div id = "content">
         <div id = "technologies">
           <div class = "header2">Technologies</div>
           <p id = "techs"> HTML/CSS/Javascript &nbsp | &nbsp  React  &nbsp | &nbsp  Bootstrap  &nbsp | &nbsp  Django  &nbsp | &nbsp  Python  &nbsp | &nbsp  Java  &nbsp | &nbsp  PHP </p>
-        </div>  
+        </div> 
+        <div id = "examples">
+          <div class = "header2">Examples</div>
+          <div id = "example-imgs">
+            
+          </div>  
+        </div> 
         <div id = "design">
 		      <div class = "header2">Design Philosophy</div>
 
@@ -187,12 +189,7 @@
 
           <p class = "design-descr">The last principle of design I view as critically important is inspiration. Design is everywhere in the world and I believe in analyzing all design, good or bad. By looking around us we can find inspiration in design that works, and critique design that doesn't thinking on how it could be improved. Similarly with coding, there is value in applying others ideas to a specific problem. If a solution already exists, why reinvent the wheel? I frequently use libraries and resources like Stack Overflow so that the majority of my mental energy is focused on the particularities of the problem at hand. </p>
         </div>
-        <div id = "examples">
-		      <div class = "header2">Examples</div>
-          <div id = "example-imgs">
-            
-          </div>  
-        </div>
+        
         
 
       </div>
