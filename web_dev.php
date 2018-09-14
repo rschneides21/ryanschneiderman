@@ -49,7 +49,7 @@
   		.header2{
         text-align: center;
   			font-size: 1.5vw;
-        padding-left: 4%;
+        padding-left: 2%;
         font-size: 2vw;
         padding-top: 3%;
   		}
