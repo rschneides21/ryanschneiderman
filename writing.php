@@ -160,6 +160,7 @@
     				</svg>
     			</div>	
 			</div>
+			<div id = "content">
 			<div class = "header2">Selected Essays and Articles</div>
 			<div class = "article"><a class = "article-link" href = "VS_Seeing.pdf">Heideggerian Notions in Seeing While Moving</a></div>
 			<div class = "article"><a class = "article-link" href = "VS_Final.pdf">What is Visual Studies? - Barthes's Signs and the Yen Satori</a></div>
@@ -170,7 +171,8 @@
 			<div class = "article"><a class = "article-link" href = "https://tuftsdaily.com/sports/2016/03/10/chinese-super-league-and/">Chinese Super League: Here to Stay?</a></div>
 			<div class = "article"><a class = "article-link" href = "https://tuftsdaily.com/sports/2016/02/18/a-walk-alone-liverpools-ticket-pricing-crisis/"> A Walk Alone - Liverpool's Ticket Pricing Crisis</a></div>
 			<div class = "article"><a class = "article-link" href = "https://tuftsdaily.com/sports/2016/04/28/outside-boot-kings-italy-juve-win/"> The Kings of Italy - Juve Win Again </a></div>
-			<div class = "article"><a class = "article-link" href = "https://tuftsdaily.com/sports/2016/02/18/a-walk-alone-liverpools-ticket-pricing-crisis/">Leicester City and the Decline of the Premier League Hierarchy</a>	</div>
+			<div class = "article"><a class = "article-link" href = "https://tuftsdaily.com/sports/2016/02/18/a-walk-alone-liverpools-ticket-pricing-crisis/">Leicester City and the Decline of the Premier League Hierarchy</a></div>
+		</div>
 
 			
 		</div>
