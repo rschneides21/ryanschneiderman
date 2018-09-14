@@ -156,6 +156,7 @@
                 <line  x1="0" y1="0" x2="100%" y2="0" style="stroke:#3E3E3E;stroke-width:2"/>
             </svg>
 			</div>
+      <div id = "content">
 			<div class = "header2">Why Coach?</div>
       <p>Since my sophomore year in college, I knew that I wanted to be a basketball coach, mostly because I missed basketball. Basketball had been a part of my life as far as I could remember. From playing rec basketball in first grade all the way to varsity captain my senior year of high school. In college, I read a book called "My Turn" by soccer legend Johan Cruyff wherein he talked about his playing days for Ajax and Barcelona and then his time coaching for Barcelona. He also talked about a notion called "Total Football" which is characterized by an egalitarian style of play. The striker is the first line of defense and the defenders and goalkeeper are the first line of attack. I became inspired. I researched the inception of this style of play and found that it was coined by the coach of Cruyff's boyhood club, Rinus Michels. I read Michels's book and came to realize that many of the same principles that constitute Total Football could also be applied to basketball. It was at this point I knew that I would make it my life's goal to do just that: implement Total Basketball. </p>
 
@@ -180,7 +181,7 @@
       <p>Win. Winning feels good and its why you play the game. As I mentioned above, I believe winning for winnings sake is pointless, but winning as a direct correlation of the work that the team puts in is a valuable teaching tool.  Development is first priority but a competitive spirit is important too. </p>
 
       <p>It is crucial that practice be fun, but the functionality of practice extends beyond enjoyment. Practice is a time for development, and in the younger age groups the fundamentals should be prioritized. I believe in set times during practice where players have time to work on their skills; to experiment with different approaches to the problems they face during a game. Mistakes should be made during this time in practice because mistakes mean that players are pushing beyond their comfort zones. Whenever a player makes a mistake, they should be encouraged to think critically about what happened and what possible solutions might exist to correct the mistake in the future.</p>
-
+    </div>
 
 
 			
