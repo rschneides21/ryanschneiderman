@@ -47,8 +47,9 @@
   		}
 
   		.header2{
+        text-align: center;
   			font-size: 1.5vw;
-        padding-left: 17%;
+        padding-left: 7%;
         text-decoration: underline;
   		}
 
@@ -144,6 +145,10 @@
           left: 12%;
         }
 
+      #technologies{
+        padding-top: 5%;
+      }  
+
 
 
   		</style>
@@ -170,7 +175,7 @@
     			</svg>
 			</div>
       <div id = "content">
-        <div id = "technologies" style = "padding-top: 5%;">
+        <div id = "technologies">
           <div class = "header2">Technologies</div>
           <p id = "techs"> HTML/CSS/Javascript &nbsp | &nbsp  React  &nbsp | &nbsp  Bootstrap  &nbsp | &nbsp  Django  &nbsp | &nbsp  Python  &nbsp | &nbsp  Java  &nbsp | &nbsp  PHP </p>
         </div> 
