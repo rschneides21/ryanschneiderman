@@ -170,7 +170,7 @@
     			</svg>
 			</div>
       <div id = "content">
-        <div id = "technologies">
+        <div id = "technologies" style = "padding-top: 5%;">
           <div class = "header2">Technologies</div>
           <p id = "techs"> HTML/CSS/Javascript &nbsp | &nbsp  React  &nbsp | &nbsp  Bootstrap  &nbsp | &nbsp  Django  &nbsp | &nbsp  Python  &nbsp | &nbsp  Java  &nbsp | &nbsp  PHP </p>
         </div> 
