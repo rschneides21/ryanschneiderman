@@ -200,7 +200,8 @@
 		</div>
 	</body>
 	<script>
-		$(window).on('load', function () {
+
+    function position_taper(){
       var sidebar_width = $("#sidebar").width();
       var sidebar_left = $("#sidebar").position().left;
       var sidebar_height = $("#sidebar").width();
@@ -209,6 +210,15 @@
       taper.css("border-width", "0 0 100vh 75px");
       console.log(taper.width());
       taper.css("left", sidebar_left + sidebar_width - 75);
+    }
+
+    $(window).on('resize', function {
+      position_taper();
+    });
+
+		$(window).on('load', function () {
+
+       position_taper();
        $("#example-imgs").append("<a href = 'http://iotd3-dev.us-east-1.elasticbeanstalk.com/'><img class = 'example-img' src = 'webdesign2.png'></a> <div class = 'caption'>Jeff Schneiderman Photography</div>");
     });
 	</script>	
