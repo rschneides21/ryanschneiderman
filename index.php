@@ -39,7 +39,7 @@
     max-width: 50%;
   }
   #header-line{
-    padding-top: 10px;
+    
   }
   #second-level{
     padding-top: 10px;
