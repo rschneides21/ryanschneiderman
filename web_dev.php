@@ -27,6 +27,7 @@
       #headers{
         position: fixed;
         width: 100%;
+        opacity: 1;
       }
 
       #sub-headers{
@@ -220,8 +221,8 @@
           var sidebar_height = $("#sidebar").width();
           var taper_width = sidebar_width / 2.5;
           var taper = $("#taper");
-          taper.css("border-width", "0 0 100vh " + (taper_width + 1)  + "px");
-          taper.css("left", sidebar_left + sidebar_width - taper_width);
+          taper.css("border-width", "0 0 100vh " + (taper_width + 2)  + "px");
+          taper.css("left", sidebar_left + sidebar_width - taper_width -1);
       }
 
     $(window).resize(function() {
