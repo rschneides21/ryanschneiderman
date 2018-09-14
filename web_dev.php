@@ -225,11 +225,12 @@
       }
 
     $(window).resize(function() {
+      content_padding();
       taper_sidebar();
     });
 
 		$(window).on('load', function () {
-
+      content_padding();
        taper_sidebar();
        $("#example-imgs").append("<a href = 'http://iotd3-dev.us-east-1.elasticbeanstalk.com/'><img class = 'example-img' src = 'webdesign2.png'></a> <div class = 'caption'>Jeff Schneiderman Photography</div>");
     });
