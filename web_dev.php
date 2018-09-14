@@ -27,7 +27,6 @@
       #headers{
         position: fixed;
         width: 100%;
-        top: 0;
       }
 
       #sub-headers{
@@ -210,6 +209,10 @@
 	</body>
 	<script>
 
+    function content_padding (){
+      var header_height = $("#headers").height();
+      $("#content").css("padding-top", header_height);
+    }
     function taper_sidebar(){
           var sidebar_width = $("#sidebar").width();
           var sidebar_left = $("#sidebar").position().left;
