@@ -27,8 +27,8 @@
       #headers{
         position: fixed;
         width: 100%;
-        background: rgba(0, 0, 0, 1);
-        z-index: 1;
+        top: 0;
+        background: rgba(0, 0, 0, 0);
       }
 
       #sub-headers{
