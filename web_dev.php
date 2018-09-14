@@ -58,7 +58,7 @@
   			font-size: 1.5vw;
         padding-left: 0;
         font-size: 2vw;
-        padding-top: 3%;
+        padding-top: 2%;
   		}
 
       .example-img{
