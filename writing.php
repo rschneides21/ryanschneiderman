@@ -189,6 +189,7 @@
 		
 		function position_taper(){
       		var sidebar_width = $("#sidebar").width();
+      		conosle.log(sidebar_width);
       		var sidebar_left = $("#sidebar").position().left;
       		var sidebar_height = $("#sidebar").width();
       		var taper = $("#taper");
