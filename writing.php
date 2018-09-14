@@ -196,7 +196,7 @@
       		taper.css("left", sidebar_left + sidebar_width - 75);
     	}
 
-    	$(window).on('resize', function {
+    	$(window).resize( function () {
       		position_taper();
     	});
 
