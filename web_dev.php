@@ -202,15 +202,14 @@
 	<script>
 
     function taper_sidebar(){
-      var sidebar_width = $("#sidebar").width();
-      var sidebar_left = $("#sidebar").position().left;
-      var sidebar_height = $("#sidebar").width();
-      var taper = $("#taper");
-
-      taper.css("border-width", "0 0 100vh 75px");
-      console.log(taper.width());
-      taper.css("left", sidebar_left + sidebar_width - 75);
-    }
+          var sidebar_width = $("#sidebar").width();
+          var sidebar_left = $("#sidebar").position().left;
+          var sidebar_height = $("#sidebar").width();
+          var taper_width = sidebar_width / 2.5;
+          var taper = $("#taper");
+          taper.css("border-width", "0 0 100vh " + taper_width + "px");
+          taper.css("left", sidebar_left + sidebar_width - taper_width);
+      }
 
     $(window).resize(function() {
       taper_sidebar();
