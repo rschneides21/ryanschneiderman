@@ -49,8 +49,8 @@
   		.header2{
         text-align: center;
   			font-size: 1.5vw;
-        padding-left: 7%;
-        text-decoration: underline;
+        padding-left: 5%;
+        font-size: 2vw;
   		}
 
       .example-img{
