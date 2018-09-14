@@ -211,6 +211,7 @@
 
     function content_padding (){
       var header_height = $("#headers").height();
+      console.log(header_height);
       $("#content").css("padding-top", header_height);
     }
     function taper_sidebar(){
