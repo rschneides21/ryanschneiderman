@@ -203,6 +203,11 @@
           taper.css("border-width", "0 0 100vh " + taper_width + "px");
           taper.css("left", sidebar_left + sidebar_width - taper_width + 1);
       }
+    $(window).resize(function() {
+      content_padding();
+      taper_sidebar();
+    });
+
 		$(window).on('load', function () {
       content_padding();
       taper_sidebar();

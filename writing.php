@@ -24,6 +24,13 @@
   			padding-top: 1%;
   		}
 
+  		#headers{
+        	position: fixed;
+        	width: 100%;
+        	top: 0;
+        	background: rgba(255, 255, 255, 1);
+      	}
+
   		#header-line{
   			padding-left: 16%;
   		}
@@ -168,7 +175,12 @@
 		</div>
 	</body>
 	<script>
-		
+		function content_padding (){
+      		var header_height = $("#headers").height();
+      		console.log(header_height);
+      		$("#content").css("padding-top", header_height);
+    	}
+
 		function taper_sidebar(){
       		var sidebar_width = $("#sidebar").width();
       		
@@ -182,11 +194,13 @@
     	}
 
     	$(window).resize( function () {
+    		content_padding();
       		taper_sidebar();
     	});
 
 
 		$(window).on('load', function () {
+			content_padding();
 			taper_sidebar();
  		});
 
