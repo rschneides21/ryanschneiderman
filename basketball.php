@@ -179,15 +179,18 @@
 		</div>
 	</body>
 	<script>
-		$(window).on('load', function () {
+    function taper_sidebar(){
       var sidebar_width = $("#sidebar").width();
       var sidebar_left = $("#sidebar").position().left;
       var sidebar_height = $("#sidebar").width();
       var taper = $("#taper");
 
       taper.css("border-width", "0 0 100vh 75px");
-          console.log(taper.width());
-          taper.css("left", sidebar_left + sidebar_width - 75);
+      console.log(taper.width());
+      taper.css("left", sidebar_left + sidebar_width - 75);
+    }
+		$(window).on('load', function () {
+      taper_sidebar();
     });
 	</script>	
 </html>

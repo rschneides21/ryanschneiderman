@@ -197,7 +197,7 @@
       		console.log(taper_width);
       		var taper = $("#taper");
       		taper.css("border-width", "0 0 100vh " + (taper_width + 2) + "px");
-      		taper.css("left", sidebar_left + sidebar_width - taper_width);
+      		taper.css("left", sidebar_left + sidebar_width - taper_width -1);
     	}
 
     	$(window).resize( function () {
